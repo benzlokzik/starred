@@ -10,6 +10,7 @@
 - [JavaScript](#javascript)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Lua](#lua)
+- [Others](#others)
 - [Python](#python)
 - [Rust](#rust)
 - [TypeScript](#typescript)
@@ -38,6 +39,10 @@
 ## Lua 
 
 - [kon3gor/NvimConfig](https://github.com/kon3gor/NvimConfig) - My nvim config
+
+## Others 
+
+- [tchapi/markdown-cheatsheet](https://github.com/tchapi/markdown-cheatsheet) - Markdown Cheatsheet for Github Readme.md
 
 ## Python 
 

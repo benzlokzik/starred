@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [ASL](#asl)
 - [C++](#c++)
 - [CSS](#css)
 - [JavaScript](#javascript)
@@ -15,6 +16,10 @@
 - [Rust](#rust)
 - [TypeScript](#typescript)
 - [V](#v)
+
+## ASL 
+
+- [edk2-porting/edk2-msm](https://github.com/edk2-porting/edk2-msm) - Broken edk2 port for Qualcomm platforms xD
 
 ## C++ 
 

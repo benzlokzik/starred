@@ -111,6 +111,7 @@
 
 ## markdown 
 
+- [tchapi/markdown-cheatsheet](https://github.com/tchapi/markdown-cheatsheet) - Markdown Cheatsheet for Github Readme.md
 - [miyakogi/m2r](https://github.com/miyakogi/m2r) - Markdown to reStructuredText converter
 
 ## open-source 

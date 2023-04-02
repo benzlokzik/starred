@@ -8,6 +8,7 @@
 - [ai](#ai)
 - [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
+- [blockchain](#blockchain)
 - [bot](#bot)
 - [chatgpt](#chatgpt)
 - [cli](#cli)
@@ -45,6 +46,10 @@
 ## artificial-intelligence 
 
 - [edtechre/pybroker](https://github.com/edtechre/pybroker) - Algorithmic Trading in Python with Machine Learning
+
+## blockchain 
+
+- [Winderton/xplatform](https://github.com/Winderton/xplatform) - Реализация фундаментальных проектов с курса по Computer Science
 
 ## bot 
 
@@ -138,6 +143,7 @@
 
 ## postgresql 
 
+- [Winderton/xplatform](https://github.com/Winderton/xplatform) - Реализация фундаментальных проектов с курса по Computer Science
 - [userver-framework/userver](https://github.com/userver-framework/userver) - The C++ Asynchronous Framework (beta)
 
 ## python 

@@ -13,6 +13,7 @@
 - [bot](#bot)
 - [chatgpt](#chatgpt)
 - [cli](#cli)
+- [code](#code)
 - [compiler](#compiler)
 - [cryptocurrency](#cryptocurrency)
 - [data-science](#data-science)
@@ -69,6 +70,10 @@
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [kk6/poetrify](https://github.com/kk6/poetrify) - Pipfile (or requirements.txt) to pyproject.toml for Poetry
 
+## code 
+
+- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
+
 ## compiler 
 
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
@@ -98,6 +103,7 @@
 
 ## hacktoberfest 
 
+- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [Str4ngeb0yz/DestructiveFarm](https://github.com/Str4ngeb0yz/DestructiveFarm) - 📢 🔒  Exploit manager for attack-defense CTF competitions
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [vlang/vinix](https://github.com/vlang/vinix) - Vinix is an effort to write a modern, fast, and useful operating system in the V programming language
@@ -153,6 +159,7 @@
 
 ## python 
 
+- [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
 - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸

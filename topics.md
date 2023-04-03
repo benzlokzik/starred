@@ -8,6 +8,7 @@
 - [ai](#ai)
 - [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
+- [awesome](#awesome)
 - [blockchain](#blockchain)
 - [bot](#bot)
 - [chatgpt](#chatgpt)
@@ -46,6 +47,10 @@
 ## artificial-intelligence 
 
 - [edtechre/pybroker](https://github.com/edtechre/pybroker) - Algorithmic Trading in Python with Machine Learning
+
+## awesome 
+
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 
 ## blockchain 
 
@@ -159,6 +164,7 @@
 
 ## rust 
 
+- [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 
 ## server 

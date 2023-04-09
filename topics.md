@@ -147,6 +147,7 @@
 
 ## others 
 
+- [aardappel/lobster](https://github.com/aardappel/lobster) - The Lobster Programming Language
 - [0niel/happy-new-day](https://github.com/0niel/happy-new-day) - с днем поздравляющих животных
 - [ClickHouse/NoiSQL](https://github.com/ClickHouse/NoiSQL) - NoiSQL — Generating Music With SQL Queries
 - [edk2-porting/edk2-msm](https://github.com/edk2-porting/edk2-msm) - Broken edk2 port for Qualcomm platforms xD

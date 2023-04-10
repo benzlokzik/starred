@@ -51,6 +51,7 @@
 
 ## Others 
 
+- [mirea-ninja/rtu-education-groups-code](https://github.com/mirea-ninja/rtu-education-groups-code) - Коды направления и названия групп РТУ МИРЭА
 - [tchapi/markdown-cheatsheet](https://github.com/tchapi/markdown-cheatsheet) - Markdown Cheatsheet for Github Readme.md
 
 ## PHP 

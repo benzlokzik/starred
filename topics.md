@@ -150,6 +150,7 @@
 
 ## others 
 
+- [mirea-ninja/rtu-education-groups-code](https://github.com/mirea-ninja/rtu-education-groups-code) - Коды направления и названия групп РТУ МИРЭА
 - [aardappel/lobster](https://github.com/aardappel/lobster) - The Lobster Programming Language
 - [0niel/happy-new-day](https://github.com/0niel/happy-new-day) - с днем поздравляющих животных
 - [ClickHouse/NoiSQL](https://github.com/ClickHouse/NoiSQL) - NoiSQL — Generating Music With SQL Queries

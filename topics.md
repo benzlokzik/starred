@@ -17,6 +17,7 @@
 - [compiler](#compiler)
 - [cryptocurrency](#cryptocurrency)
 - [data-science](#data-science)
+- [database](#database)
 - [django](#django)
 - [finance](#finance)
 - [framework](#framework)
@@ -27,6 +28,7 @@
 - [language](#language)
 - [machine-learning](#machine-learning)
 - [markdown](#markdown)
+- [nosql](#nosql)
 - [open-source](#open-source)
 - [operating-system](#operating-system)
 - [others](#others)
@@ -89,6 +91,10 @@
 
 - [edtechre/pybroker](https://github.com/edtechre/pybroker) - Algorithmic Trading in Python with Machine Learning
 
+## database 
+
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
+
 ## django 
 
 - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸
@@ -111,6 +117,7 @@
 
 ## hacktoberfest 
 
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [Str4ngeb0yz/DestructiveFarm](https://github.com/Str4ngeb0yz/DestructiveFarm) - 📢 🔒  Exploit manager for attack-defense CTF competitions
@@ -139,6 +146,10 @@
 - [trinib/trinib](https://github.com/trinib/trinib) - Don't just be a forker🔱...Hit that 𝗦𝗧𝗔𝗥 ⭐...........( ͡° ͜ʖ ͡°)-︻デ┳═ー - - - - - - - - - - - - - - -💥¦̵̱ ̵̱ ̵̱ ̵̱ ̵̱(̢ ̡͇̅└͇̅┘͇̅ (▤8כ−◦........A cool profile ℝ𝔼𝔸𝔻𝕄𝔼 markdown to sample and create your o
 - [tchapi/markdown-cheatsheet](https://github.com/tchapi/markdown-cheatsheet) - Markdown Cheatsheet for Github Readme.md
 - [miyakogi/m2r](https://github.com/miyakogi/m2r) - Markdown to reStructuredText converter
+
+## nosql 
+
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 
 ## open-source 
 
@@ -197,14 +208,17 @@
 
 ## serverless 
 
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 
 ## sql 
 
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [ytsaurus/ytsaurus](https://github.com/ytsaurus/ytsaurus) - YTsaurus is a scalable and fault-tolerant open-source big data platform.
 
 ## web 
 
+- [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [userver-framework/userver](https://github.com/userver-framework/userver) - The C++ Asynchronous Framework (beta)
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 

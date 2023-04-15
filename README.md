@@ -90,7 +90,7 @@
 
 ## TeX 
 
-- [mirea-ninja/xelatex-report](https://github.com/mirea-ninja/xelatex-report) - 
+- [mirea-ninja/xelatex-report](https://github.com/mirea-ninja/xelatex-report) - About Шаблон курсовой работы РТУ МИРЭА в Латехе
 
 ## TypeScript 
 

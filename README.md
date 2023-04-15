@@ -16,6 +16,7 @@
 - [Python](#python)
 - [Rust](#rust)
 - [SQL](#sql)
+- [TeX](#tex)
 - [TypeScript](#typescript)
 - [V](#v)
 
@@ -86,6 +87,10 @@
 ## SQL 
 
 - [ClickHouse/NoiSQL](https://github.com/ClickHouse/NoiSQL) - NoiSQL — Generating Music With SQL Queries
+
+## TeX 
+
+- [mirea-ninja/xelatex-report](https://github.com/mirea-ninja/xelatex-report) - 
 
 ## TypeScript 
 

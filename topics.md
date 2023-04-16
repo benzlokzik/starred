@@ -161,7 +161,8 @@
 
 ## others 
 
-- [mirea-ninja/xelatex-report](https://github.com/mirea-ninja/xelatex-report) - About Шаблон курсовой работы РТУ МИРЭА в Латехе
+- [cargo-quick/cargo-quick](https://github.com/cargo-quick/cargo-quick) - (currently vapourware) A cargo subcommand to quickly bootstrap your dependency tree on first build
+- [mirea-ninja/xelatex-report](https://github.com/mirea-ninja/xelatex-report) - Шаблон курсовой работы РТУ МИРЭА в Латехе
 - [mirea-ninja/rtu-education-groups-code](https://github.com/mirea-ninja/rtu-education-groups-code) - Коды направления и названия групп РТУ МИРЭА
 - [aardappel/lobster](https://github.com/aardappel/lobster) - The Lobster Programming Language
 - [0niel/happy-new-day](https://github.com/0niel/happy-new-day) - с днем поздравляющих животных

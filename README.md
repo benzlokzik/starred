@@ -78,6 +78,7 @@
 
 ## Rust 
 
+- [cargo-quick/cargo-quick](https://github.com/cargo-quick/cargo-quick) - (currently vapourware) A cargo subcommand to quickly bootstrap your dependency tree on first build
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
@@ -90,7 +91,7 @@
 
 ## TeX 
 
-- [mirea-ninja/xelatex-report](https://github.com/mirea-ninja/xelatex-report) - About Шаблон курсовой работы РТУ МИРЭА в Латехе
+- [mirea-ninja/xelatex-report](https://github.com/mirea-ninja/xelatex-report) - Шаблон курсовой работы РТУ МИРЭА в Латехе
 
 ## TypeScript 
 

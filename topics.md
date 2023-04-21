@@ -26,6 +26,7 @@
 - [http](#http)
 - [javascript](#javascript)
 - [language](#language)
+- [linux](#linux)
 - [machine-learning](#machine-learning)
 - [markdown](#markdown)
 - [nosql](#nosql)
@@ -40,6 +41,7 @@
 - [serverless](#serverless)
 - [sql](#sql)
 - [web](#web)
+- [windows](#windows)
 
 ## ai 
 
@@ -137,6 +139,10 @@
 
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 
+## linux 
+
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+
 ## machine-learning 
 
 - [edtechre/pybroker](https://github.com/edtechre/pybroker) - Algorithmic Trading in Python with Machine Learning
@@ -224,6 +230,10 @@
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [userver-framework/userver](https://github.com/userver-framework/userver) - The C++ Asynchronous Framework (beta)
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
+
+## windows 
+
+- [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 
 
 ## License

@@ -57,6 +57,7 @@
 
 ## Others 
 
+- [paulveillard/cybersecurity-dark-web](https://github.com/paulveillard/cybersecurity-dark-web) - A collection of awesome software, libraries, learning tutorials, documents, books & technical resources and cool stuff about dark web.
 - [mirea-ninja/rtu-education-groups-code](https://github.com/mirea-ninja/rtu-education-groups-code) - Коды направления и названия групп РТУ МИРЭА
 - [tchapi/markdown-cheatsheet](https://github.com/tchapi/markdown-cheatsheet) - Markdown Cheatsheet for Github Readme.md
 
@@ -84,6 +85,7 @@
 
 ## Rust 
 
+- [a16z/magi](https://github.com/a16z/magi) - A blazing fast OP Stack rollup client written in Rust
 - [cargo-quick/cargo-quick](https://github.com/cargo-quick/cargo-quick) - (currently vapourware) A cargo subcommand to quickly bootstrap your dependency tree on first build
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.

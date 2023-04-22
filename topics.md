@@ -167,6 +167,8 @@
 
 ## others 
 
+- [a16z/magi](https://github.com/a16z/magi) - A blazing fast OP Stack rollup client written in Rust
+- [paulveillard/cybersecurity-dark-web](https://github.com/paulveillard/cybersecurity-dark-web) - A collection of awesome software, libraries, learning tutorials, documents, books & technical resources and cool stuff about dark web.
 - [bureaucratic-labs/dostoevsky](https://github.com/bureaucratic-labs/dostoevsky) - Sentiment analysis library for russian language
 - [cargo-quick/cargo-quick](https://github.com/cargo-quick/cargo-quick) - (currently vapourware) A cargo subcommand to quickly bootstrap your dependency tree on first build
 - [mirea-ninja/xelatex-report](https://github.com/mirea-ninja/xelatex-report) - Шаблон курсовой работы РТУ МИРЭА в Латехе

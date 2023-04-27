@@ -16,6 +16,7 @@
 - [PHP](#php)
 - [Python](#python)
 - [Rust](#rust)
+- [SCSS](#scss)
 - [SQL](#sql)
 - [TeX](#tex)
 - [TypeScript](#typescript)
@@ -94,6 +95,10 @@
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [benzlokzik/image-base64-via-rust](https://github.com/benzlokzik/image-base64-via-rust) - Image's data to base64 converter, also can convert stdin data to unicode characters numbers
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
+
+## SCSS 
+
+- [Priler/jarvis](https://github.com/Priler/jarvis) - Voice Assistant made as an experiment using Silero TTS + Vosk STT + Picovoice Porcupine + ChatGPT.
 
 ## SQL 
 

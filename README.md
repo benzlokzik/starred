@@ -98,7 +98,7 @@
 
 ## SCSS 
 
-- [Priler/jarvis](https://github.com/Priler/jarvis) - Voice Assistant made as an experiment using Silero TTS + Vosk STT + Picovoice Porcupine + ChatGPT.
+- [Priler/jarvis](https://github.com/Priler/jarvis) - Voice assistant made as an experiment using neural networks for things like STT/TTS/Wake Word/NLU etc.
 
 ## SQL 
 

@@ -29,6 +29,7 @@
 - [linux](#linux)
 - [machine-learning](#machine-learning)
 - [markdown](#markdown)
+- [nextjs](#nextjs)
 - [nosql](#nosql)
 - [open-source](#open-source)
 - [operating-system](#operating-system)
@@ -37,15 +38,18 @@
 - [php](#php)
 - [postgresql](#postgresql)
 - [python](#python)
+- [react](#react)
 - [rust](#rust)
 - [server](#server)
 - [serverless](#serverless)
 - [sql](#sql)
+- [typescript](#typescript)
 - [web](#web)
 - [windows](#windows)
 
 ## ai 
 
+- [bitswired/fuseai](https://github.com/bitswired/fuseai) - Self-Hosted and Open-Source web app to interact with OpenAI APIs. Currently supports ChatGPT, but DALLE and Whisper support is coming.
 - [edtechre/pybroker](https://github.com/edtechre/pybroker) - Algorithmic Trading in Python with Machine Learning
 
 ## api 
@@ -154,6 +158,10 @@
 - [tchapi/markdown-cheatsheet](https://github.com/tchapi/markdown-cheatsheet) - Markdown Cheatsheet for Github Readme.md
 - [miyakogi/m2r](https://github.com/miyakogi/m2r) - Markdown to reStructuredText converter
 
+## nextjs 
+
+- [bitswired/fuseai](https://github.com/bitswired/fuseai) - Self-Hosted and Open-Source web app to interact with OpenAI APIs. Currently supports ChatGPT, but DALLE and Whisper support is coming.
+
 ## nosql 
 
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
@@ -215,6 +223,10 @@
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [mirea-ninja/mirea-teacher-schedule-bot](https://github.com/mirea-ninja/mirea-teacher-schedule-bot) - Telegram bot for getting teachers' schedules
 
+## react 
+
+- [bitswired/fuseai](https://github.com/bitswired/fuseai) - Self-Hosted and Open-Source web app to interact with OpenAI APIs. Currently supports ChatGPT, but DALLE and Whisper support is coming.
+
 ## rust 
 
 - [Priler/jarvis](https://github.com/Priler/jarvis) - Voice assistant made as an experiment using neural networks for things like STT/TTS/Wake Word/NLU etc.
@@ -234,6 +246,10 @@
 
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [ytsaurus/ytsaurus](https://github.com/ytsaurus/ytsaurus) - YTsaurus is a scalable and fault-tolerant open-source big data platform.
+
+## typescript 
+
+- [bitswired/fuseai](https://github.com/bitswired/fuseai) - Self-Hosted and Open-Source web app to interact with OpenAI APIs. Currently supports ChatGPT, but DALLE and Whisper support is coming.
 
 ## web 
 

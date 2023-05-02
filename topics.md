@@ -6,6 +6,7 @@
 ## Contents
 
 - [ai](#ai)
+- [angular](#angular)
 - [api](#api)
 - [artificial-intelligence](#artificial-intelligence)
 - [awesome](#awesome)
@@ -37,8 +38,10 @@
 - [penetration-testing](#penetration-testing)
 - [php](#php)
 - [postgresql](#postgresql)
+- [project-management](#project-management)
 - [python](#python)
 - [react](#react)
+- [ruby](#ruby)
 - [rust](#rust)
 - [server](#server)
 - [serverless](#serverless)
@@ -51,6 +54,10 @@
 
 - [bitswired/fuseai](https://github.com/bitswired/fuseai) - Self-Hosted and Open-Source web app to interact with OpenAI APIs. Currently supports ChatGPT, but DALLE and Whisper support is coming.
 - [edtechre/pybroker](https://github.com/edtechre/pybroker) - Algorithmic Trading in Python with Machine Learning
+
+## angular 
+
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 
 ## api 
 
@@ -124,6 +131,8 @@
 
 ## hacktoberfest 
 
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
@@ -211,6 +220,10 @@
 - [Winderton/xplatform](https://github.com/Winderton/xplatform) - Реализация фундаментальных проектов с курса по Computer Science
 - [userver-framework/userver](https://github.com/userver-framework/userver) - The C++ Asynchronous Framework (beta)
 
+## project-management 
+
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
+
 ## python 
 
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
@@ -227,8 +240,14 @@
 
 - [bitswired/fuseai](https://github.com/bitswired/fuseai) - Self-Hosted and Open-Source web app to interact with OpenAI APIs. Currently supports ChatGPT, but DALLE and Whisper support is coming.
 
+## ruby 
+
+- [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
+
 ## rust 
 
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
+- [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
 - [Priler/jarvis](https://github.com/Priler/jarvis) - Voice assistant made as an experiment using neural networks for things like STT/TTS/Wake Word/NLU etc.
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
@@ -253,6 +272,7 @@
 
 ## web 
 
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [userver-framework/userver](https://github.com/userver-framework/userver) - The C++ Asynchronous Framework (beta)
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.

@@ -217,6 +217,7 @@
 
 ## others 
 
+- [words/cuss](https://github.com/words/cuss) - 🤬 Map of profane words to a rating of sureness
 - [a-a-maly/kumir2](https://github.com/a-a-maly/kumir2) - New home for Kumir2.
 - [victor-yacovlev/kumir2](https://github.com/victor-yacovlev/kumir2) - Архив для истории. Я больше не занимаюсь системой "Кумир" и не афиллирован с НИИСИ. Актуальный репозиторий - здесь: https://github.com/a-a-maly/kumir2
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language

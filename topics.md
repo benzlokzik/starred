@@ -8,6 +8,7 @@
 - [ai](#ai)
 - [angular](#angular)
 - [api](#api)
+- [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
 - [awesome](#awesome)
 - [blockchain](#blockchain)
@@ -68,6 +69,10 @@
 ## api 
 
 - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸
+
+## arduino 
+
+- [spacehuhn/wifi_ducky](https://github.com/spacehuhn/wifi_ducky) - Upload, save and run keystroke injection payloads with an ESP8266 + ATMEGA32U4
 
 ## artificial-intelligence 
 

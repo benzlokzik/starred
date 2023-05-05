@@ -31,6 +31,7 @@
 
 ## C 
 
+- [spacehuhn/wifi_ducky](https://github.com/spacehuhn/wifi_ducky) - Upload, save and run keystroke injection payloads with an ESP8266 + ATMEGA32U4
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 
 ## C# # 

@@ -13,6 +13,7 @@
 - [DM](#dm)
 - [Go](#go)
 - [JavaScript](#javascript)
+- [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Lua](#lua)
 - [Others](#others)
@@ -31,6 +32,7 @@
 
 ## C 
 
+- [cnlohr/espusb](https://github.com/cnlohr/espusb) - Software-only ESP8266 USB Device
 - [spacehuhn/wifi_ducky](https://github.com/spacehuhn/wifi_ducky) - Upload, save and run keystroke injection payloads with an ESP8266 + ATMEGA32U4
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 
@@ -40,6 +42,8 @@
 
 ## C++ 
 
+- [Mak2k2/ESP8266-keyboard](https://github.com/Mak2k2/ESP8266-keyboard) - 
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
 - [a-a-maly/kumir2](https://github.com/a-a-maly/kumir2) - New home for Kumir2.
 - [victor-yacovlev/kumir2](https://github.com/victor-yacovlev/kumir2) - Архив для истории. Я больше не занимаюсь системой "Кумир" и не афиллирован с НИИСИ. Актуальный репозиторий - здесь: https://github.com/a-a-maly/kumir2
 - [aardappel/lobster](https://github.com/aardappel/lobster) - The Lobster Programming Language
@@ -65,6 +69,10 @@
 - [words/cuss](https://github.com/words/cuss) - 🤬 Map of profane words to a rating of sureness
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [migueravila/Bento](https://github.com/migueravila/Bento) - 🍱 The minimalist, elegant and hackable startpage.
+
+## Jinja 
+
+- [Mak2k2/Portfolio](https://github.com/Mak2k2/Portfolio) - 
 
 ## Jupyter Notebook 
 

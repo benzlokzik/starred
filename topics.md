@@ -6,6 +6,7 @@
 ## Contents
 
 - [ai](#ai)
+- [analytics](#analytics)
 - [angular](#angular)
 - [api](#api)
 - [arduino](#arduino)
@@ -61,6 +62,10 @@
 
 - [bitswired/fuseai](https://github.com/bitswired/fuseai) - Self-Hosted and Open-Source web app to interact with OpenAI APIs. Currently supports ChatGPT, but DALLE and Whisper support is coming.
 - [edtechre/pybroker](https://github.com/edtechre/pybroker) - Algorithmic Trading in Python with Machine Learning
+
+## analytics 
+
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
 
 ## angular 
 
@@ -169,6 +174,7 @@
 
 ## hacktoberfest 
 
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.
@@ -224,6 +230,9 @@
 
 ## others 
 
+- [cnlohr/espusb](https://github.com/cnlohr/espusb) - Software-only ESP8266 USB Device
+- [Mak2k2/ESP8266-keyboard](https://github.com/Mak2k2/ESP8266-keyboard) - 
+- [Mak2k2/Portfolio](https://github.com/Mak2k2/Portfolio) - 
 - [words/cuss](https://github.com/words/cuss) - 🤬 Map of profane words to a rating of sureness
 - [a-a-maly/kumir2](https://github.com/a-a-maly/kumir2) - New home for Kumir2.
 - [victor-yacovlev/kumir2](https://github.com/victor-yacovlev/kumir2) - Архив для истории. Я больше не занимаюсь системой "Кумир" и не афиллирован с НИИСИ. Актуальный репозиторий - здесь: https://github.com/a-a-maly/kumir2
@@ -306,6 +315,7 @@
 
 ## sql 
 
+- [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [ytsaurus/ytsaurus](https://github.com/ytsaurus/ytsaurus) - YTsaurus is a scalable and fault-tolerant open-source big data platform.
 

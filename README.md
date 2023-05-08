@@ -22,6 +22,7 @@
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SQL](#sql)
+- [Shell](#shell)
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [V](#v)
@@ -85,6 +86,7 @@
 
 ## Others 
 
+- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [ikbo0119/python-practice-2021](https://github.com/ikbo0119/python-practice-2021) - Python Programming Practice 2021
 - [ikbo0119/siaod-labs-2020](https://github.com/ikbo0119/siaod-labs-2020) - AOD subject (IKBO-01-19)
@@ -136,12 +138,17 @@
 
 - [ClickHouse/NoiSQL](https://github.com/ClickHouse/NoiSQL) - NoiSQL — Generating Music With SQL Queries
 
+## Shell 
+
+- [megabyte-labs/docker-devcontainer](https://github.com/megabyte-labs/docker-devcontainer) - 🚀 The Docker-based, DevContainer development environment for multi-language projects
+
 ## TeX 
 
 - [mirea-ninja/xelatex-report](https://github.com/mirea-ninja/xelatex-report) - Шаблон курсовой работы РТУ МИРЭА в Латехе
 
 ## TypeScript 
 
+- [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 - [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git 
 - [bitswired/fuseai](https://github.com/bitswired/fuseai) - Self-Hosted and Open-Source web app to interact with OpenAI APIs. Currently supports ChatGPT, but DALLE and Whisper support is coming.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React

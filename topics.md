@@ -22,6 +22,7 @@
 - [cryptocurrency](#cryptocurrency)
 - [data-science](#data-science)
 - [database](#database)
+- [deep-learning](#deep-learning)
 - [devops](#devops)
 - [discord](#discord)
 - [django](#django)
@@ -52,6 +53,7 @@
 - [project-management](#project-management)
 - [python](#python)
 - [python3](#python3)
+- [pytorch](#pytorch)
 - [react](#react)
 - [ruby](#ruby)
 - [rust](#rust)
@@ -137,6 +139,10 @@
 ## database 
 
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
+
+## deep-learning 
+
+- [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 
 ## devops 
 
@@ -230,6 +236,7 @@
 
 ## machine-learning 
 
+- [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [edtechre/pybroker](https://github.com/edtechre/pybroker) - Algorithmic Trading in Python with Machine Learning
 
 ## markdown 
@@ -317,6 +324,10 @@
 ## python3 
 
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
+
+## pytorch 
+
+- [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 
 ## react 
 

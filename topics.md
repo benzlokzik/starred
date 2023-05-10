@@ -23,6 +23,7 @@
 - [data-science](#data-science)
 - [database](#database)
 - [deep-learning](#deep-learning)
+- [deployment](#deployment)
 - [devops](#devops)
 - [discord](#discord)
 - [django](#django)
@@ -143,6 +144,10 @@
 ## deep-learning 
 
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run 100B+ language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
+
+## deployment 
+
+- [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) - :octocat: GitHub Action to deploy to GitHub Pages
 
 ## devops 
 

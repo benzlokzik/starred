@@ -49,6 +49,7 @@
 - [victor-yacovlev/kumir2](https://github.com/victor-yacovlev/kumir2) - Архив для истории. Я больше не занимаюсь системой "Кумир" и не афиллирован с НИИСИ. Актуальный репозиторий - здесь: https://github.com/a-a-maly/kumir2
 - [aardappel/lobster](https://github.com/aardappel/lobster) - The Lobster Programming Language
 - [Winderton/xplatform](https://github.com/Winderton/xplatform) - Реализация фундаментальных проектов с курса по Computer Science
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [ytsaurus/ytsaurus](https://github.com/ytsaurus/ytsaurus) - YTsaurus is a scalable and fault-tolerant open-source big data platform.
 - [userver-framework/userver](https://github.com/userver-framework/userver) - The C++ Asynchronous Framework (beta)
 - [MintyRoma/PP_MIREA](https://github.com/MintyRoma/PP_MIREA) - 
@@ -106,7 +107,6 @@
 - [trinib/trinib](https://github.com/trinib/trinib) - Don't just be a forker🔱...Hit that 𝗦𝗧𝗔𝗥 ⭐...........( ͡° ͜ʖ ͡°)-︻デ┳═ー - - - - - - - - - - - - - - -💥¦̵̱ ̵̱ ̵̱ ̵̱ ̵̱(̢ ̡͇̅└͇̅┘͇̅ (▤8כ−◦........A cool profile ℝ𝔼𝔸𝔻𝕄𝔼 markdown to sample and create your o
 - [0niel/happy-new-day](https://github.com/0niel/happy-new-day) - с днем поздравляющих животных
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [miyakogi/m2r](https://github.com/miyakogi/m2r) - Markdown to reStructuredText converter
 - [Str4ngeb0yz/DestructiveFarm](https://github.com/Str4ngeb0yz/DestructiveFarm) - 📢 🔒  Exploit manager for attack-defense CTF competitions
 - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸

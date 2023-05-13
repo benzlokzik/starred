@@ -43,6 +43,7 @@
 
 ## C++ 
 
+- [SpacehuhnTech/WiFiDuck](https://github.com/SpacehuhnTech/WiFiDuck) - Wireless keystroke injection attack platform
 - [Mak2k2/ESP8266-keyboard](https://github.com/Mak2k2/ESP8266-keyboard) - 
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
 - [a-a-maly/kumir2](https://github.com/a-a-maly/kumir2) - New home for Kumir2.

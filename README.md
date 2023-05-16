@@ -11,6 +11,7 @@
 - [C++](#c++)
 - [CSS](#css)
 - [DM](#dm)
+- [Dart](#dart)
 - [Go](#go)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
@@ -63,6 +64,10 @@
 ## DM 
 
 - [ChaoticOnyx/OnyxBay](https://github.com/ChaoticOnyx/OnyxBay) - Main repository with actual Space Station 13 sources. Branch of Baystation 12.
+
+## Dart 
+
+- [mirea-ninja/rtu-mirea-mobile](https://github.com/mirea-ninja/rtu-mirea-mobile) - A mobile application for the MIREA - Russian Technological University, which includes a schedule, news and many other functions
 
 ## Go 
 

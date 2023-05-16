@@ -7,6 +7,7 @@
 
 - [ai](#ai)
 - [analytics](#analytics)
+- [android](#android)
 - [angular](#angular)
 - [api](#api)
 - [arduino](#arduino)
@@ -20,6 +21,7 @@
 - [code](#code)
 - [compiler](#compiler)
 - [cryptocurrency](#cryptocurrency)
+- [dart](#dart)
 - [data-science](#data-science)
 - [database](#database)
 - [deep-learning](#deep-learning)
@@ -29,6 +31,7 @@
 - [django](#django)
 - [docker](#docker)
 - [finance](#finance)
+- [flutter](#flutter)
 - [framework](#framework)
 - [game](#game)
 - [gh-extension](#gh-extension)
@@ -38,6 +41,7 @@
 - [golang](#golang)
 - [hacktoberfest](#hacktoberfest)
 - [http](#http)
+- [ios](#ios)
 - [javascript](#javascript)
 - [language](#language)
 - [linux](#linux)
@@ -78,6 +82,10 @@
 ## analytics 
 
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a free analytics DBMS for big data
+
+## android 
+
+- [mirea-ninja/rtu-mirea-mobile](https://github.com/mirea-ninja/rtu-mirea-mobile) - A mobile application for the MIREA - Russian Technological University, which includes a schedule, news and many other functions
 
 ## angular 
 
@@ -136,6 +144,10 @@
 
 - [edtechre/pybroker](https://github.com/edtechre/pybroker) - Algorithmic Trading in Python with Machine Learning
 
+## dart 
+
+- [mirea-ninja/rtu-mirea-mobile](https://github.com/mirea-ninja/rtu-mirea-mobile) - A mobile application for the MIREA - Russian Technological University, which includes a schedule, news and many other functions
+
 ## data-science 
 
 - [edtechre/pybroker](https://github.com/edtechre/pybroker) - Algorithmic Trading in Python with Machine Learning
@@ -172,6 +184,10 @@
 ## finance 
 
 - [edtechre/pybroker](https://github.com/edtechre/pybroker) - Algorithmic Trading in Python with Machine Learning
+
+## flutter 
+
+- [mirea-ninja/rtu-mirea-mobile](https://github.com/mirea-ninja/rtu-mirea-mobile) - A mobile application for the MIREA - Russian Technological University, which includes a schedule, news and many other functions
 
 ## framework 
 
@@ -230,6 +246,10 @@
 ## http 
 
 - [userver-framework/userver](https://github.com/userver-framework/userver) - The C++ Asynchronous Framework (beta)
+
+## ios 
+
+- [mirea-ninja/rtu-mirea-mobile](https://github.com/mirea-ninja/rtu-mirea-mobile) - A mobile application for the MIREA - Russian Technological University, which includes a schedule, news and many other functions
 
 ## javascript 
 

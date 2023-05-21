@@ -52,6 +52,7 @@
 - [nosql](#nosql)
 - [open-source](#open-source)
 - [operating-system](#operating-system)
+- [osint](#osint)
 - [others](#others)
 - [penetration-testing](#penetration-testing)
 - [php](#php)
@@ -64,6 +65,7 @@
 - [rest-api](#rest-api)
 - [ruby](#ruby)
 - [rust](#rust)
+- [security](#security)
 - [server](#server)
 - [serverless](#serverless)
 - [software](#software)
@@ -295,6 +297,10 @@
 
 - [vlang/vinix](https://github.com/vlang/vinix) - Vinix is an effort to write a modern, fast, and useful operating system in the V programming language
 
+## osint 
+
+- [snooppr/snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT world)
+
 ## others 
 
 - [mirea-ninja/landing](https://github.com/mirea-ninja/landing) - 
@@ -389,6 +395,10 @@
 - [Priler/jarvis](https://github.com/Priler/jarvis) - Voice assistant made as an experiment using neural networks for things like STT/TTS/Wake Word/NLU etc.
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
+
+## security 
+
+- [snooppr/snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT world)
 
 ## server 
 

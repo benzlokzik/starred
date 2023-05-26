@@ -20,6 +20,7 @@
 - [Markdown](#markdown)
 - [Others](#others)
 - [PHP](#php)
+- [Pascal](#pascal)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -111,6 +112,10 @@
 ## PHP 
 
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+
+## Pascal 
+
+- [peazip/PeaZip](https://github.com/peazip/PeaZip) - Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ
 
 ## Python 
 

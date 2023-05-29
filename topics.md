@@ -12,8 +12,10 @@
 - [api](#api)
 - [arduino](#arduino)
 - [artificial-intelligence](#artificial-intelligence)
+- [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
+- [bitcoin](#bitcoin)
 - [blockchain](#blockchain)
 - [bot](#bot)
 - [chatgpt](#chatgpt)
@@ -21,6 +23,7 @@
 - [code](#code)
 - [compiler](#compiler)
 - [cryptocurrency](#cryptocurrency)
+- [css](#css)
 - [dart](#dart)
 - [data-science](#data-science)
 - [database](#database)
@@ -31,6 +34,7 @@
 - [django](#django)
 - [docker](#docker)
 - [finance](#finance)
+- [firefox](#firefox)
 - [flutter](#flutter)
 - [framework](#framework)
 - [game](#game)
@@ -54,6 +58,7 @@
 - [operating-system](#operating-system)
 - [osint](#osint)
 - [others](#others)
+- [p2p](#p2p)
 - [penetration-testing](#penetration-testing)
 - [php](#php)
 - [postgresql](#postgresql)
@@ -106,6 +111,10 @@
 
 - [edtechre/pybroker](https://github.com/edtechre/pybroker) - Algorithmic Trading in Python with Machine Learning
 
+## automation 
+
+- [EndBug/add-and-commit](https://github.com/EndBug/add-and-commit) - :octocat: Automatically commit changes made in your workflow run directly to your repo
+
 ## awesome 
 
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
@@ -115,6 +124,10 @@
 ## awesome-list 
 
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
+
+## bitcoin 
+
+- [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 
 ## blockchain 
 
@@ -144,7 +157,12 @@
 
 ## cryptocurrency 
 
+- [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 - [edtechre/pybroker](https://github.com/edtechre/pybroker) - Algorithmic Trading in Python with Machine Learning
+
+## css 
+
+- [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx) - Firefox Theme CSS to Opera GX Lovers
 
 ## dart 
 
@@ -187,6 +205,10 @@
 
 - [edtechre/pybroker](https://github.com/edtechre/pybroker) - Algorithmic Trading in Python with Machine Learning
 
+## firefox 
+
+- [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx) - Firefox Theme CSS to Opera GX Lovers
+
 ## flutter 
 
 - [mirea-ninja/rtu-mirea-mobile](https://github.com/mirea-ninja/rtu-mirea-mobile) - A mobile application for the MIREA - Russian Technological University, which includes a schedule, news and many other functions
@@ -207,11 +229,13 @@
 
 ## git 
 
+- [EndBug/add-and-commit](https://github.com/EndBug/add-and-commit) - :octocat: Automatically commit changes made in your workflow run directly to your repo
 - [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git 
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, includes Git hosting, code review, team collaboration, package registry and CI/CD
 
 ## github 
 
+- [EndBug/add-and-commit](https://github.com/EndBug/add-and-commit) - :octocat: Automatically commit changes made in your workflow run directly to your repo
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [megabyte-labs/docker-devcontainer](https://github.com/megabyte-labs/docker-devcontainer) - 🚀 The Docker-based, DevContainer development environment for multi-language projects
 - [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git 
@@ -229,6 +253,7 @@
 
 ## hacktoberfest 
 
+- [EndBug/add-and-commit](https://github.com/EndBug/add-and-commit) - :octocat: Automatically commit changes made in your workflow run directly to your repo
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [SpacehuhnTech/WiFiDuck](https://github.com/SpacehuhnTech/WiFiDuck) - Wireless keystroke injection attack platform
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
@@ -303,6 +328,7 @@
 
 ## others 
 
+- [mirea-ninja/map](https://github.com/mirea-ninja/map) - 
 - [peazip/PeaZip](https://github.com/peazip/PeaZip) - Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ
 - [mirea-ninja/landing](https://github.com/mirea-ninja/landing) - 
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
@@ -337,6 +363,10 @@
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [MintyRoma/PP_MIREA](https://github.com/MintyRoma/PP_MIREA) - 
 - [alexbers/exploit_farm](https://github.com/alexbers/exploit_farm) - The utility for CTF hacker competition for team hacking and flag submitting
+
+## p2p 
+
+- [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 
 ## penetration-testing 
 

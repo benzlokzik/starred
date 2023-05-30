@@ -51,6 +51,7 @@
 - [linux](#linux)
 - [machine-learning](#machine-learning)
 - [markdown](#markdown)
+- [mastodon](#mastodon)
 - [mysql](#mysql)
 - [nextjs](#nextjs)
 - [nosql](#nosql)
@@ -199,6 +200,7 @@
 
 ## docker 
 
+- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [megabyte-labs/docker-devcontainer](https://github.com/megabyte-labs/docker-devcontainer) - 🚀 The Docker-based, DevContainer development environment for multi-language projects
 
 ## finance 
@@ -301,6 +303,10 @@
 - [trinib/trinib](https://github.com/trinib/trinib) - Don't just be a forker🔱...Hit that 𝗦𝗧𝗔𝗥 ⭐...........( ͡° ͜ʖ ͡°)-︻デ┳═ー - - - - - - - - - - - - - - -💥¦̵̱ ̵̱ ̵̱ ̵̱ ̵̱(̢ ̡͇̅└͇̅┘͇̅ (▤8כ−◦........A cool profile ℝ𝔼𝔸𝔻𝕄𝔼 markdown to sample and create your o
 - [tchapi/markdown-cheatsheet](https://github.com/tchapi/markdown-cheatsheet) - Markdown Cheatsheet for Github Readme.md
 - [miyakogi/m2r](https://github.com/miyakogi/m2r) - Markdown to reStructuredText converter
+
+## mastodon 
+
+- [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 
 ## mysql 
 

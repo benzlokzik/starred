@@ -93,7 +93,7 @@
 
 ## android 
 
-- [mirea-ninja/rtu-mirea-mobile](https://github.com/mirea-ninja/rtu-mirea-mobile) - A mobile application for the MIREA - Russian Technological University, which includes a schedule, news and many other functions
+- [mirea-ninja/university-app](https://github.com/mirea-ninja/university-app) - A mobile application for the MIREA - Russian Technological University, which includes a schedule, news and many other functions
 
 ## angular 
 
@@ -167,7 +167,7 @@
 
 ## dart 
 
-- [mirea-ninja/rtu-mirea-mobile](https://github.com/mirea-ninja/rtu-mirea-mobile) - A mobile application for the MIREA - Russian Technological University, which includes a schedule, news and many other functions
+- [mirea-ninja/university-app](https://github.com/mirea-ninja/university-app) - A mobile application for the MIREA - Russian Technological University, which includes a schedule, news and many other functions
 
 ## data-science 
 
@@ -213,7 +213,7 @@
 
 ## flutter 
 
-- [mirea-ninja/rtu-mirea-mobile](https://github.com/mirea-ninja/rtu-mirea-mobile) - A mobile application for the MIREA - Russian Technological University, which includes a schedule, news and many other functions
+- [mirea-ninja/university-app](https://github.com/mirea-ninja/university-app) - A mobile application for the MIREA - Russian Technological University, which includes a schedule, news and many other functions
 
 ## framework 
 
@@ -278,7 +278,7 @@
 
 ## ios 
 
-- [mirea-ninja/rtu-mirea-mobile](https://github.com/mirea-ninja/rtu-mirea-mobile) - A mobile application for the MIREA - Russian Technological University, which includes a schedule, news and many other functions
+- [mirea-ninja/university-app](https://github.com/mirea-ninja/university-app) - A mobile application for the MIREA - Russian Technological University, which includes a schedule, news and many other functions
 
 ## javascript 
 

@@ -79,6 +79,7 @@
 
 ## JavaScript 
 
+- [SyntOwl/Owl-Assistant-for-Webinar](https://github.com/SyntOwl/Owl-Assistant-for-Webinar) - 
 - [googleworkspace/apps-script-samples](https://github.com/googleworkspace/apps-script-samples) - Apps Script samples for Google Workspace products.
 - [words/cuss](https://github.com/words/cuss) - 🤬 Map of profane words to a rating of sureness
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -121,6 +122,7 @@
 
 ## Python 
 
+- [antijob/antijob_bot](https://github.com/antijob/antijob_bot) - Телеграм-бот
 - [snooppr/snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT world)
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact privately with your documents using the power of GPT, 100% privately, no data leaks

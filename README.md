@@ -70,7 +70,7 @@
 
 ## Dart 
 
-- [mirea-ninja/rtu-mirea-mobile](https://github.com/mirea-ninja/rtu-mirea-mobile) - A mobile application for the MIREA - Russian Technological University, which includes a schedule, news and many other functions
+- [mirea-ninja/university-app](https://github.com/mirea-ninja/university-app) - A mobile application for the MIREA - Russian Technological University, which includes a schedule, news and many other functions
 
 ## Go 
 

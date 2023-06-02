@@ -334,6 +334,8 @@
 
 ## others 
 
+- [SyntOwl/Owl-Assistant-for-Webinar](https://github.com/SyntOwl/Owl-Assistant-for-Webinar) - 
+- [antijob/antijob_bot](https://github.com/antijob/antijob_bot) - Телеграм-бот
 - [mirea-ninja/map](https://github.com/mirea-ninja/map) - 
 - [peazip/PeaZip](https://github.com/peazip/PeaZip) - Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ
 - [mirea-ninja/landing](https://github.com/mirea-ninja/landing) - 

@@ -48,6 +48,7 @@
 - [ios](#ios)
 - [javascript](#javascript)
 - [language](#language)
+- [latex](#latex)
 - [linux](#linux)
 - [machine-learning](#machine-learning)
 - [markdown](#markdown)
@@ -136,7 +137,7 @@
 
 ## bot 
 
-- [mirea-ninja/mirea-teacher-schedule-bot](https://github.com/mirea-ninja/mirea-teacher-schedule-bot) - Telegram bot for getting teachers' schedules
+- [mirea-ninja/mirea-teacher-schedule-bot](https://github.com/mirea-ninja/mirea-teacher-schedule-bot) - Расписание преподавателей МИРЭА
 
 ## chatgpt 
 
@@ -289,6 +290,10 @@
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 
+## latex 
+
+- [mirea-ninja/Latex-Template-for-Report-Diploma-Thesis](https://github.com/mirea-ninja/Latex-Template-for-Report-Diploma-Thesis) - LaTeX шаблоны для написания отчетов/дипломов/курсовых работ
+
 ## linux 
 
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
@@ -404,7 +409,7 @@
 - [kk6/poetrify](https://github.com/kk6/poetrify) - Pipfile (or requirements.txt) to pyproject.toml for Poetry
 - [edtechre/pybroker](https://github.com/edtechre/pybroker) - Algorithmic Trading in Python with Machine Learning
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
-- [mirea-ninja/mirea-teacher-schedule-bot](https://github.com/mirea-ninja/mirea-teacher-schedule-bot) - Telegram bot for getting teachers' schedules
+- [mirea-ninja/mirea-teacher-schedule-bot](https://github.com/mirea-ninja/mirea-teacher-schedule-bot) - Расписание преподавателей МИРЭА
 
 ## python3 
 

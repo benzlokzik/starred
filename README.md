@@ -140,7 +140,7 @@
 - [edtechre/pybroker](https://github.com/edtechre/pybroker) - Algorithmic Trading in Python with Machine Learning
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [alexbers/exploit_farm](https://github.com/alexbers/exploit_farm) - The utility for CTF hacker competition for team hacking and flag submitting
-- [mirea-ninja/mirea-teacher-schedule-bot](https://github.com/mirea-ninja/mirea-teacher-schedule-bot) - Telegram bot for getting teachers' schedules
+- [mirea-ninja/mirea-teacher-schedule-bot](https://github.com/mirea-ninja/mirea-teacher-schedule-bot) - Расписание преподавателей МИРЭА
 
 ## Ruby 
 
@@ -171,6 +171,7 @@
 
 ## TeX 
 
+- [mirea-ninja/Latex-Template-for-Report-Diploma-Thesis](https://github.com/mirea-ninja/Latex-Template-for-Report-Diploma-Thesis) - LaTeX шаблоны для написания отчетов/дипломов/курсовых работ
 - [mirea-ninja/xelatex-report](https://github.com/mirea-ninja/xelatex-report) - Шаблон курсовой работы РТУ МИРЭА в Латехе
 
 ## TypeScript 

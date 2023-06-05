@@ -132,6 +132,7 @@
 
 ## Python 
 
+- [cairdcoinheringaahing/Bitwise-Fuckery](https://github.com/cairdcoinheringaahing/Bitwise-Fuckery) - Yet another Brainfuck derivative, but slightly more creative (JHT rating: 3-36)
 - [antijob/antijob_bot](https://github.com/antijob/antijob_bot) - Телеграм-бот
 - [snooppr/snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT world)
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models

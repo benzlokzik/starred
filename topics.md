@@ -357,6 +357,7 @@
 
 ## others 
 
+- [cairdcoinheringaahing/Bitwise-Fuckery](https://github.com/cairdcoinheringaahing/Bitwise-Fuckery) - Yet another Brainfuck derivative, but slightly more creative (JHT rating: 3-36)
 - [SyntOwl/Owl-Assistant-for-Webinar](https://github.com/SyntOwl/Owl-Assistant-for-Webinar) - 
 - [antijob/antijob_bot](https://github.com/antijob/antijob_bot) - Телеграм-бот
 - [mirea-ninja/map](https://github.com/mirea-ninja/map) - 

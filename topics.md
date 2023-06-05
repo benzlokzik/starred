@@ -18,10 +18,12 @@
 - [bitcoin](#bitcoin)
 - [blockchain](#blockchain)
 - [bot](#bot)
+- [c](#c)
 - [chatgpt](#chatgpt)
 - [cli](#cli)
 - [code](#code)
 - [compiler](#compiler)
+- [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
 - [css](#css)
 - [dart](#dart)
@@ -46,6 +48,7 @@
 - [hacktoberfest](#hacktoberfest)
 - [http](#http)
 - [ios](#ios)
+- [java](#java)
 - [javascript](#javascript)
 - [language](#language)
 - [latex](#latex)
@@ -61,6 +64,7 @@
 - [osint](#osint)
 - [others](#others)
 - [p2p](#p2p)
+- [package-manager](#package-manager)
 - [penetration-testing](#penetration-testing)
 - [php](#php)
 - [postgresql](#postgresql)
@@ -94,6 +98,7 @@
 
 ## android 
 
+- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [mirea-ninja/university-app](https://github.com/mirea-ninja/university-app) - A mobile application for the MIREA - Russian Technological University, which includes a schedule, news and many other functions
 
 ## angular 
@@ -139,6 +144,10 @@
 
 - [mirea-ninja/mirea-teacher-schedule-bot](https://github.com/mirea-ninja/mirea-teacher-schedule-bot) - Расписание преподавателей МИРЭА
 
+## c 
+
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
+
 ## chatgpt 
 
 - [futantan/OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
@@ -156,6 +165,10 @@
 
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
+
+## cpp 
+
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 
 ## cryptocurrency 
 
@@ -224,6 +237,7 @@
 
 ## game 
 
+- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [ChaoticOnyx/OnyxBay](https://github.com/ChaoticOnyx/OnyxBay) - Main repository with actual Space Station 13 sources. Branch of Baystation 12.
 
 ## gh-extension 
@@ -280,6 +294,10 @@
 ## ios 
 
 - [mirea-ninja/university-app](https://github.com/mirea-ninja/university-app) - A mobile application for the MIREA - Russian Technological University, which includes a schedule, news and many other functions
+
+## java 
+
+- [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 
 ## javascript 
 
@@ -380,6 +398,10 @@
 ## p2p 
 
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
+
+## package-manager 
+
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 
 ## penetration-testing 
 
@@ -484,6 +506,7 @@
 
 ## windows 
 
+- [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 
 

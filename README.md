@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [APL](#apl)
 - [ASL](#asl)
 - [C](#c)
 - [C#](#c#)
@@ -31,6 +32,10 @@
 - [TeX](#tex)
 - [TypeScript](#typescript)
 - [V](#v)
+
+## APL 
+
+- [vendethiel/trying.apl](https://github.com/vendethiel/trying.apl) - APL is the greatest language ever
 
 ## ASL 
 
@@ -133,6 +138,7 @@
 
 ## Python 
 
+- [Dyalog/dyalog-jupyter-kernel](https://github.com/Dyalog/dyalog-jupyter-kernel) - A Jupyter kernel for Dyalog APL
 - [cairdcoinheringaahing/Bitwise-Fuckery](https://github.com/cairdcoinheringaahing/Bitwise-Fuckery) - Yet another Brainfuck derivative, but slightly more creative (JHT rating: 3-36)
 - [antijob/antijob_bot](https://github.com/antijob/antijob_bot) - Телеграм-бот
 - [snooppr/snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT world)

@@ -167,6 +167,7 @@
 
 ## Rust 
 
+- [CyberSteve777/neuron](https://github.com/CyberSteve777/neuron) - 
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.

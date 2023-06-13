@@ -138,6 +138,8 @@
 
 ## Python 
 
+- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
+- [Prodovalec/vk_to_telegram_bio](https://github.com/Prodovalec/vk_to_telegram_bio) - 
 - [Dyalog/dyalog-jupyter-kernel](https://github.com/Dyalog/dyalog-jupyter-kernel) - A Jupyter kernel for Dyalog APL
 - [cairdcoinheringaahing/Bitwise-Fuckery](https://github.com/cairdcoinheringaahing/Bitwise-Fuckery) - Yet another Brainfuck derivative, but slightly more creative (JHT rating: 3-36)
 - [antijob/antijob_bot](https://github.com/antijob/antijob_bot) - Телеграм-бот
@@ -167,6 +169,7 @@
 
 ## Rust 
 
+- [pydantic/speedate](https://github.com/pydantic/speedate) - Fast and simple datetime, date, time and duration parsing for rust.
 - [CyberSteve777/neuron](https://github.com/CyberSteve777/neuron) - 
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps

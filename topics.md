@@ -67,6 +67,7 @@
 - [others](#others)
 - [p2p](#p2p)
 - [package-manager](#package-manager)
+- [parsing](#parsing)
 - [penetration-testing](#penetration-testing)
 - [php](#php)
 - [postgresql](#postgresql)
@@ -370,6 +371,7 @@
 
 ## others 
 
+- [Prodovalec/vk_to_telegram_bio](https://github.com/Prodovalec/vk_to_telegram_bio) - 
 - [CyberSteve777/neuron](https://github.com/CyberSteve777/neuron) - 
 - [Dyalog/dyalog-jupyter-kernel](https://github.com/Dyalog/dyalog-jupyter-kernel) - A Jupyter kernel for Dyalog APL
 - [vendethiel/trying.apl](https://github.com/vendethiel/trying.apl) - APL is the greatest language ever
@@ -420,6 +422,10 @@
 
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 
+## parsing 
+
+- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
+
 ## penetration-testing 
 
 - [paulveillard/cybersecurity-dark-web](https://github.com/paulveillard/cybersecurity-dark-web) - A collection of awesome software, libraries, learning tutorials, documents, books & technical resources and cool stuff about dark web.
@@ -440,6 +446,7 @@
 
 ## python 
 
+- [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
@@ -472,6 +479,7 @@
 
 ## rust 
 
+- [pydantic/speedate](https://github.com/pydantic/speedate) - Fast and simple datetime, date, time and duration parsing for rust.
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop applications with a web frontend.

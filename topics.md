@@ -371,6 +371,7 @@
 
 ## others 
 
+- [pywebio/PyWebIO](https://github.com/pywebio/PyWebIO) - Write interactive web app in script way.
 - [Prodovalec/vk_to_telegram_bio](https://github.com/Prodovalec/vk_to_telegram_bio) - 
 - [CyberSteve777/neuron](https://github.com/CyberSteve777/neuron) - 
 - [Dyalog/dyalog-jupyter-kernel](https://github.com/Dyalog/dyalog-jupyter-kernel) - A Jupyter kernel for Dyalog APL

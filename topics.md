@@ -60,6 +60,7 @@
 - [mastodon](#mastodon)
 - [mysql](#mysql)
 - [nextjs](#nextjs)
+- [nlp](#nlp)
 - [nosql](#nosql)
 - [open-source](#open-source)
 - [operating-system](#operating-system)
@@ -354,6 +355,10 @@
 ## nextjs 
 
 - [bitswired/fuseai](https://github.com/bitswired/fuseai) - Self-Hosted and Open-Source web app to interact with OpenAI APIs. Currently supports ChatGPT, but DALLE and Whisper support is coming.
+
+## nlp 
+
+- [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run large language models at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 
 ## nosql 
 

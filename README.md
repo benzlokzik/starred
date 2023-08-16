@@ -152,7 +152,7 @@
 ## Python 
 
 - [error1001es/teleghoul](https://github.com/error1001es/teleghoul) - Бот - Гуль для твоего телеграм аккаунта
-- [ennucore/clippy](https://github.com/ennucore/clippy) - AI programming assistant
+- [ennucore/clippinator](https://github.com/ennucore/clippinator) - AI programming assistant
 - [sijokun/async-fastapi-jwt-auth](https://github.com/sijokun/async-fastapi-jwt-auth) - FastAPI extension that provides JWT Auth support (secure, easy to use, and lightweight)
 - [Kludex/awesome-fastapi-projects](https://github.com/Kludex/awesome-fastapi-projects) - List of FastAPI projects! :sunglasses: :rocket:
 - [pywebio/PyWebIO](https://github.com/pywebio/PyWebIO) - Write interactive web app in script way.

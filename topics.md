@@ -224,7 +224,7 @@
 ## docker 
 
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
-- [megabyte-labs/docker-devcontainer](https://github.com/megabyte-labs/docker-devcontainer) - 🚀 The Docker-based, DevContainer development environment for multi-language projects
+- [ProfessorManhattan/docker-devcontainer](https://github.com/ProfessorManhattan/docker-devcontainer) - 🚀 The Docker-based, DevContainer development environment for multi-language projects
 
 ## education 
 
@@ -267,7 +267,7 @@
 
 - [EndBug/add-and-commit](https://github.com/EndBug/add-and-commit) - :octocat: Automatically commit changes made in your workflow run directly to your repo
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
-- [megabyte-labs/docker-devcontainer](https://github.com/megabyte-labs/docker-devcontainer) - 🚀 The Docker-based, DevContainer development environment for multi-language projects
+- [ProfessorManhattan/docker-devcontainer](https://github.com/ProfessorManhattan/docker-devcontainer) - 🚀 The Docker-based, DevContainer development environment for multi-language projects
 - [gitkraken/vscode-gitlens](https://github.com/gitkraken/vscode-gitlens) - Supercharge Git inside VS Code and unlock untapped knowledge within each repository — Visualize code authorship at a glance via Git blame annotations and CodeLens, seamlessly navigate and explore Git 
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 - [trinib/trinib](https://github.com/trinib/trinib) - Don't just be a forker🔱...Hit that 𝗦𝗧𝗔𝗥 ⭐...........( ͡° ͜ʖ ͡°)-︻デ┳═ー - - - - - - - - - - - - - - -💥¦̵̱ ̵̱ ̵̱ ̵̱ ̵̱(̢ ̡͇̅└͇̅┘͇̅ (▤8כ−◦........A cool profile ℝ𝔼𝔸𝔻𝕄𝔼 markdown to sample and create your o
@@ -391,6 +391,8 @@
 
 ## others 
 
+- [natasha/natasha-usage](https://github.com/natasha/natasha-usage) - 
+- [KurimuzonAkuma/pyrogram](https://github.com/KurimuzonAkuma/pyrogram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
 - [error1001es/teleghoul](https://github.com/error1001es/teleghoul) - Бот - Гуль для твоего телеграм аккаунта
 - [ennucore/clippinator](https://github.com/ennucore/clippinator) - AI programming assistant
 - [sijokun/async-fastapi-jwt-auth](https://github.com/sijokun/async-fastapi-jwt-auth) - FastAPI extension that provides JWT Auth support (secure, easy to use, and lightweight)
@@ -527,7 +529,7 @@
 
 ## software 
 
-- [megabyte-labs/docker-devcontainer](https://github.com/megabyte-labs/docker-devcontainer) - 🚀 The Docker-based, DevContainer development environment for multi-language projects
+- [ProfessorManhattan/docker-devcontainer](https://github.com/ProfessorManhattan/docker-devcontainer) - 🚀 The Docker-based, DevContainer development environment for multi-language projects
 
 ## sql 
 

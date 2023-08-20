@@ -152,6 +152,7 @@
 
 ## Python 
 
+- [natasha/slovnet](https://github.com/natasha/slovnet) - Deep Learning based NLP modeling for Russian language
 - [KurimuzonAkuma/pyrogram](https://github.com/KurimuzonAkuma/pyrogram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
 - [error1001es/teleghoul](https://github.com/error1001es/teleghoul) - Бот - Гуль для твоего телеграм аккаунта
 - [ennucore/clippinator](https://github.com/ennucore/clippinator) - AI programming assistant

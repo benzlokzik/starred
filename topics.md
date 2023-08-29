@@ -394,6 +394,7 @@
 
 ## others 
 
+- [opentffoundation/manifesto](https://github.com/opentffoundation/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
 - [natasha/natasha-usage](https://github.com/natasha/natasha-usage) - 
 - [KurimuzonAkuma/pyrogram](https://github.com/KurimuzonAkuma/pyrogram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
 - [error1001es/teleghoul](https://github.com/error1001es/teleghoul) - Бот - Гуль для твоего телеграм аккаунта

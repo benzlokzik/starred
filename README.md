@@ -221,7 +221,7 @@
 ## TypeScript 
 
 - [EndBug/add-and-commit](https://github.com/EndBug/add-and-commit) - :octocat: Automatically commit changes made in your workflow run directly to your repo
-- [mirea-ninja/map](https://github.com/mirea-ninja/map) - 
+- [mirea-ninja/map](https://github.com/mirea-ninja/map) - Интерактивная карта РТУ МИРЭА
 - [mirea-ninja/landing](https://github.com/mirea-ninja/landing) - 
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 - [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) - :octocat: GitHub Action to deploy to GitHub Pages

@@ -85,6 +85,8 @@
 
 ## Dart 
 
+- [abuanwar072/Flutter-responsive-email-ui---Mobile-Tablet-and-Web](https://github.com/abuanwar072/Flutter-responsive-email-ui---Mobile-Tablet-and-Web) - We redesign the outlook app also make it responsive so that you can run it everywhere on your phone, tab, or web.
+- [abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) - Responsive Admin Panel or Dashboard using Flutter
 - [mirea-ninja/university-app](https://github.com/mirea-ninja/university-app) - A mobile application for the MIREA - Russian Technological University, which includes a schedule, news and many other functions
 
 ## Go 
@@ -153,7 +155,7 @@
 
 ## Python 
 
-- [witelokk/md2gost](https://github.com/witelokk/md2gost) - Скрипт для генерации docx отчетов в соответствии с ГОСТ из markdown файла
+- [witelokk/md2gost](https://github.com/witelokk/md2gost) - Скрипт для генерации docx отчета в соответствии с ГОСТ из markdown файла
 - [natasha/slovnet](https://github.com/natasha/slovnet) - Deep Learning based NLP modeling for Russian language
 - [KurimuzonAkuma/pyrogram](https://github.com/KurimuzonAkuma/pyrogram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
 - [error1001es/teleghoul](https://github.com/error1001es/teleghoul) - Бот - Гуль для твоего телеграм аккаунта

@@ -98,6 +98,7 @@
 
 ## ai 
 
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [bitswired/fuseai](https://github.com/bitswired/fuseai) - Self-Hosted and Open-Source web app to interact with OpenAI APIs. Currently supports ChatGPT, but DALLE and Whisper support is coming.
 - [edtechre/pybroker](https://github.com/edtechre/pybroker) - Algorithmic Trading in Python with Machine Learning
 
@@ -342,6 +343,7 @@
 ## language 
 
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
 
 ## latex 
@@ -356,6 +358,7 @@
 
 - [natasha/slovnet](https://github.com/natasha/slovnet) - Deep Learning based NLP modeling for Russian language
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [edtechre/pybroker](https://github.com/edtechre/pybroker) - Algorithmic Trading in Python with Machine Learning
 
 ## markdown 
@@ -427,7 +430,6 @@
 - [words/cuss](https://github.com/words/cuss) - 🤬 Map of profane words to a rating of sureness
 - [a-a-maly/kumir2](https://github.com/a-a-maly/kumir2) - New home for Kumir2.
 - [victor-yacovlev/kumir2](https://github.com/victor-yacovlev/kumir2) - Архив для истории. Я больше не занимаюсь системой "Кумир" и не афиллирован с НИИСИ. Актуальный репозиторий - здесь: https://github.com/a-a-maly/kumir2
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [ikbo0119/python-practice-2021](https://github.com/ikbo0119/python-practice-2021) - Python Programming Practice 2021
 - [ikbo0119/siaod-labs-2020](https://github.com/ikbo0119/siaod-labs-2020) - AOD subject (IKBO-01-19)
 - [a16z/magi](https://github.com/a16z/magi) - A blazing fast OP Stack rollup client written in Rust

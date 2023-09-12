@@ -102,6 +102,7 @@
 
 ## Java 
 
+- [Aefyr/SAI](https://github.com/Aefyr/SAI) - Android split APKs installer
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 
 ## JavaScript 

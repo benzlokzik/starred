@@ -67,7 +67,7 @@
 - [Winderton/xplatform](https://github.com/Winderton/xplatform) - Реализация фундаментальных проектов с курса по Computer Science
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: an ecosystem of open-source chatbots trained on a massive collections of clean assistant data including code, stories and dialogue
 - [ytsaurus/ytsaurus](https://github.com/ytsaurus/ytsaurus) - YTsaurus is a scalable and fault-tolerant open-source big data platform.
-- [userver-framework/userver](https://github.com/userver-framework/userver) - The C++ Asynchronous Framework (beta)
+- [userver-framework/userver](https://github.com/userver-framework/userver) - The C++ Asynchronous Framework
 - [MintyRoma/PP_MIREA](https://github.com/MintyRoma/PP_MIREA) - 
 
 ## CMake 

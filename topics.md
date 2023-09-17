@@ -182,6 +182,7 @@
 
 ## cpp 
 
+- [ginomempin/sample-ci-cpp](https://github.com/ginomempin/sample-ci-cpp) - Sample project for setting-up Gitlab CI/CD with CMake, googletest, lcov for C++-based applications
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 
 ## cryptocurrency 

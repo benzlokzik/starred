@@ -59,6 +59,7 @@
 
 ## C++ 
 
+- [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights) - C++ Insights - See your source code with the eyes of a compiler
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [ginomempin/sample-ci-cpp](https://github.com/ginomempin/sample-ci-cpp) - Sample project for setting-up Gitlab CI/CD with CMake, googletest, lcov for C++-based applications
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
@@ -143,6 +144,7 @@
 
 ## Others 
 
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Kr4is/cpptools-extension-pack](https://github.com/Kr4is/cpptools-extension-pack) - Must have extensions for C++ development in Visual Studio Code.
 - [exercism/exercism](https://github.com/exercism/exercism) - Crowd-sourced code mentorship. Practice having thoughtful conversations about code.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books

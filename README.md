@@ -12,6 +12,7 @@
 - [C++](#c++)
 - [CMake](#cmake)
 - [CSS](#css)
+- [Cython](#cython)
 - [DM](#dm)
 - [Dart](#dart)
 - [Go](#go)
@@ -85,6 +86,10 @@
 
 - [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx) - Firefox Theme CSS to Opera GX Lovers
 - [DestructiveVoice/DestructiveFarm](https://github.com/DestructiveVoice/DestructiveFarm) - 📢 🔒  Exploit manager for attack-defense CTF competitions
+
+## Cython 
+
+- [enthought/pyql](https://github.com/enthought/pyql) - Cython QuantLib wrappers
 
 ## DM 
 

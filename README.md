@@ -45,6 +45,7 @@
 
 ## C 
 
+- [datttrian/cs50x](https://github.com/datttrian/cs50x) - CS50x 2023
 - [seL4/util_libs](https://github.com/seL4/util_libs) - 
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 - [earlephilhower/ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio) - Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32
@@ -238,6 +239,7 @@
 
 ## TypeScript 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [EndBug/add-and-commit](https://github.com/EndBug/add-and-commit) - :octocat: Automatically commit changes made in your workflow run directly to your repo
 - [mirea-ninja/map](https://github.com/mirea-ninja/map) - Интерактивная карта РТУ МИРЭА

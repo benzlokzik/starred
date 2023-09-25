@@ -68,6 +68,7 @@
 - [mysql](#mysql)
 - [nextjs](#nextjs)
 - [nlp](#nlp)
+- [node](#node)
 - [nosql](#nosql)
 - [open-source](#open-source)
 - [operating-system](#operating-system)
@@ -139,6 +140,7 @@
 
 ## automation 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [EndBug/add-and-commit](https://github.com/EndBug/add-and-commit) - :octocat: Automatically commit changes made in your workflow run directly to your repo
 
 ## awesome 
@@ -175,6 +177,7 @@
 
 ## cli 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [kk6/poetrify](https://github.com/kk6/poetrify) - Pipfile (or requirements.txt) to pyproject.toml for Poetry
 
@@ -239,6 +242,7 @@
 
 ## docker 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [ProfessorManhattan/docker-devcontainer](https://github.com/ProfessorManhattan/docker-devcontainer) - 🚀 The Docker-based, DevContainer development environment for multi-language projects
 
@@ -425,6 +429,10 @@
 - [natasha/slovnet](https://github.com/natasha/slovnet) - Deep Learning based NLP modeling for Russian language
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 
+## node 
+
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
+
 ## nosql 
 
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
@@ -444,6 +452,7 @@
 
 ## others 
 
+- [datttrian/cs50x](https://github.com/datttrian/cs50x) - CS50x 2023
 - [AppFlowy-IO/AppFlowy-Cloud](https://github.com/AppFlowy-IO/AppFlowy-Cloud) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [seL4/util_libs](https://github.com/seL4/util_libs) - 
 - [ProjectMile/Mile.Xaml](https://github.com/ProjectMile/Mile.Xaml) - The lightweight XAML Islands toolchain with the Windows 11 controls styles.
@@ -594,6 +603,7 @@
 
 ## self-hosted 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## server 
@@ -630,6 +640,7 @@
 
 ## typescript 
 
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [bitswired/fuseai](https://github.com/bitswired/fuseai) - Self-Hosted and Open-Source web app to interact with OpenAI APIs. Currently supports ChatGPT, but DALLE and Whisper support is coming.
 
 ## web 

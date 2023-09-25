@@ -452,6 +452,7 @@
 
 ## others 
 
+- [enthought/pyql](https://github.com/enthought/pyql) - Cython QuantLib wrappers
 - [datttrian/cs50x](https://github.com/datttrian/cs50x) - CS50x 2023
 - [AppFlowy-IO/AppFlowy-Cloud](https://github.com/AppFlowy-IO/AppFlowy-Cloud) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [seL4/util_libs](https://github.com/seL4/util_libs) - 

@@ -62,6 +62,7 @@
 
 ## C++ 
 
+- [douban/libmc](https://github.com/douban/libmc) - Fast and light-weight memcached client for C++ / #python / #golang #libmc
 - [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights) - C++ Insights - See your source code with the eyes of a compiler
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 - [ginomempin/sample-ci-cpp](https://github.com/ginomempin/sample-ci-cpp) - Sample project for setting-up Gitlab CI/CD with CMake, googletest, lcov for C++-based applications

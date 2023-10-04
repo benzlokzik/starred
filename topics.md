@@ -456,6 +456,7 @@
 
 ## others 
 
+- [sermakov/google-sheet-2-flutter](https://github.com/sermakov/google-sheet-2-flutter) - Fetch data from GoogleSheet to flutter app
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [enthought/pyql](https://github.com/enthought/pyql) - Cython QuantLib wrappers
 - [datttrian/cs50x](https://github.com/datttrian/cs50x) - CS50x 2023

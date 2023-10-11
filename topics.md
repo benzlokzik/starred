@@ -458,6 +458,7 @@
 
 ## others 
 
+- [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
 - [sermakov/google-sheet-2-flutter](https://github.com/sermakov/google-sheet-2-flutter) - Fetch data from GoogleSheet to flutter app
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [enthought/pyql](https://github.com/enthought/pyql) - Cython QuantLib wrappers

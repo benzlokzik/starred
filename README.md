@@ -202,7 +202,6 @@
 - [miyakogi/m2r](https://github.com/miyakogi/m2r) - Markdown to reStructuredText converter
 - [Str4ngeb0yz/DestructiveFarm](https://github.com/Str4ngeb0yz/DestructiveFarm) - 📢 🔒  Exploit manager for attack-defense CTF competitions
 - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸
-- [sijokun/StealingPy](https://github.com/sijokun/StealingPy) - This is a python program for stealing passwords and cookies.
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [kk6/poetrify](https://github.com/kk6/poetrify) - Pipfile (or requirements.txt) to pyproject.toml for Poetry
 - [edtechre/pybroker](https://github.com/edtechre/pybroker) - Algorithmic Trading in Python with Machine Learning

@@ -512,7 +512,6 @@
 - [DestructiveVoice/DestructiveFarm](https://github.com/DestructiveVoice/DestructiveFarm) - 📢 🔒  Exploit manager for attack-defense CTF competitions
 - [benzlokzik/image-base64-via-rust](https://github.com/benzlokzik/image-base64-via-rust) - Image's data to base64 converter, also can convert stdin data to unicode characters numbers
 - [kon3gor/NvimConfig](https://github.com/kon3gor/NvimConfig) - My nvim config
-- [sijokun/StealingPy](https://github.com/sijokun/StealingPy) - This is a python program for stealing passwords and cookies.
 - [akmand/datasets](https://github.com/akmand/datasets) - 
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [MintyRoma/PP_MIREA](https://github.com/MintyRoma/PP_MIREA) - 

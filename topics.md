@@ -304,6 +304,7 @@
 
 ## github 
 
+- [kiegroup/github-action-build-chain](https://github.com/kiegroup/github-action-build-chain) - 
 - [EndBug/add-and-commit](https://github.com/EndBug/add-and-commit) - :octocat: Automatically commit changes made in your workflow run directly to your repo
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
 - [ProfessorManhattan/docker-devcontainer](https://github.com/ProfessorManhattan/docker-devcontainer) - 🚀 The Docker-based, DevContainer development environment for multi-language projects
@@ -334,6 +335,7 @@
 
 ## hacktoberfest 
 
+- [kiegroup/github-action-build-chain](https://github.com/kiegroup/github-action-build-chain) - 
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
@@ -460,6 +462,7 @@
 
 ## others 
 
+- [google/re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
 - [sermakov/google-sheet-2-flutter](https://github.com/sermakov/google-sheet-2-flutter) - Fetch data from GoogleSheet to flutter app
 - [python/cpython](https://github.com/python/cpython) - The Python programming language

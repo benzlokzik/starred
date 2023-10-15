@@ -195,6 +195,7 @@
 
 ## cpp 
 
+- [Naios/idle](https://github.com/Naios/idle) - Idle is an asynchronous and hot-reloadable C++ dynamic component framework
 - [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights) - C++ Insights - See your source code with the eyes of a compiler
 - [ginomempin/sample-ci-cpp](https://github.com/ginomempin/sample-ci-cpp) - Sample project for setting-up Gitlab CI/CD with CMake, googletest, lcov for C++-based applications
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
@@ -270,6 +271,7 @@
 
 ## framework 
 
+- [Naios/idle](https://github.com/Naios/idle) - Idle is an asynchronous and hot-reloadable C++ dynamic component framework
 - [userver-framework/userver](https://github.com/userver-framework/userver) - Production-ready C++ Asynchronous Framework with rich functionality
 - [edtechre/pybroker](https://github.com/edtechre/pybroker) - Algorithmic Trading in Python with Machine Learning
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.

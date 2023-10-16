@@ -157,6 +157,7 @@
 
 ## Others 
 
+- [devcontainers/spec](https://github.com/devcontainers/spec) - Development Containers: Use a container as a full-featured development environment.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Kr4is/cpptools-extension-pack](https://github.com/Kr4is/cpptools-extension-pack) - Must have extensions for C++ development in Visual Studio Code.
 - [exercism/exercism](https://github.com/exercism/exercism) - Crowd-sourced code mentorship. Practice having thoughtful conversations about code.

@@ -108,6 +108,7 @@
 
 ## Go 
 
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
@@ -180,6 +181,7 @@
 
 ## Python 
 
+- [benzlokzik/vivid-frame](https://github.com/benzlokzik/vivid-frame) - Convert static images to dynamic videos with a vivid twist at the end – an inverted color frame.
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [kmhsonnenkind/cmake-cython-example](https://github.com/kmhsonnenkind/cmake-cython-example) - Example building native C library with Cython wrapper using CMake
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.

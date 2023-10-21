@@ -141,6 +141,7 @@
 
 ## automation 
 
+- [benzlokzik/md2gost-action](https://github.com/benzlokzik/md2gost-action) - Экшн для генерации .docx отчета в соответствии с ГОСТ из Markdown файла с использованием https://github.com/witelokk/md2gost/
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [EndBug/add-and-commit](https://github.com/EndBug/add-and-commit) - :octocat: Automatically commit changes made in your workflow run directly to your repo
 

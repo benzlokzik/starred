@@ -243,6 +243,7 @@
 
 ## Shell 
 
+- [benzlokzik/md2gost-action](https://github.com/benzlokzik/md2gost-action) - Экшн для генерации .docx отчета в соответствии с ГОСТ из Markdown файла с использованием https://github.com/witelokk/md2gost/
 - [gitattributes/gitattributes](https://github.com/gitattributes/gitattributes) - A collection of useful .gitattributes templates
 - [apache/arrow-ballista-python](https://github.com/apache/arrow-ballista-python) - Apache Arrow Ballista Python bindings
 - [ProfessorManhattan/docker-devcontainer](https://github.com/ProfessorManhattan/docker-devcontainer) - 🚀 The Docker-based, DevContainer development environment for multi-language projects

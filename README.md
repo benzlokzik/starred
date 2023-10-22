@@ -181,6 +181,7 @@
 
 ## Python 
 
+- [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 - [benzlokzik/vivid-frame](https://github.com/benzlokzik/vivid-frame) - Convert static images to dynamic videos with a vivid twist at the end – an inverted color frame.
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [kmhsonnenkind/cmake-cython-example](https://github.com/kmhsonnenkind/cmake-cython-example) - Example building native C library with Cython wrapper using CMake
@@ -254,6 +255,7 @@
 
 ## TypeScript 
 
+- [errata-ai/vale-action](https://github.com/errata-ai/vale-action) - :octocat: The official GitHub Action for Vale -- install, manage, and run Vale with ease.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [kiegroup/github-action-build-chain](https://github.com/kiegroup/github-action-build-chain) - 
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif

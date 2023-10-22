@@ -71,6 +71,7 @@
 - [nlp](#nlp)
 - [node](#node)
 - [nosql](#nosql)
+- [numpy](#numpy)
 - [open-source](#open-source)
 - [operating-system](#operating-system)
 - [osint](#osint)
@@ -391,6 +392,7 @@
 
 ## json 
 
+- [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 
 ## kubernetes 
@@ -456,6 +458,10 @@
 
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 
+## numpy 
+
+- [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
+
 ## open-source 
 
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
@@ -471,6 +477,7 @@
 
 ## others 
 
+- [errata-ai/vale-action](https://github.com/errata-ai/vale-action) - :octocat: The official GitHub Action for Vale -- install, manage, and run Vale with ease.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [benzlokzik/vivid-frame](https://github.com/benzlokzik/vivid-frame) - Convert static images to dynamic videos with a vivid twist at the end – an inverted color frame.
 - [devcontainers/spec](https://github.com/devcontainers/spec) - Development Containers: Use a container as a full-featured development environment.
@@ -527,7 +534,6 @@
 - [edk2-porting/edk2-msm](https://github.com/edk2-porting/edk2-msm) - Broken edk2 port for Qualcomm platforms xD
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
 - [DestructiveVoice/DestructiveFarm](https://github.com/DestructiveVoice/DestructiveFarm) - 📢 🔒  Exploit manager for attack-defense CTF competitions
-- [benzlokzik/image-base64-via-rust](https://github.com/benzlokzik/image-base64-via-rust) - Image's data to base64 converter, also can convert stdin data to unicode characters numbers
 - [kon3gor/NvimConfig](https://github.com/kon3gor/NvimConfig) - My nvim config
 - [akmand/datasets](https://github.com/akmand/datasets) - 
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
@@ -566,6 +572,7 @@
 
 ## python 
 
+- [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 - [douban/libmc](https://github.com/douban/libmc) - Fast and light-weight memcached client for C++ / #python / #golang #libmc
 - [kmhsonnenkind/cmake-cython-example](https://github.com/kmhsonnenkind/cmake-cython-example) - Example building native C library with Cython wrapper using CMake
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
@@ -575,6 +582,7 @@
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
+- [benzlokzik/image-base64-via-rust](https://github.com/benzlokzik/image-base64-via-rust) - Image's data to base64 converter, also can convert stdin data to unicode characters numbers
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
 - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
@@ -586,6 +594,7 @@
 ## python3 
 
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
+- [benzlokzik/image-base64-via-rust](https://github.com/benzlokzik/image-base64-via-rust) - Image's data to base64 converter, also can convert stdin data to unicode characters numbers
 
 ## pytorch 
 
@@ -615,6 +624,7 @@
 
 ## rust 
 
+- [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 - [AleoHQ/snarkOS](https://github.com/AleoHQ/snarkOS) - A Decentralized Operating System for ZK Applications
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [apache/arrow-ballista-python](https://github.com/apache/arrow-ballista-python) - Apache Arrow Ballista Python bindings
@@ -625,6 +635,7 @@
 - [Priler/jarvis](https://github.com/Priler/jarvis) - Voice assistant made as an experiment using neural networks for things like STT/TTS/Wake Word/NLU etc.
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
+- [benzlokzik/image-base64-via-rust](https://github.com/benzlokzik/image-base64-via-rust) - Image's data to base64 converter, also can convert stdin data to unicode characters numbers
 
 ## security 
 

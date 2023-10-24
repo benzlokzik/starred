@@ -477,6 +477,7 @@
 
 ## others 
 
+- [027xiguapi/pear-rec](https://github.com/027xiguapi/pear-rec) - pear-rec is a screenshot, screen recording, audio recording, and video recording software based on Electron
 - [errata-ai/vale-action](https://github.com/errata-ai/vale-action) - :octocat: The official GitHub Action for Vale -- install, manage, and run Vale with ease.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [benzlokzik/vivid-frame](https://github.com/benzlokzik/vivid-frame) - Convert static images to dynamic videos with a vivid twist at the end – an inverted color frame.

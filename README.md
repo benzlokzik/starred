@@ -192,7 +192,6 @@
 - [error1001es/teleghoul](https://github.com/error1001es/teleghoul) - Бот - Гуль для твоего телеграм аккаунта
 - [ennucore/clippinator](https://github.com/ennucore/clippinator) - AI programming assistant
 - [sijokun/async-fastapi-jwt-auth](https://github.com/sijokun/async-fastapi-jwt-auth) - FastAPI extension that provides JWT Auth support (secure, easy to use, and lightweight)
-- [Kludex/awesome-fastapi-projects](https://github.com/Kludex/awesome-fastapi-projects) - List of FastAPI projects! :sunglasses: :rocket:
 - [pywebio/PyWebIO](https://github.com/pywebio/PyWebIO) - Write interactive web app in script way.
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [Dyalog/dyalog-jupyter-kernel](https://github.com/Dyalog/dyalog-jupyter-kernel) - A Jupyter kernel for Dyalog APL
@@ -262,6 +261,7 @@
 - [Platane/snk](https://github.com/Platane/snk) - 🟩⬜ Generates a snake game from a github user contributions graph and output a screen capture as animated svg or gif
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
+- [Kludex/awesome-fastapi-projects](https://github.com/Kludex/awesome-fastapi-projects) - List of FastAPI projects! :sunglasses: :rocket:
 - [EndBug/add-and-commit](https://github.com/EndBug/add-and-commit) - :octocat: Automatically commit changes made in your workflow run directly to your repo
 - [mirea-ninja/map](https://github.com/mirea-ninja/map) - Интерактивная карта РТУ МИРЭА
 - [mirea-ninja/landing](https://github.com/mirea-ninja/landing) - 

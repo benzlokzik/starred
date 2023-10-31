@@ -142,6 +142,7 @@
 ## Jupyter Notebook 
 
 - [natasha/natasha-usage](https://github.com/natasha/natasha-usage) - 
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [akmand/datasets](https://github.com/akmand/datasets) - 
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 
@@ -165,7 +166,6 @@
 - [exercism/exercism](https://github.com/exercism/exercism) - Crowd-sourced code mentorship. Practice having thoughtful conversations about code.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [ikbo0119/python-practice-2021](https://github.com/ikbo0119/python-practice-2021) - Python Programming Practice 2021
 - [ikbo0119/siaod-labs-2020](https://github.com/ikbo0119/siaod-labs-2020) - AOD subject (IKBO-01-19)
 - [paulveillard/cybersecurity-dark-web](https://github.com/paulveillard/cybersecurity-dark-web) - A collection of awesome software, libraries, learning tutorials, documents, books & technical resources and cool stuff about dark web.

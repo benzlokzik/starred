@@ -87,7 +87,7 @@
 
 ## CSS 
 
-- [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx) - Firefox Theme CSS to Opera GX Lovers
+- [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx) - Firefox Theme CSS to Opera GX Skin Lovers
 - [DestructiveVoice/DestructiveFarm](https://github.com/DestructiveVoice/DestructiveFarm) - 📢 🔒  Exploit manager for attack-defense CTF competitions
 
 ## Cython 

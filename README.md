@@ -182,6 +182,7 @@
 
 ## Python 
 
+- [souravrs999/FaucetCryptoBot](https://github.com/souravrs999/FaucetCryptoBot) - A bot for FaucetCrypto a cryptocurrency faucet. The bot can currently claim PTC ads, main reward and all the shortlinks except exe.io and fc.lc.
 - [amr3k/oiwa](https://github.com/amr3k/oiwa) - A simple Telegram bot that converts a phone number to a direct whatsapp chat link
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [beanboi7/yomomma-apiv2](https://github.com/beanboi7/yomomma-apiv2) - REST-API using FastAPI for Python that gives a 'yo momma' joke

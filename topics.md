@@ -485,6 +485,7 @@
 
 ## others 
 
+- [silkenweb/silkenweb](https://github.com/silkenweb/silkenweb) - A library for writing reactive single page web apps
 - [HoloISO/holoiso](https://github.com/HoloISO/holoiso) - SteamOS 3 (Holo) archiso configuration
 - [team113/messenger](https://github.com/team113/messenger) - Open-source front-end part of messenger by team113
 - [1pt-co/api](https://github.com/1pt-co/api) - 

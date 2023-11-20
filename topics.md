@@ -493,6 +493,7 @@
 
 ## others 
 
+- [userbotku/FastPyro-Userbot](https://github.com/userbotku/FastPyro-Userbot) - 
 - [ginkage/FlippAirMouse](https://github.com/ginkage/FlippAirMouse) - Air Mouse for Flipper
 - [silkenweb/silkenweb](https://github.com/silkenweb/silkenweb) - A library for writing reactive single page web apps
 - [HoloISO/holoiso](https://github.com/HoloISO/holoiso) - SteamOS 3 (Holo) archiso configuration

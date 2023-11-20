@@ -46,6 +46,7 @@
 
 ## C 
 
+- [ginkage/FlippAirMouse](https://github.com/ginkage/FlippAirMouse) - Air Mouse for Flipper
 - [datttrian/cs50x](https://github.com/datttrian/cs50x) - CS50x 2023
 - [seL4/util_libs](https://github.com/seL4/util_libs) - 
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
@@ -79,7 +80,6 @@
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
 - [ytsaurus/ytsaurus](https://github.com/ytsaurus/ytsaurus) - YTsaurus is a scalable and fault-tolerant open-source big data platform.
 - [userver-framework/userver](https://github.com/userver-framework/userver) - Production-ready C++ Asynchronous Framework with rich functionality
-- [MintyRoma/PP_MIREA](https://github.com/MintyRoma/PP_MIREA) - 
 
 ## CMake 
 

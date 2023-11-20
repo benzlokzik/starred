@@ -493,6 +493,7 @@
 
 ## others 
 
+- [ginkage/FlippAirMouse](https://github.com/ginkage/FlippAirMouse) - Air Mouse for Flipper
 - [silkenweb/silkenweb](https://github.com/silkenweb/silkenweb) - A library for writing reactive single page web apps
 - [HoloISO/holoiso](https://github.com/HoloISO/holoiso) - SteamOS 3 (Holo) archiso configuration
 - [team113/messenger](https://github.com/team113/messenger) - Open-source front-end part of messenger by team113
@@ -558,7 +559,6 @@
 - [kon3gor/NvimConfig](https://github.com/kon3gor/NvimConfig) - My nvim config
 - [akmand/datasets](https://github.com/akmand/datasets) - 
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
-- [MintyRoma/PP_MIREA](https://github.com/MintyRoma/PP_MIREA) - 
 - [alexbers/exploit_farm](https://github.com/alexbers/exploit_farm) - The utility for CTF hacker competition for team hacking and flag submitting
 
 ## p2p 

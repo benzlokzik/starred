@@ -46,6 +46,7 @@
 
 ## C 
 
+- [extremecodetv/ExtremeCodeOS](https://github.com/extremecodetv/ExtremeCodeOS) - New gen. Linux
 - [ginkage/FlippAirMouse](https://github.com/ginkage/FlippAirMouse) - Air Mouse for Flipper
 - [datttrian/cs50x](https://github.com/datttrian/cs50x) - CS50x 2023
 - [seL4/util_libs](https://github.com/seL4/util_libs) - 

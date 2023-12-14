@@ -53,6 +53,7 @@
 - [golang](#golang)
 - [graphql](#graphql)
 - [hacktoberfest](#hacktoberfest)
+- [haskell](#haskell)
 - [http](#http)
 - [ios](#ios)
 - [iot](#iot)
@@ -389,6 +390,10 @@
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [vlang/vinix](https://github.com/vlang/vinix) - Vinix is an effort to write a modern, fast, and useful operating system in the V programming language
 
+## haskell 
+
+- [lierdakil/pandoc-crossref](https://github.com/lierdakil/pandoc-crossref) - Pandoc filter for cross-references
+
 ## http 
 
 - [userver-framework/userver](https://github.com/userver-framework/userver) - Production-ready C++ Asynchronous Framework with rich functionality
@@ -505,6 +510,7 @@
 
 ## others 
 
+- [flipperzero-rs/flipperzero-template](https://github.com/flipperzero-rs/flipperzero-template) - A template for starting a flipperzero-rs project for the Flipper Zero🐬
 - [GarrettGunnell/AcerolaFX](https://github.com/GarrettGunnell/AcerolaFX) - A suite of GShade shaders for Final Fantasy XIV
 - [philipl/pifs](https://github.com/philipl/pifs) - πfs - the data-free filesystem!
 - [benzlokzik/md2gost](https://github.com/benzlokzik/md2gost) - Скрипт для генерации docx отчетов в соответствии с ГОСТ из markdown файла

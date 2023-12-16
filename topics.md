@@ -510,6 +510,7 @@
 
 ## others 
 
+- [LTVA1/flipper-zero-video-player](https://github.com/LTVA1/flipper-zero-video-player) - An application for playing videos (with sound) on Flipper Zero.
 - [flipperzero-rs/flipperzero-template](https://github.com/flipperzero-rs/flipperzero-template) - A template for starting a flipperzero-rs project for the Flipper Zero🐬
 - [GarrettGunnell/AcerolaFX](https://github.com/GarrettGunnell/AcerolaFX) - A suite of GShade shaders for Final Fantasy XIV
 - [philipl/pifs](https://github.com/philipl/pifs) - πfs - the data-free filesystem!
@@ -621,6 +622,7 @@
 
 ## python 
 
+- [C4T-BuT-S4D/S4DFarm](https://github.com/C4T-BuT-S4D/S4DFarm) - Attack & Defense CTF Farm based on DestructiveFarm
 - [souravrs999/FaucetCryptoBot](https://github.com/souravrs999/FaucetCryptoBot) - A bot for FaucetCrypto a cryptocurrency faucet. The bot can currently claim PTC ads, main reward and all the shortlinks except exe.io and fc.lc.
 - [amr3k/oiwa](https://github.com/amr3k/oiwa) - A simple Telegram bot that converts a phone number to a direct whatsapp chat link
 - [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy

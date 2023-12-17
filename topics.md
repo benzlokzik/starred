@@ -513,6 +513,7 @@
 
 ## others 
 
+- [xMasterX/all-the-plugins](https://github.com/xMasterX/all-the-plugins) - Big plugins pack built for latest flipper firmware
 - [wetox-team/flipperzero-goodies](https://github.com/wetox-team/flipperzero-goodies) - flipper zero goodies [intercom_keys][scripts]
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [LTVA1/flipper-zero-video-player](https://github.com/LTVA1/flipper-zero-video-player) - An application for playing videos (with sound) on Flipper Zero.

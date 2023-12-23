@@ -107,6 +107,7 @@
 - [telegram](#telegram)
 - [termux](#termux)
 - [typescript](#typescript)
+- [vue](#vue)
 - [web](#web)
 - [windows](#windows)
 
@@ -754,6 +755,10 @@
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [bitswired/fuseai](https://github.com/bitswired/fuseai) - Self-Hosted and Open-Source web app to interact with OpenAI APIs. Currently supports ChatGPT, but DALLE and Whisper support is coming.
+
+## vue 
+
+- [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 
 ## web 
 

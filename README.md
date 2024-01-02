@@ -55,7 +55,7 @@
 - [philipl/pifs](https://github.com/philipl/pifs) - πfs - the data-free filesystem!
 - [extremecodetv/ExtremeCodeOS](https://github.com/extremecodetv/ExtremeCodeOS) - New gen. Linux
 - [ginkage/FlippAirMouse](https://github.com/ginkage/FlippAirMouse) - Air Mouse for Flipper
-- [datttrian/cs50x](https://github.com/datttrian/cs50x) - CS50x 2023
+- [datttrian/cs50x](https://github.com/datttrian/cs50x) - 
 - [seL4/util_libs](https://github.com/seL4/util_libs) - 
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 - [earlephilhower/ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio) - Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32

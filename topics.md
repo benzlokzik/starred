@@ -64,6 +64,7 @@
 - [language](#language)
 - [latex](#latex)
 - [linux](#linux)
+- [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
@@ -447,6 +448,10 @@
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 
+## mac 
+
+- [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
+
 ## machine-learning 
 
 - [natasha/slovnet](https://github.com/natasha/slovnet) - Deep Learning based NLP modeling for Russian language
@@ -706,6 +711,7 @@
 
 ## security 
 
+- [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
 - [snooppr/snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT world)
 
 ## self-hosted 

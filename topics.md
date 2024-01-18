@@ -40,6 +40,7 @@
 - [finance](#finance)
 - [firefox](#firefox)
 - [flutter](#flutter)
+- [flutter-apps](#flutter-apps)
 - [framework](#framework)
 - [game](#game)
 - [game-development](#game-development)
@@ -292,6 +293,11 @@
 - [abuanwar072/Flutter-responsive-email-ui---Mobile-Tablet-and-Web](https://github.com/abuanwar072/Flutter-responsive-email-ui---Mobile-Tablet-and-Web) - We redesign the outlook app also make it responsive so that you can run it everywhere on your phone, tab, or web.
 - [abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) - Responsive Admin Panel or Dashboard using Flutter
 - [0niel/university-app](https://github.com/0niel/university-app) - A mobile application for the MIREA - Russian Technological University, which includes a schedule, news and many other functions
+
+## flutter-apps 
+
+- [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 
 ## framework 
 

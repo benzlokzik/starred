@@ -112,6 +112,7 @@
 - [typescript](#typescript)
 - [vue](#vue)
 - [web](#web)
+- [web-development](#web-development)
 - [windows](#windows)
 
 ## ai 
@@ -398,7 +399,6 @@
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
-- [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [Str4ngeb0yz/DestructiveFarm](https://github.com/Str4ngeb0yz/DestructiveFarm) - 📢 🔒  Exploit manager for attack-defense CTF competitions
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, rust-cpython and cffi bindings as well as rust binaries as python packages
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
@@ -786,6 +786,10 @@
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [userver-framework/userver](https://github.com/userver-framework/userver) - Production-ready C++ Asynchronous Framework with rich functionality
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
+
+## web-development 
+
+- [Winderton/xplatform](https://github.com/Winderton/xplatform) - Реализация фундаментальных проектов с курса по Computer Science
 
 ## windows 
 

@@ -50,6 +50,7 @@
 
 ## C 
 
+- [0Nera/BMOSP](https://github.com/0Nera/BMOSP) - БМПОС - Базовая Модульная Платформа Операционных Систем для платформы x86_64
 - [xMasterX/all-the-plugins](https://github.com/xMasterX/all-the-plugins) - Big plugins pack built for latest flipper firmware
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [LTVA1/flipper-zero-video-player](https://github.com/LTVA1/flipper-zero-video-player) - An application for playing videos (with sound) on Flipper Zero.
@@ -94,6 +95,7 @@
 
 ## CMake 
 
+- [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake) - 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
 - [SFML/cmake-sfml-project](https://github.com/SFML/cmake-sfml-project) - Repository template for SFML projects using CMake
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 

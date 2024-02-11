@@ -626,7 +626,7 @@
 - [0niel/happy-new-day](https://github.com/0niel/happy-new-day) - с днем поздравляющих животных
 - [ClickHouse/NoiSQL](https://github.com/ClickHouse/NoiSQL) - NoiSQL — Generating Music With SQL Queries
 - [edk2-porting/edk2-msm](https://github.com/edk2-porting/edk2-msm) - Broken edk2 port for Qualcomm platforms xD
-- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: open-source LLM chatbots that you can run anywhere
+- [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
 - [DestructiveVoice/DestructiveFarm](https://github.com/DestructiveVoice/DestructiveFarm) - 📢 🔒  Exploit manager for attack-defense CTF competitions
 - [kon3gor/NvimConfig](https://github.com/kon3gor/NvimConfig) - My nvim config
 - [akmand/datasets](https://github.com/akmand/datasets) - 

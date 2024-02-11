@@ -552,6 +552,7 @@
 
 ## others 
 
+- [TatriX/realworld-rust-rocket](https://github.com/TatriX/realworld-rust-rocket) - Rust + Rocket RealWorld framework implementation
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [0Nera/BMOSP](https://github.com/0Nera/BMOSP) - БМПОС - Базовая Модульная Платформа Операционных Систем для платформы x86_64
 - [MobileTeleSystems/image-optimize](https://github.com/MobileTeleSystems/image-optimize) - Image optimization microservice for web request.

@@ -50,6 +50,7 @@
 
 ## C 
 
+- [flipperdevices/flipperzero-game-engine](https://github.com/flipperdevices/flipperzero-game-engine) - 
 - [0Nera/BMOSP](https://github.com/0Nera/BMOSP) - БМПОС - Базовая Модульная Платформа Операционных Систем для платформы x86_64
 - [xMasterX/all-the-plugins](https://github.com/xMasterX/all-the-plugins) - Big plugins pack built for latest flipper firmware (builds in releases for UL only)
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
@@ -192,6 +193,7 @@
 
 ## Others 
 
+- [fhdm-dev/scoppy](https://github.com/fhdm-dev/scoppy) - Use your Rasperry Pi Pico and Android Phone as an Oscilloscope and Logic Analyzer
 - [olexale/flutter_roadmap](https://github.com/olexale/flutter_roadmap) - Highly Subjective Roadmap to Flutter Development
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
 - [devcontainers/spec](https://github.com/devcontainers/spec) - Development Containers: Use a container as a full-featured development environment.

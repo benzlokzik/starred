@@ -61,6 +61,7 @@
 - [datttrian/cs50x](https://github.com/datttrian/cs50x) - 
 - [seL4/util_libs](https://github.com/seL4/util_libs) - 
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
+- [GyverLibs/GyverHub](https://github.com/GyverLibs/GyverHub) - Панель управления для ESP8266, ESP32 и других Arduino. Конструктор интерфейса. Интеграция в умный дом. Esp8266, esp32 and Arduino Dashboard library
 - [earlephilhower/ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio) - Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32
 - [cnlohr/espusb](https://github.com/cnlohr/espusb) - Software-only ESP8266 USB Device
 - [spacehuhn/wifi_ducky](https://github.com/spacehuhn/wifi_ducky) - Upload, save and run keystroke injection payloads with an ESP8266 + ATMEGA32U4
@@ -144,7 +145,6 @@
 
 - [aleff-github/my-flipper-shits](https://github.com/aleff-github/my-flipper-shits) - Free and open source BadUSB payloads for Flipper Zero. [Windows, GNU/Linux, iOS]
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
-- [GyverLibs/GyverHub](https://github.com/GyverLibs/GyverHub) - Панель управления для ESP8266, ESP32 и других Arduino. Конструктор интерфейса. Интеграция в умный дом. Esp8266, esp32 and Arduino Dashboard library
 
 ## Haskell 
 

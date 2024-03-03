@@ -74,6 +74,7 @@
 - [markdown](#markdown)
 - [mastodon](#mastodon)
 - [mysql](#mysql)
+- [natural-language-processing](#natural-language-processing)
 - [nextjs](#nextjs)
 - [nlp](#nlp)
 - [node](#node)
@@ -512,6 +513,10 @@
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
+## natural-language-processing 
+
+- [bureaucratic-labs/dostoevsky](https://github.com/bureaucratic-labs/dostoevsky) - Sentiment analysis library for russian language
+
 ## nextjs 
 
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
@@ -627,7 +632,6 @@
 - [ikbo0119/python-practice-2021](https://github.com/ikbo0119/python-practice-2021) - Python Programming Practice 2021
 - [ikbo0119/siaod-labs-2020](https://github.com/ikbo0119/siaod-labs-2020) - AOD subject (IKBO-01-19)
 - [a16z/magi](https://github.com/a16z/magi) - A blazing fast OP Stack rollup client written in Rust
-- [bureaucratic-labs/dostoevsky](https://github.com/bureaucratic-labs/dostoevsky) - Sentiment analysis library for russian language
 - [cargo-quick/cargo-quick](https://github.com/cargo-quick/cargo-quick) - (currently vapourware) A cargo subcommand to quickly bootstrap your dependency tree on first build
 - [mirea-ninja/xelatex-report](https://github.com/mirea-ninja/xelatex-report) - Шаблон курсовой работы РТУ МИРЭА в Латехе
 - [mirea-ninja/rtu-education-groups-code](https://github.com/mirea-ninja/rtu-education-groups-code) - Коды направления и названия групп РТУ МИРЭА

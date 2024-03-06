@@ -62,6 +62,7 @@
 - [java](#java)
 - [javascript](#javascript)
 - [json](#json)
+- [jupyter-notebook](#jupyter-notebook)
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [latex](#latex)
@@ -447,6 +448,10 @@
 - [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 
+## jupyter-notebook 
+
+- [alphasecio/langchain-examples](https://github.com/alphasecio/langchain-examples) - A collection of apps powered by the LangChain LLM framework.
+
 ## kubernetes 
 
 - [minio/minio](https://github.com/minio/minio) - The Object Store for AI Data Infrastructure
@@ -679,6 +684,7 @@
 
 ## python 
 
+- [alphasecio/langchain-examples](https://github.com/alphasecio/langchain-examples) - A collection of apps powered by the LangChain LLM framework.
 - [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python
 - [C4T-BuT-S4D/S4DFarm](https://github.com/C4T-BuT-S4D/S4DFarm) - Attack & Defense CTF Farm based on DestructiveFarm
 - [souravrs999/FaucetCryptoBot](https://github.com/souravrs999/FaucetCryptoBot) - A bot for FaucetCrypto a cryptocurrency faucet. The bot can currently claim PTC ads, main reward and all the shortlinks except exe.io and fc.lc.

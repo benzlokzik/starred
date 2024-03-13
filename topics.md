@@ -197,6 +197,7 @@
 
 ## chatgpt 
 
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Join our Discord: https://discord.gg/pAbnFJrkgZ
 - [experienced-dev/chatgpt-plugin-fastapi-langchain-chroma](https://github.com/experienced-dev/chatgpt-plugin-fastapi-langchain-chroma) - An Example Plugin for ChatGPT, Utilizing FastAPI, LangChain and Chroma
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
 - [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python
@@ -563,6 +564,7 @@
 
 ## others 
 
+- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - 
 - [liamg/traitor](https://github.com/liamg/traitor) - :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
 - [NimdaCTF/Nimda_2024_LateWinter](https://github.com/NimdaCTF/Nimda_2024_LateWinter) - Let's gooo
 - [Speykious/cve-rs](https://github.com/Speykious/cve-rs) - Blazingly 🔥 fast 🚀 memory vulnerabilities, written in 100% safe Rust. 🦀

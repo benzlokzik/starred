@@ -207,6 +207,7 @@
 - [exercism/exercism](https://github.com/exercism/exercism) - Crowd-sourced code mentorship. Practice having thoughtful conversations about code.
 - [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile READMEs 📝
+- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [ikbo0119/python-practice-2021](https://github.com/ikbo0119/python-practice-2021) - Python Programming Practice 2021
 - [ikbo0119/siaod-labs-2020](https://github.com/ikbo0119/siaod-labs-2020) - AOD subject (IKBO-01-19)
 - [paulveillard/cybersecurity-dark-web](https://github.com/paulveillard/cybersecurity-dark-web) - A collection of awesome software, libraries, learning tutorials, documents, books & technical resources and cool stuff about dark web.
@@ -253,7 +254,7 @@
 - [antijob/antijob_bot](https://github.com/antijob/antijob_bot) - Телеграм-бот
 - [snooppr/snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT world)
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
-- [imartinez/privateGPT](https://github.com/imartinez/privateGPT) - Interact with your documents using the power of GPT, 100% privately, no data leaks
+- [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
 - [bureaucratic-labs/dostoevsky](https://github.com/bureaucratic-labs/dostoevsky) - Sentiment analysis library for russian language
 - [trinib/trinib](https://github.com/trinib/trinib) - Don't just be a forker🔱...Hit that 🅂🆃🄰🆁⭐...........( ͡° ͜ʖ ͡°)-︻デ┳═ー - - - - - - - - - -💥¦̵̱ ̵̱ ̵̱ ̵̱ ̵̱(̢ ̡͇̅└͇̅┘͇̅ (▤8כ−◦My Profile........ Chess♟️ ◉═╬::::::::::::::::::::::::::::::::::::⫸♚ ♛ ♜ ♝ ♞ 
@@ -309,7 +310,6 @@
 - [HoloISO/holoiso](https://github.com/HoloISO/holoiso) - SteamOS 3 (Holo) archiso configuration
 - [apache/arrow-ballista-python](https://github.com/apache/arrow-ballista-python) - Apache Arrow Ballista Python bindings
 - [ProfessorManhattan/docker-devcontainer](https://github.com/ProfessorManhattan/docker-devcontainer) - 🚀 The Docker-based, DevContainer development environment for multi-language projects
-- [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 
 ## Swift 
 

@@ -198,7 +198,7 @@
 
 ## chatgpt 
 
-- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Join our Discord: https://discord.gg/pAbnFJrkgZ
+- [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI. Join our Discord: https://aka.ms/autogen-dc
 - [experienced-dev/chatgpt-plugin-fastapi-langchain-chroma](https://github.com/experienced-dev/chatgpt-plugin-fastapi-langchain-chroma) - An Example Plugin for ChatGPT, Utilizing FastAPI, LangChain and Chroma
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
 - [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python

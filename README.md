@@ -230,6 +230,7 @@
 
 ## Python 
 
+- [idandaniel/ballyregan](https://github.com/idandaniel/ballyregan) - Find fetch & validate free proxies fast.
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - 
 - [experienced-dev/chatgpt-plugin-fastapi-langchain-chroma](https://github.com/experienced-dev/chatgpt-plugin-fastapi-langchain-chroma) - An Example Plugin for ChatGPT, Utilizing FastAPI, LangChain and Chroma
 - [alphasecio/langchain-examples](https://github.com/alphasecio/langchain-examples) - A collection of apps powered by the LangChain LLM framework.

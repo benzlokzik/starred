@@ -187,7 +187,7 @@
 
 ## Lua 
 
-- [kon3gor/NvimConfig](https://github.com/kon3gor/NvimConfig) - My nvim config
+- [kon3gor/hjkl](https://github.com/kon3gor/hjkl) - My nvim config
 
 ## MDX 
 

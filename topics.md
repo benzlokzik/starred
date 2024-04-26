@@ -658,7 +658,7 @@
 - [edk2-porting/edk2-msm](https://github.com/edk2-porting/edk2-msm) - Broken edk2 port for Qualcomm platforms xD
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - gpt4all: run open-source LLMs anywhere
 - [DestructiveVoice/DestructiveFarm](https://github.com/DestructiveVoice/DestructiveFarm) - 📢 🔒  Exploit manager for attack-defense CTF competitions
-- [kon3gor/NvimConfig](https://github.com/kon3gor/NvimConfig) - My nvim config
+- [kon3gor/hjkl](https://github.com/kon3gor/hjkl) - My nvim config
 - [akmand/datasets](https://github.com/akmand/datasets) - 
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [alexbers/exploit_farm](https://github.com/alexbers/exploit_farm) - The utility for CTF hacker competition for team hacking and flag submitting

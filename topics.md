@@ -68,6 +68,7 @@
 - [language](#language)
 - [latex](#latex)
 - [linux](#linux)
+- [llm](#llm)
 - [low-code](#low-code)
 - [mac](#mac)
 - [machine-learning](#machine-learning)
@@ -486,6 +487,11 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+
+## llm 
+
+- [alphasecio/langchain-examples](https://github.com/alphasecio/langchain-examples) - A collection of apps powered by the LangChain LLM framework.
+- [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
 
 ## low-code 
 

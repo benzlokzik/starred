@@ -711,7 +711,7 @@
 
 ## python 
 
-- [idandaniel/ballyregan](https://github.com/idandaniel/ballyregan) - Find fetch & validate free proxies fast.
+- [idandaniel/ballyregan](https://github.com/idandaniel/ballyregan) - Get working free proxies fast.
 - [alphasecio/langchain-examples](https://github.com/alphasecio/langchain-examples) - A collection of apps powered by the LangChain LLM framework.
 - [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python
 - [C4T-BuT-S4D/S4DFarm](https://github.com/C4T-BuT-S4D/S4DFarm) - Attack & Defense CTF Farm based on DestructiveFarm

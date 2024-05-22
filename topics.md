@@ -39,6 +39,7 @@
 - [docker](#docker)
 - [education](#education)
 - [electron](#electron)
+- [ethereum](#ethereum)
 - [finance](#finance)
 - [firefox](#firefox)
 - [flutter](#flutter)
@@ -111,6 +112,7 @@
 - [server](#server)
 - [serverless](#serverless)
 - [software](#software)
+- [solidity](#solidity)
 - [sql](#sql)
 - [sqlite](#sqlite)
 - [statistics](#statistics)
@@ -306,6 +308,11 @@
 
 - [027xiguapi/pear-rec](https://github.com/027xiguapi/pear-rec) - pear-rec is a free and open-source cross platform software for recording, recording, and taking screenshots
 
+## ethereum 
+
+- [ApeWorX/ape](https://github.com/ApeWorX/ape) - The smart contract development tool for Pythonistas, Data Scientists, and Security Professionals
+- [vyperlang/vyper](https://github.com/vyperlang/vyper) - Pythonic Smart Contract Language for the EVM
+
 ## finance 
 
 - [edtechre/pybroker](https://github.com/edtechre/pybroker) - Algorithmic Trading in Python with Machine Learning
@@ -330,6 +337,7 @@
 
 ## framework 
 
+- [ApeWorX/ape](https://github.com/ApeWorX/ape) - The smart contract development tool for Pythonistas, Data Scientists, and Security Professionals
 - [Naios/idle](https://github.com/Naios/idle) - Idle is an asynchronous and hot-reloadable C++ dynamic component framework
 - [userver-framework/userver](https://github.com/userver-framework/userver) - Production-ready C++ Asynchronous Framework with rich functionality
 - [edtechre/pybroker](https://github.com/edtechre/pybroker) - Algorithmic Trading in Python with Machine Learning
@@ -475,6 +483,7 @@
 
 ## language 
 
+- [vyperlang/vyper](https://github.com/vyperlang/vyper) - Pythonic Smart Contract Language for the EVM
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [modularml/mojo](https://github.com/modularml/mojo) - The Mojo Programming Language
 - [vlang/v](https://github.com/vlang/v) - Simple, fast, safe, compiled language for developing maintainable software. Compiles itself in &lt;1s with zero library dependencies. Supports automatic C =&gt; V translation. https://vlang.io
@@ -711,6 +720,8 @@
 
 ## python 
 
+- [ApeWorX/ape](https://github.com/ApeWorX/ape) - The smart contract development tool for Pythonistas, Data Scientists, and Security Professionals
+- [vyperlang/vyper](https://github.com/vyperlang/vyper) - Pythonic Smart Contract Language for the EVM
 - [idandaniel/ballyregan](https://github.com/idandaniel/ballyregan) - Get working free proxies fast.
 - [alphasecio/langchain-examples](https://github.com/alphasecio/langchain-examples) - A collection of apps powered by the LangChain LLM framework.
 - [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python
@@ -818,6 +829,10 @@
 
 - [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
 - [ProfessorManhattan/docker-devcontainer](https://github.com/ProfessorManhattan/docker-devcontainer) - 🚀 The Docker-based, DevContainer development environment for multi-language projects
+
+## solidity 
+
+- [ApeWorX/ape](https://github.com/ApeWorX/ape) - The smart contract development tool for Pythonistas, Data Scientists, and Security Professionals
 
 ## sql 
 

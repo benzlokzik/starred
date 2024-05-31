@@ -237,7 +237,7 @@
 
 ## cpp 
 
-- [redorav/hlslpp](https://github.com/redorav/hlslpp) - Math library using hlsl syntax with SSE/NEON support
+- [redorav/hlslpp](https://github.com/redorav/hlslpp) - Math library using HLSL syntax with multiplatform SIMD support
 - [cppmf/Version.cmake](https://github.com/cppmf/Version.cmake) - CMake module to easily generate version.h file
 - [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake) - 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
 - [Naios/idle](https://github.com/Naios/idle) - Idle is an asynchronous and hot-reloadable C++ dynamic component framework
@@ -350,7 +350,7 @@
 
 ## game-development 
 
-- [redorav/hlslpp](https://github.com/redorav/hlslpp) - Math library using hlsl syntax with SSE/NEON support
+- [redorav/hlslpp](https://github.com/redorav/hlslpp) - Math library using HLSL syntax with multiplatform SIMD support
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
 ## game-engine 

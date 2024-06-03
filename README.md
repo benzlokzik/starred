@@ -230,6 +230,7 @@
 
 ## Python 
 
+- [petyasoft/Blum](https://github.com/petyasoft/Blum) - soft for @BlumCryptoBot
 - [ApeWorX/ape](https://github.com/ApeWorX/ape) - The smart contract development tool for Pythonistas, Data Scientists, and Security Professionals
 - [vyperlang/vyper](https://github.com/vyperlang/vyper) - Pythonic Smart Contract Language for the EVM
 - [idandaniel/ballyregan](https://github.com/idandaniel/ballyregan) - Get working free proxies fast.

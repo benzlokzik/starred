@@ -59,7 +59,6 @@
 - [LTVA1/flipper-zero-video-player](https://github.com/LTVA1/flipper-zero-video-player) - An application for playing videos (with sound) on Flipper Zero.
 - [philipl/pifs](https://github.com/philipl/pifs) - πfs - the data-free filesystem!
 - [extremecodetv/ExtremeCodeOS](https://github.com/extremecodetv/ExtremeCodeOS) - New gen. Linux
-- [ginkage/FlippAirMouse](https://github.com/ginkage/FlippAirMouse) - Air Mouse for Flipper
 - [datttrian/cs50x](https://github.com/datttrian/cs50x) - 
 - [seL4/util_libs](https://github.com/seL4/util_libs) - 
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
@@ -79,6 +78,7 @@
 
 - [redorav/hlslpp](https://github.com/redorav/hlslpp) - Math library using HLSL syntax with multiplatform SIMD support
 - [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️ Acoustic keyboard eavesdropping
+- [ginkage/FlippAirMouse](https://github.com/ginkage/FlippAirMouse) - Air Mouse for Flipper
 - [Naios/idle](https://github.com/Naios/idle) - Idle is an asynchronous and hot-reloadable C++ dynamic component framework
 - [google/re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.
 - [douban/libmc](https://github.com/douban/libmc) - Fast and light-weight memcached client for C++ / #python / #golang #libmc

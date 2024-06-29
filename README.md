@@ -20,13 +20,13 @@
 - [HLSL](#hlsl)
 - [HTML](#html)
 - [Haskell](#haskell)
+- [JSON](#json)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
 - [Lua](#lua)
 - [MDX](#mdx)
-- [Markdown](#markdown)
 - [Mojo](#mojo)
 - [Others](#others)
 - [PHP](#php)
@@ -157,6 +157,10 @@
 
 - [lierdakil/pandoc-crossref](https://github.com/lierdakil/pandoc-crossref) - Pandoc filter for cross-references
 
+## JSON 
+
+- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
+
 ## Java 
 
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open, Distributed, RESTful Search Engine
@@ -192,10 +196,6 @@
 ## MDX 
 
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
-
-## Markdown 
-
-- [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 
 ## Mojo 
 

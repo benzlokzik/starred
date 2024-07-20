@@ -60,6 +60,7 @@
 - [graphql](#graphql)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
+- [html-css-javascript](#html-css-javascript)
 - [http](#http)
 - [ios](#ios)
 - [iot](#iot)
@@ -453,6 +454,10 @@
 ## haskell 
 
 - [lierdakil/pandoc-crossref](https://github.com/lierdakil/pandoc-crossref) - Pandoc filter for cross-references
+
+## html-css-javascript 
+
+- [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 
 ## http 
 

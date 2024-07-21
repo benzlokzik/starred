@@ -696,7 +696,7 @@
 - [nomic-ai/gpt4all](https://github.com/nomic-ai/gpt4all) - GPT4All: Chat with Local LLMs on Any Device
 - [DestructiveVoice/DestructiveFarm](https://github.com/DestructiveVoice/DestructiveFarm) - 📢 🔒  Exploit manager for attack-defense CTF competitions
 - [kon3gor/hjkl](https://github.com/kon3gor/hjkl) - My nvim config
-- [akmand/datasets](https://github.com/akmand/datasets) - 
+- [akmand/datasets](https://github.com/akmand/datasets) - Various Datasets for Machine Learning Research & Teaching
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 - [alexbers/exploit_farm](https://github.com/alexbers/exploit_farm) - The utility for CTF hacker competition for team hacking and flag submitting
 

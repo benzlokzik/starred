@@ -187,7 +187,7 @@
 ## Jupyter Notebook 
 
 - [natasha/natasha-usage](https://github.com/natasha/natasha-usage) - 
-- [akmand/datasets](https://github.com/akmand/datasets) - 
+- [akmand/datasets](https://github.com/akmand/datasets) - Various Datasets for Machine Learning Research & Teaching
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
 
 ## Lua 

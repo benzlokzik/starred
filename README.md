@@ -51,6 +51,8 @@
 
 ## C 
 
+- [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
+- [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [NimdaCTF/Nimda_2024_LateWinter](https://github.com/NimdaCTF/Nimda_2024_LateWinter) - Let's gooo
 - [flipperdevices/flipperzero-game-engine](https://github.com/flipperdevices/flipperzero-game-engine) - 
 - [0Nera/BMOSP](https://github.com/0Nera/BMOSP) - БМПОС - Базовая Модульная Платформа Операционных Систем для платформы x86_64
@@ -229,6 +231,7 @@
 
 ## Python 
 
+- [Gozargah/Marzban](https://github.com/Gozargah/Marzban) - Unified GUI Censorship Resistant Solution Powered by Xray
 - [shamhi/HamsterKombatBot](https://github.com/shamhi/HamsterKombatBot) - Bot that mines coins in HamsterKombat
 - [petyasoft/Blum](https://github.com/petyasoft/Blum) - soft for @BlumCryptoBot
 - [ApeWorX/ape](https://github.com/ApeWorX/ape) - The smart contract development tool for Pythonistas, Data Scientists, and Security Professionals

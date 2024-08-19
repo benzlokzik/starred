@@ -119,6 +119,7 @@
 - [sql](#sql)
 - [sqlite](#sqlite)
 - [statistics](#statistics)
+- [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
 - [termux](#termux)
 - [typescript](#typescript)
@@ -874,6 +875,10 @@
 ## statistics 
 
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
+
+## tailwindcss 
+
+- [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 
 ## telegram 
 

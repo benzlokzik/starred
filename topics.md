@@ -20,6 +20,7 @@
 - [blockchain](#blockchain)
 - [bot](#bot)
 - [c](#c)
+- [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
 - [chatgpt-api](#chatgpt-api)
 - [cli](#cli)
@@ -212,6 +213,12 @@
 - [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake) - 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
 - [kmhsonnenkind/cmake-cython-example](https://github.com/kmhsonnenkind/cmake-cython-example) - Example building native C library with Cython wrapper using CMake
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
+
+## c-plus-plus 
+
+- [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake) - 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
+- [douban/libmc](https://github.com/douban/libmc) - Fast and light-weight memcached client for C++ / #python / #golang #libmc
+- [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 
 ## chatgpt 
 
@@ -674,7 +681,7 @@
 - [cairdcoinheringaahing/Bitwise-Fuckery](https://github.com/cairdcoinheringaahing/Bitwise-Fuckery) - Yet another Brainfuck derivative, but slightly more creative (JHT rating: 3-36)
 - [SyntOwl/Owl-Assistant-for-Webinar](https://github.com/SyntOwl/Owl-Assistant-for-Webinar) - 
 - [antijob/antijob_bot](https://github.com/antijob/antijob_bot) - Телеграм-бот
-- [0niel/map](https://github.com/0niel/map) - Интерактивная карта РОСБИОТЕХ
+- [0niel/map-rosbiotech](https://github.com/0niel/map-rosbiotech) - Интерактивная карта РОСБИОТЕХ
 - [peazip/PeaZip](https://github.com/peazip/PeaZip) - Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ
 - [mirea-ninja/landing](https://github.com/mirea-ninja/landing) - 
 - [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models

@@ -232,6 +232,7 @@
 
 ## Python 
 
+- [ennucore/cadmium](https://github.com/ennucore/cadmium) - CAD models at the speed of thought (or, you know, GPT-4)
 - [Gozargah/Marzban](https://github.com/Gozargah/Marzban) - Unified GUI Censorship Resistant Solution Powered by Xray
 - [shamhi/HamsterKombatBot](https://github.com/shamhi/HamsterKombatBot) - Bot that mines coins in HamsterKombat
 - [petyasoft/Blum](https://github.com/petyasoft/Blum) - soft for @BlumCryptoBot

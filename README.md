@@ -290,6 +290,7 @@
 
 ## Ruby 
 
+- [RefactoringGuru/design-patterns-ruby](https://github.com/RefactoringGuru/design-patterns-ruby) - Design Pattern Examples in Ruby
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [opf/openproject](https://github.com/opf/openproject) - OpenProject is the leading open source project management software.
 

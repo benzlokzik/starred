@@ -668,7 +668,7 @@
 - [team113/messenger](https://github.com/team113/messenger) - Open-source front-end part of messenger by team113
 - [1pt-co/api](https://github.com/1pt-co/api) - 
 - [errata-ai/vale-action](https://github.com/errata-ai/vale-action) - :octocat: The official GitHub Action for Vale -- install, manage, and run Vale with ease.
-- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary microblogging platform 🚀
 - [benzlokzik/vivid-frame](https://github.com/benzlokzik/vivid-frame) - Convert static images to dynamic videos with a vivid twist at the end – an inverted color frame.
 - [devcontainers/spec](https://github.com/devcontainers/spec) - Development Containers: Use a container as a full-featured development environment.
 - [google/re2](https://github.com/google/re2) - RE2 is a fast, safe, thread-friendly alternative to backtracking regular expression engines like those used in PCRE, Perl, and Python. It is a C++ library.

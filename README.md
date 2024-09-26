@@ -15,6 +15,7 @@
 - [Cython](#cython)
 - [DM](#dm)
 - [Dart](#dart)
+- [GDScript](#gdscript)
 - [Git Attributes](#git-attributes)
 - [Go](#go)
 - [HLSL](#hlsl)
@@ -130,6 +131,10 @@
 - [abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) - Responsive Admin Panel or Dashboard using Flutter
 - [0niel/university-app](https://github.com/0niel/university-app) - A mobile application for the MIREA - Russian Technological University, which includes a schedule, news and many other functions
 
+## GDScript 
+
+- [face-hh/wattesigma](https://github.com/face-hh/wattesigma) - 
+
 ## Git Attributes 
 
 - [gitattributes/gitattributes](https://github.com/gitattributes/gitattributes) - A collection of useful .gitattributes templates
@@ -236,6 +241,7 @@
 
 ## Python 
 
+- [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models
 - [ennucore/cadmium](https://github.com/ennucore/cadmium) - CAD models at the speed of thought (or, you know, GPT-4)
 - [Gozargah/Marzban](https://github.com/Gozargah/Marzban) - Unified GUI Censorship Resistant Solution Powered by Xray
 - [shamhi/HamsterKombatBot](https://github.com/shamhi/HamsterKombatBot) - Bot that mines coins in HamsterKombat

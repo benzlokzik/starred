@@ -124,6 +124,7 @@
 - [statistics](#statistics)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
+- [tensorflow](#tensorflow)
 - [termux](#termux)
 - [typescript](#typescript)
 - [vue](#vue)
@@ -907,6 +908,10 @@
 ## telegram 
 
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
+
+## tensorflow 
+
+- [matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN) - Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
 
 ## termux 
 

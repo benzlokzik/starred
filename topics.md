@@ -633,6 +633,7 @@
 
 ## others 
 
+- [kyutai-labs/moshi](https://github.com/kyutai-labs/moshi) - 
 - [face-hh/wattesigma](https://github.com/face-hh/wattesigma) - 
 - [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models
 - [RefactoringGuru/design-patterns-ruby](https://github.com/RefactoringGuru/design-patterns-ruby) - Design Pattern Examples in Ruby

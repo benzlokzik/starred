@@ -241,6 +241,7 @@
 
 ## Python 
 
+- [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [kyutai-labs/moshi](https://github.com/kyutai-labs/moshi) - 
 - [matterport/Mask_RCNN](https://github.com/matterport/Mask_RCNN) - Mask R-CNN for object detection and instance segmentation on Keras and TensorFlow
 - [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models

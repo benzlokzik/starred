@@ -241,6 +241,7 @@
 
 ## cli 
 
+- [nitzano/databye](https://github.com/nitzano/databye) - CLI Database & File Anonymizer
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [kk6/poetrify](https://github.com/kk6/poetrify) - Pipfile (or requirements.txt) to pyproject.toml for Poetry
@@ -296,6 +297,7 @@
 
 ## database 
 
+- [nitzano/databye](https://github.com/nitzano/databye) - CLI Database & File Anonymizer
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 
 ## deep-learning 

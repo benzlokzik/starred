@@ -33,7 +33,6 @@
 - [cryptography](#cryptography)
 - [css](#css)
 - [dart](#dart)
-- [data](#data)
 - [data-science](#data-science)
 - [database](#database)
 - [deep-learning](#deep-learning)
@@ -242,7 +241,6 @@
 
 ## cli 
 
-- [nitzano/databye](https://github.com/nitzano/databye) - CLI Database & File Anonymizer
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [google/python-fire](https://github.com/google/python-fire) - Python Fire is a library for automatically generating command line interfaces (CLIs) from absolutely any Python object.
 - [kk6/poetrify](https://github.com/kk6/poetrify) - Pipfile (or requirements.txt) to pyproject.toml for Poetry
@@ -291,10 +289,6 @@
 
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [0niel/university-app](https://github.com/0niel/university-app) - A mobile application for the MIREA - Russian Technological University, which includes a schedule, news and many other functions
-
-## data 
-
-- [nitzano/databye](https://github.com/nitzano/databye) - CLI Database & File Anonymizer
 
 ## data-science 
 

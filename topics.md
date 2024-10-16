@@ -33,6 +33,7 @@
 - [cryptography](#cryptography)
 - [css](#css)
 - [dart](#dart)
+- [data](#data)
 - [data-science](#data-science)
 - [database](#database)
 - [deep-learning](#deep-learning)
@@ -291,13 +292,16 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [0niel/university-app](https://github.com/0niel/university-app) - A mobile application for the MIREA - Russian Technological University, which includes a schedule, news and many other functions
 
+## data 
+
+- [nitzano/databye](https://github.com/nitzano/databye) - CLI Database & File Anonymizer
+
 ## data-science 
 
 - [edtechre/pybroker](https://github.com/edtechre/pybroker) - Algorithmic Trading in Python with Machine Learning
 
 ## database 
 
-- [nitzano/databye](https://github.com/nitzano/databye) - CLI Database & File Anonymizer
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 
 ## deep-learning 

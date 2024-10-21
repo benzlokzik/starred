@@ -632,6 +632,7 @@
 
 ## others 
 
+- [mit-han-lab/efficientvit](https://github.com/mit-han-lab/efficientvit) - Efficient vision foundation models for high-resolution generation and perception.
 - [kyutai-labs/moshi](https://github.com/kyutai-labs/moshi) - 
 - [face-hh/wattesigma](https://github.com/face-hh/wattesigma) - 
 - [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models

@@ -170,7 +170,6 @@
 
 ## Java 
 
-- [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [Aefyr/SAI](https://github.com/Aefyr/SAI) - Android split APKs installer
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 

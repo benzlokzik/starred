@@ -240,6 +240,7 @@
 
 ## Python 
 
+- [witelokk/messenger](https://github.com/witelokk/messenger) - 
 - [mit-han-lab/efficientvit](https://github.com/mit-han-lab/efficientvit) - Efficient vision foundation models for high-resolution generation and perception.
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [kyutai-labs/moshi](https://github.com/kyutai-labs/moshi) - 

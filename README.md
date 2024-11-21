@@ -161,6 +161,7 @@
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [aleff-github/my-flipper-shits](https://github.com/aleff-github/my-flipper-shits) - Free and libre source BadUSB payloads for Flipper Zero. [Windows, GNU/Linux, iOS]
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 ## Haskell 
 
@@ -227,7 +228,6 @@
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [Kr4is/cpptools-extension-pack](https://github.com/Kr4is/cpptools-extension-pack) - Must have extensions for C++ development in Visual Studio Code.
 - [exercism/exercism](https://github.com/exercism/exercism) - Crowd-sourced code mentorship. Practice having thoughtful conversations about code.
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [ikbo0119/python-practice-2021](https://github.com/ikbo0119/python-practice-2021) - Python Programming Practice 2021
 - [ikbo0119/siaod-labs-2020](https://github.com/ikbo0119/siaod-labs-2020) - AOD subject (IKBO-01-19)

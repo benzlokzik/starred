@@ -245,6 +245,7 @@
 
 ## Python 
 
+- [NuperSu/dataspell_ai_chat](https://github.com/NuperSu/dataspell_ai_chat) - 
 - [3DTopia/3DTopia](https://github.com/3DTopia/3DTopia) - Text-to-3D Generation within 5 Minutes
 - [witelokk/messenger](https://github.com/witelokk/messenger) - 
 - [mit-han-lab/efficientvit](https://github.com/mit-han-lab/efficientvit) - Efficient vision foundation models for high-resolution generation and perception.

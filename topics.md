@@ -653,6 +653,7 @@
 
 ## others 
 
+- [Kolandone/Selector](https://github.com/Kolandone/Selector) - اسکنر آیپی و ساخت کانفیگ هیدیفای و v2ray کلونر لایسنس وارپ پلاس مدیریت ورکرهای کلودفلر
 - [NuperSu/dataspell_ai_chat](https://github.com/NuperSu/dataspell_ai_chat) - 
 - [PKU-YuanGroup/LLaVA-CoT](https://github.com/PKU-YuanGroup/LLaVA-CoT) - 
 - [3DTopia/3DTopia](https://github.com/3DTopia/3DTopia) - Text-to-3D Generation within 5 Minutes

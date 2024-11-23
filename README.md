@@ -219,7 +219,7 @@
 
 ## Others 
 
-- [PKU-YuanGroup/LLaVA-CoT](https://github.com/PKU-YuanGroup/LLaVA-CoT) - 
+- [PKU-YuanGroup/LLaVA-CoT](https://github.com/PKU-YuanGroup/LLaVA-CoT) - LLaVA-CoT, a visual language model capable of spontaneous, systematic reasoning
 - [monosans/proxy-list](https://github.com/monosans/proxy-list) - Lists of HTTP, SOCKS4, SOCKS5 proxies with geolocation info. Updated every hour.
 - [fhdm-dev/scoppy](https://github.com/fhdm-dev/scoppy) - Use your Rasperry Pi Pico and Android Phone as an Oscilloscope and Logic Analyzer
 - [olexale/flutter_roadmap](https://github.com/olexale/flutter_roadmap) - Highly Subjective Roadmap to Flutter Development

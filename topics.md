@@ -303,6 +303,7 @@
 
 ## database 
 
+- [tursodatabase/libsql-experimental-python](https://github.com/tursodatabase/libsql-experimental-python) - libSQL API for Python (experimental)
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 
@@ -798,6 +799,7 @@
 
 ## python 
 
+- [tursodatabase/libsql-experimental-python](https://github.com/tursodatabase/libsql-experimental-python) - libSQL API for Python (experimental)
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [ApeWorX/ape](https://github.com/ApeWorX/ape) - The smart contract development tool for Pythonistas, Data Scientists, and Security Professionals
 - [vyperlang/vyper](https://github.com/vyperlang/vyper) - Pythonic Smart Contract Language for the EVM

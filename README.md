@@ -222,6 +222,7 @@
 
 ## Others 
 
+- [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
 - [monosans/proxy-list](https://github.com/monosans/proxy-list) - Lists of HTTP, SOCKS4, SOCKS5 proxies with geolocation info. Updated every hour.
 - [fhdm-dev/scoppy](https://github.com/fhdm-dev/scoppy) - Use your Rasperry Pi Pico and Android Phone as an Oscilloscope and Logic Analyzer
 - [olexale/flutter_roadmap](https://github.com/olexale/flutter_roadmap) - Highly Subjective Roadmap to Flutter Development
@@ -247,6 +248,7 @@
 
 ## Python 
 
+- [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [pytorch/rl](https://github.com/pytorch/rl) - A modular, primitive-first, python-first PyTorch library for Reinforcement Learning.
 - [huggingface/safetensors](https://github.com/huggingface/safetensors) - Simple, safe way to store and distribute tensors
 - [aio-libs/yarl](https://github.com/aio-libs/yarl) - Yet another URL library

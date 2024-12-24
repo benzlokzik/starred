@@ -625,7 +625,6 @@
 
 ## nextjs 
 
-- [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [bitswired/fuseai](https://github.com/bitswired/fuseai) - Self-Hosted and Open-Source web app to interact with OpenAI APIs. Currently supports ChatGPT, but DALLE and Whisper support is coming.
 
 ## nlp 
@@ -726,6 +725,7 @@
 - [holoiso-eol/holoiso](https://github.com/holoiso-eol/holoiso) - SteamOS 3 (Holo) archiso configuration
 - [team113/messenger](https://github.com/team113/messenger) - Open-source front-end part of messenger by team113
 - [1pt-co/api](https://github.com/1pt-co/api) - 
+- [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [errata-ai/vale-action](https://github.com/errata-ai/vale-action) - :octocat: The official GitHub Action for Vale -- install, manage, and run Vale with ease.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary microblogging platform 🚀
 - [benzlokzik/vivid-frame](https://github.com/benzlokzik/vivid-frame) - Convert static images to dynamic videos with a vivid twist at the end – an inverted color frame.
@@ -883,7 +883,6 @@
 
 ## react 
 
-- [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [027xiguapi/pear-rec](https://github.com/027xiguapi/pear-rec) - pear-rec is a free and open-source cross platform software for recording, recording, and taking screenshots
 - [bitswired/fuseai](https://github.com/bitswired/fuseai) - Self-Hosted and Open-Source web app to interact with OpenAI APIs. Currently supports ChatGPT, but DALLE and Whisper support is coming.
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React

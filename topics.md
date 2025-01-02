@@ -690,7 +690,7 @@
 - [witelokk/messenger](https://github.com/witelokk/messenger) - 
 - [mit-han-lab/efficientvit](https://github.com/mit-han-lab/efficientvit) - Efficient vision foundation models for high-resolution generation and perception.
 - [kyutai-labs/moshi](https://github.com/kyutai-labs/moshi) - 
-- [face-hh/wattesigma](https://github.com/face-hh/wattesigma) - 
+- [face-hh/wattesigma](https://github.com/face-hh/wattesigma) - An overly dramatic Web Browser made with Godot. Shaders, bugs, and obscure search engines!
 - [meta-llama/llama](https://github.com/meta-llama/llama) - Inference code for Llama models
 - [RefactoringGuru/design-patterns-ruby](https://github.com/RefactoringGuru/design-patterns-ruby) - Design Pattern Examples in Ruby
 - [ennucore/cadmium](https://github.com/ennucore/cadmium) - CAD models at the speed of thought (or, you know, GPT-4)

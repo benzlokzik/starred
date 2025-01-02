@@ -135,7 +135,7 @@
 
 ## GDScript 
 
-- [face-hh/wattesigma](https://github.com/face-hh/wattesigma) - 
+- [face-hh/wattesigma](https://github.com/face-hh/wattesigma) - An overly dramatic Web Browser made with Godot. Shaders, bugs, and obscure search engines!
 
 ## Git Attributes 
 

@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [3d](#3d)
 - [ai](#ai)
 - [algorithmic-trading](#algorithmic-trading)
 - [analytics](#analytics)
@@ -95,6 +96,7 @@
 - [numpy](#numpy)
 - [open-source](#open-source)
 - [openai](#openai)
+- [opengl](#opengl)
 - [operating-system](#operating-system)
 - [osint](#osint)
 - [others](#others)
@@ -139,6 +141,10 @@
 - [web](#web)
 - [web-development](#web-development)
 - [windows](#windows)
+
+## 3d 
+
+- [orange-cpp/omath](https://github.com/orange-cpp/omath) - Cross-platform modern general purpose math library written in C++26
 
 ## ai 
 
@@ -405,6 +411,7 @@
 
 ## game-development 
 
+- [orange-cpp/omath](https://github.com/orange-cpp/omath) - Cross-platform modern general purpose math library written in C++26
 - [redorav/hlslpp](https://github.com/redorav/hlslpp) - Math library using HLSL syntax with multiplatform SIMD support
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
@@ -414,6 +421,7 @@
 
 ## gamedev 
 
+- [orange-cpp/omath](https://github.com/orange-cpp/omath) - Cross-platform modern general purpose math library written in C++26
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
 ## gh-extension 
@@ -664,6 +672,10 @@
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
 - [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python
 - [futantan/OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
+
+## opengl 
+
+- [orange-cpp/omath](https://github.com/orange-cpp/omath) - Cross-platform modern general purpose math library written in C++26
 
 ## operating-system 
 

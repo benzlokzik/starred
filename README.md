@@ -185,6 +185,7 @@
 - [danakt/pshe](https://github.com/danakt/pshe) - Незаменимый помощник для работы с git
 - [petercunha/Donut](https://github.com/petercunha/Donut) - :robot: A JavaScript implementation of the infamous "donut.c" program
 - [1pt-co/api](https://github.com/1pt-co/api) - 
+- [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [adobe/brackets](https://github.com/adobe/brackets) - An open source code editor for the web, written in JavaScript, HTML and CSS.
 - [SyntOwl/Owl-Assistant-for-Webinar](https://github.com/SyntOwl/Owl-Assistant-for-Webinar) - 
@@ -388,7 +389,6 @@
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [MobileTeleSystems/image-optimize](https://github.com/MobileTeleSystems/image-optimize) - Image optimization microservice for web request.
-- [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [027xiguapi/pear-rec](https://github.com/027xiguapi/pear-rec) - pear-rec is a free and open-source cross platform software for recording, recording, and taking screenshots
 - [errata-ai/vale-action](https://github.com/errata-ai/vale-action) - :octocat: The official GitHub Action for Vale -- install, manage, and run Vale with ease.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary microblogging platform 🚀

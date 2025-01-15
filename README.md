@@ -84,7 +84,6 @@
 
 - [orange-cpp/omath](https://github.com/orange-cpp/omath) - Cross-platform modern general purpose math library written in C++26
 - [redorav/hlslpp](https://github.com/redorav/hlslpp) - Math library using HLSL syntax with multiplatform SIMD support
-- [SFML/cmake-sfml-project](https://github.com/SFML/cmake-sfml-project) - Repository template for SFML projects using CMake
 - [ggerganov/kbd-audio](https://github.com/ggerganov/kbd-audio) - 🎤⌨️ Acoustic keyboard eavesdropping
 - [ginkage/FlippAirMouse](https://github.com/ginkage/FlippAirMouse) - Air Mouse for Flipper
 - [Naios/idle](https://github.com/Naios/idle) - Idle is an asynchronous and hot-reloadable C++ dynamic component framework
@@ -109,6 +108,7 @@
 
 - [cppmf/Version.cmake](https://github.com/cppmf/Version.cmake) - CMake module to easily generate version.h file
 - [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake) - 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
+- [SFML/cmake-sfml-project](https://github.com/SFML/cmake-sfml-project) - Repository template for SFML projects using CMake
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 
 ## CSS 

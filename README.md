@@ -34,6 +34,7 @@
 - [PHP](#php)
 - [Pascal](#pascal)
 - [Python](#python)
+- [RenderScript](#renderscript)
 - [Ruby](#ruby)
 - [Rust](#rust)
 - [SQL](#sql)
@@ -328,6 +329,10 @@
 - [alexbers/exploit_farm](https://github.com/alexbers/exploit_farm) - The utility for CTF hacker competition for team hacking and flag submitting
 - [necrosskull/mirea-teacher-schedule-bot](https://github.com/necrosskull/mirea-teacher-schedule-bot) - Расписание преподавателей МИРЭА
 
+## RenderScript 
+
+- [mTvare6/hello-world.rs](https://github.com/mTvare6/hello-world.rs) - 🚀Memory safe, blazing fast, configurable, minimal hello world written in rust(🚀) in a few lines of code with few(1247🚀) dependencies🚀
+
 ## Ruby 
 
 - [RefactoringGuru/design-patterns-ruby](https://github.com/RefactoringGuru/design-patterns-ruby) - Design Pattern Examples in Ruby
@@ -368,6 +373,7 @@
 
 ## Shell 
 
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [Kolandone/Selector](https://github.com/Kolandone/Selector) - اسکنر آیپی و ساخت کانفیگ هیدیفای و v2ray کلونر لایسنس وارپ پلاس مدیریت ورکرهای کلودفلر
 - [holoiso-eol/holoiso](https://github.com/holoiso-eol/holoiso) - SteamOS 3 (Holo) archiso configuration
 - [apache/datafusion-ballista-python](https://github.com/apache/datafusion-ballista-python) - Apache Arrow Ballista Python bindings

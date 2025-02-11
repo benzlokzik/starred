@@ -767,7 +767,6 @@
 - [sermakov/google-sheet-2-flutter](https://github.com/sermakov/google-sheet-2-flutter) - Fetch data from GoogleSheet to flutter app
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [enthought/pyql](https://github.com/enthought/pyql) - Cython QuantLib wrappers
-- [datttrian/cs50x](https://github.com/datttrian/cs50x) - 
 - [AppFlowy-IO/AppFlowy-Cloud](https://github.com/AppFlowy-IO/AppFlowy-Cloud) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [seL4/util_libs](https://github.com/seL4/util_libs) - 
 - [ProjectMile/Mile.Xaml](https://github.com/ProjectMile/Mile.Xaml) - The lightweight XAML Islands toolchain with the Windows 11 controls styles.

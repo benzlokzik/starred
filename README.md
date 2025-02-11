@@ -66,7 +66,6 @@
 - [LTVA1/flipper-zero-video-player](https://github.com/LTVA1/flipper-zero-video-player) - An application for playing videos (with sound) on Flipper Zero.
 - [philipl/pifs](https://github.com/philipl/pifs) - πfs - the data-free filesystem!
 - [extremecodetv/ExtremeCodeOS](https://github.com/extremecodetv/ExtremeCodeOS) - New gen. Linux
-- [datttrian/cs50x](https://github.com/datttrian/cs50x) - 
 - [seL4/util_libs](https://github.com/seL4/util_libs) - 
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 - [GyverLibs/GyverHub](https://github.com/GyverLibs/GyverHub) - Панель управления для ESP8266, ESP32 и других Arduino. Конструктор интерфейса. Интеграция в умный дом. Esp8266, esp32 and Arduino Dashboard library

@@ -181,6 +181,7 @@
 
 ## JavaScript 
 
+- [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [danakt/pshe](https://github.com/danakt/pshe) - Незаменимый помощник для работы с git
 - [petercunha/Donut](https://github.com/petercunha/Donut) - :robot: A JavaScript implementation of the infamous "donut.c" program
@@ -390,6 +391,7 @@
 
 ## TypeScript 
 
+- [caisy-io/starter-template-svelte-simple-blog](https://github.com/caisy-io/starter-template-svelte-simple-blog) - Simple Blog Starter with caisy and sveltekit
 - [sammwyy/MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) - An open-source network stresser tool but it's Hatsune Miku
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix (formerly Repopack) is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or o

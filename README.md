@@ -246,6 +246,7 @@
 
 ## Python 
 
+- [benzlokzik/singlefile-webserver](https://github.com/benzlokzik/singlefile-webserver) - Python 🐍 from-scratch file webserver 🌐 without any dependencies 🚀 except Python 🐍 (with good page render 🎨)
 - [fixie-ai/ultravox](https://github.com/fixie-ai/ultravox) - A fast multimodal LLM for real-time voice
 - [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python

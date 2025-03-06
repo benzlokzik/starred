@@ -139,6 +139,7 @@
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [termux](#termux)
+- [trading](#trading)
 - [typescript](#typescript)
 - [vpn](#vpn)
 - [vue](#vue)
@@ -1066,6 +1067,10 @@
 ## termux 
 
 - [snooppr/snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT world)
+
+## trading 
+
+- [edtechre/pybroker](https://github.com/edtechre/pybroker) - Algorithmic Trading in Python with Machine Learning
 
 ## typescript 
 

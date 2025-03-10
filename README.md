@@ -32,6 +32,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
+- [PowerShell](#powershell)
 - [Python](#python)
 - [RenderScript](#renderscript)
 - [Ruby](#ruby)
@@ -244,6 +245,10 @@
 ## Pascal 
 
 - [peazip/PeaZip](https://github.com/peazip/PeaZip) - Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ
+
+## PowerShell 
+
+- [skizzophrenic/Ubers-SD-Files](https://github.com/skizzophrenic/Ubers-SD-Files) - These are all of the SD card assets you need for your Flipper Zero!
 
 ## Python 
 

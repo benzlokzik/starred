@@ -712,6 +712,7 @@
 
 ## others 
 
+- [Vincent-Therrien/gpu-arena](https://github.com/Vincent-Therrien/gpu-arena) - Compare and test GPU programming frameworks
 - [nikmcfly/ANUS](https://github.com/nikmcfly/ANUS) - 
 - [skizzophrenic/Ubers-SD-Files](https://github.com/skizzophrenic/Ubers-SD-Files) - These are all of the SD card assets you need for your Flipper Zero!
 - [Carberra/python-is-awesome](https://github.com/Carberra/python-is-awesome) - All the code from my Python is Awesome videos.

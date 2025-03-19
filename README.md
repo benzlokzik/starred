@@ -253,6 +253,7 @@
 
 ## Python 
 
+- [triton-inference-server/server](https://github.com/triton-inference-server/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 - [nikmcfly/ANUS](https://github.com/nikmcfly/ANUS) - 
 - [a5chin/python-uv](https://github.com/a5chin/python-uv) - This repository contains configurations to set up a Python development environment using VSCode's Dev Container feature. The environment includes uv and Ruff.

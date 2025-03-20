@@ -784,7 +784,7 @@
 - [sermakov/google-sheet-2-flutter](https://github.com/sermakov/google-sheet-2-flutter) - Fetch data from GoogleSheet to flutter app
 - [python/cpython](https://github.com/python/cpython) - The Python programming language
 - [enthought/pyql](https://github.com/enthought/pyql) - Cython QuantLib wrappers
-- [AppFlowy-IO/AppFlowy-Cloud](https://github.com/AppFlowy-IO/AppFlowy-Cloud) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+- [AppFlowy-IO/AppFlowy-Cloud](https://github.com/AppFlowy-IO/AppFlowy-Cloud) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [seL4/util_libs](https://github.com/seL4/util_libs) - 
 - [ProjectMile/Mile.Xaml](https://github.com/ProjectMile/Mile.Xaml) - The lightweight XAML Islands toolchain with the Windows 11 controls styles.
 - [Kr4is/cpptools-extension-pack](https://github.com/Kr4is/cpptools-extension-pack) - Must have extensions for C++ development in Visual Studio Code.

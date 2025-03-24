@@ -142,6 +142,7 @@
 - [termux](#termux)
 - [trading](#trading)
 - [typescript](#typescript)
+- [unity](#unity)
 - [vpn](#vpn)
 - [vue](#vue)
 - [web](#web)
@@ -1100,6 +1101,10 @@
 - [027xiguapi/pear-rec](https://github.com/027xiguapi/pear-rec) - pear-rec is a free and open-source cross platform software for recording, recording, and taking screenshots
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [bitswired/fuseai](https://github.com/bitswired/fuseai) - Self-Hosted and Open-Source web app to interact with OpenAI APIs. Currently supports ChatGPT, but DALLE and Whisper support is coming.
+
+## unity 
+
+- [orange-cpp/omath](https://github.com/orange-cpp/omath) - Cross-platform modern general purpose math library written in C++23
 
 ## vpn 
 

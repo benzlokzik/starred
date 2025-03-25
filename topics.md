@@ -17,6 +17,7 @@
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
+- [backend](#backend)
 - [bitcoin](#bitcoin)
 - [blockchain](#blockchain)
 - [bot](#bot)
@@ -228,6 +229,10 @@
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
+
+## backend 
+
+- [benzlokzik/singlefile-webserver](https://github.com/benzlokzik/singlefile-webserver) - Python 🐍 from-scratch file webserver 🌐 without any dependencies 🚀 except Python 🐍 (with good page render 🎨)
 
 ## bitcoin 
 
@@ -730,7 +735,6 @@
 - [nikmcfly/ANUS](https://github.com/nikmcfly/ANUS) - 
 - [skizzophrenic/Ubers-SD-Files](https://github.com/skizzophrenic/Ubers-SD-Files) - These are all of the SD card assets you need for your Flipper Zero!
 - [Carberra/python-is-awesome](https://github.com/Carberra/python-is-awesome) - All the code from my Python is Awesome videos.
-- [benzlokzik/singlefile-webserver](https://github.com/benzlokzik/singlefile-webserver) - Python 🐍 from-scratch file webserver 🌐 without any dependencies 🚀 except Python 🐍 (with good page render 🎨)
 - [ikatson/rqbit](https://github.com/ikatson/rqbit) - A bittorrent client in Rust
 - [sammwyy/MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) - An open-source network stresser tool but it's Hatsune Miku
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
@@ -888,6 +892,7 @@
 - [a5chin/python-uv](https://github.com/a5chin/python-uv) - This repository contains configurations to set up a Python development environment using VSCode's Dev Container feature. The environment includes uv and Ruff.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Make websites accessible for AI agents
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
+- [benzlokzik/singlefile-webserver](https://github.com/benzlokzik/singlefile-webserver) - Python 🐍 from-scratch file webserver 🌐 without any dependencies 🚀 except Python 🐍 (with good page render 🎨)
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. All in a modern, AI-native editor.
 - [fastapi/asyncer](https://github.com/fastapi/asyncer) - Asyncer, async and await, focused on developer experience.
@@ -928,6 +933,7 @@
 ## python3 
 
 - [a5chin/python-uv](https://github.com/a5chin/python-uv) - This repository contains configurations to set up a Python development environment using VSCode's Dev Container feature. The environment includes uv and Ruff.
+- [benzlokzik/singlefile-webserver](https://github.com/benzlokzik/singlefile-webserver) - Python 🐍 from-scratch file webserver 🌐 without any dependencies 🚀 except Python 🐍 (with good page render 🎨)
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [omnilib/aiomultiprocess](https://github.com/omnilib/aiomultiprocess) - Take a modern Python codebase to the next level of performance.
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
@@ -1117,6 +1123,7 @@
 
 ## web 
 
+- [benzlokzik/singlefile-webserver](https://github.com/benzlokzik/singlefile-webserver) - Python 🐍 from-scratch file webserver 🌐 without any dependencies 🚀 except Python 🐍 (with good page render 🎨)
 - [abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) - Responsive Admin Panel or Dashboard using Flutter
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web

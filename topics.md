@@ -346,7 +346,7 @@
 ## database 
 
 - [geldata/gel](https://github.com/geldata/gel) - Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more.
-- [tursodatabase/libsql-experimental-python](https://github.com/tursodatabase/libsql-experimental-python) - libSQL API for Python (experimental)
+- [tursodatabase/libsql-experimental-python](https://github.com/tursodatabase/libsql-experimental-python) - Python bindings for the libSQL database library (experimental)
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
@@ -422,6 +422,7 @@
 
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [aloisdeniel/flutter_device_preview](https://github.com/aloisdeniel/flutter_device_preview) - Approximate how your app looks and performs on another device.
+- [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [abuanwar072/Flutter-responsive-email-ui---Mobile-Tablet-and-Web](https://github.com/abuanwar072/Flutter-responsive-email-ui---Mobile-Tablet-and-Web) - We redesign the outlook app also make it responsive so that you can run it everywhere on your phone, tab, or web.
 - [abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) - Responsive Admin Panel or Dashboard using Flutter
 - [0niel/university-app](https://github.com/0niel/university-app) - A mobile application for the MIREA - Russian Technological University, which includes a schedule, news and many other functions
@@ -901,7 +902,7 @@
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [aio-libs/create-aio-app](https://github.com/aio-libs/create-aio-app) - The boilerplate for aiohttp. Quick setup for your asynchronous web service.
-- [tursodatabase/libsql-experimental-python](https://github.com/tursodatabase/libsql-experimental-python) - libSQL API for Python (experimental)
+- [tursodatabase/libsql-experimental-python](https://github.com/tursodatabase/libsql-experimental-python) - Python bindings for the libSQL database library (experimental)
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [ApeWorX/ape](https://github.com/ApeWorX/ape) - The smart contract development tool for Pythonistas, Data Scientists, and Security Professionals

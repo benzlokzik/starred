@@ -40,6 +40,7 @@
 - [database](#database)
 - [deep-learning](#deep-learning)
 - [deployment](#deployment)
+- [development](#development)
 - [devops](#devops)
 - [discord](#discord)
 - [django](#django)
@@ -94,7 +95,6 @@
 - [nextjs](#nextjs)
 - [nlp](#nlp)
 - [no-code](#no-code)
-- [node](#node)
 - [nodejs](#nodejs)
 - [nosql](#nosql)
 - [numpy](#numpy)
@@ -366,6 +366,12 @@
 
 - [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) - GitHub Action to deploy to GitHub Pages
 
+## development 
+
+- [public-apis/public-apis](https://github.com/public-apis/public-apis) - A collective list of free APIs
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
+
 ## devops 
 
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -386,7 +392,6 @@
 - [a5chin/python-uv](https://github.com/a5chin/python-uv) - This repository contains configurations to set up a Python development environment using VSCode's Dev Container feature. The environment includes uv and Ruff.
 - [amr3k/oiwa](https://github.com/amr3k/oiwa) - A simple Telegram bot that converts a phone number to a direct whatsapp chat link
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [ProfessorManhattan/docker-devcontainer](https://github.com/ProfessorManhattan/docker-devcontainer) - 🚀 The Docker-based, DevContainer development environment for multi-language projects
 
@@ -689,10 +694,6 @@
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
-
-## node 
-
-- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## nodejs 
 

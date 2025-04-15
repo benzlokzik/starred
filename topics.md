@@ -737,6 +737,7 @@
 
 ## others 
 
+- [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) - Python bindings for llama.cpp
 - [artificial-potato/SSRPGInterface](https://github.com/artificial-potato/SSRPGInterface) - SSRPGInterface for python
 - [alexbarker234/stonescript](https://github.com/alexbarker234/stonescript) - Stonescript for Stone Story RPG
 - [Catalyst-42/SSRPGS](https://github.com/Catalyst-42/SSRPGS) - Stone Story RPG save editor

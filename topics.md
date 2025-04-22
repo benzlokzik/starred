@@ -138,6 +138,7 @@
 - [svelte](#svelte)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
+- [telegram-bot](#telegram-bot)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [termux](#termux)
@@ -767,7 +768,6 @@
 - [RefactoringGuru/design-patterns-ruby](https://github.com/RefactoringGuru/design-patterns-ruby) - Design Pattern Examples in Ruby
 - [ennucore/cadmium](https://github.com/ennucore/cadmium) - CAD models at the speed of thought (or, you know, GPT-4)
 - [ValdikSS/GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) - GoodbyeDPI — Deep Packet Inspection circumvention utility (for Windows)
-- [shamhi/HamsterKombatBot](https://github.com/shamhi/HamsterKombatBot) - Bot that mines coins in HamsterKombat
 - [petyasoft/Blum](https://github.com/petyasoft/Blum) - soft for @BlumCryptoBot
 - [danakt/pshe](https://github.com/danakt/pshe) - Незаменимый помощник для работы с git
 - [tact-lang/web-ide](https://github.com/tact-lang/web-ide) - TON Web IDE is your ultimate browser-based IDE designed to simplify the journey of writing, testing, compiling, deploying, and interacting with smart contracts on TON. Write smart contracts from anywh
@@ -1093,6 +1093,13 @@
 
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
+
+## telegram-bot 
+
+- [shamhi/HamsterKombatBot](https://github.com/shamhi/HamsterKombatBot) - Bot that mines coins in HamsterKombat
+- [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python
+- [amr3k/oiwa](https://github.com/amr3k/oiwa) - A simple Telegram bot that converts a phone number to a direct whatsapp chat link
+- [necrosskull/mirea-teacher-schedule-bot](https://github.com/necrosskull/mirea-teacher-schedule-bot) - Расписание преподавателей МИРЭА
 
 ## tensorflow 
 

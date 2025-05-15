@@ -84,6 +84,7 @@
 - [linux](#linux)
 - [llm](#llm)
 - [low-code](#low-code)
+- [lua](#lua)
 - [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
@@ -91,6 +92,7 @@
 - [mastodon](#mastodon)
 - [mysql](#mysql)
 - [natural-language-processing](#natural-language-processing)
+- [neovim](#neovim)
 - [nestjs](#nestjs)
 - [nextjs](#nextjs)
 - [nlp](#nlp)
@@ -636,6 +638,10 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
 
+## lua 
+
+- [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua
+
 ## mac 
 
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Store SSH keys in the Secure Enclave
@@ -678,6 +684,11 @@
 ## natural-language-processing 
 
 - [bureaucratic-labs/dostoevsky](https://github.com/bureaucratic-labs/dostoevsky) - Sentiment analysis library for russian language
+
+## neovim 
+
+- [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua
+- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 
 ## nestjs 
 
@@ -865,6 +876,7 @@
 
 ## package-manager 
 
+- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake) - 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS

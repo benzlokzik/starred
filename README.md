@@ -210,6 +210,8 @@
 
 ## Lua 
 
+- [nvim-tree/nvim-tree.lua](https://github.com/nvim-tree/nvim-tree.lua) - A file explorer tree for neovim written in lua
+- [folke/lazy.nvim](https://github.com/folke/lazy.nvim) - 💤 A modern plugin manager for Neovim
 - [kon3gor/hjkl](https://github.com/kon3gor/hjkl) - My nvim config
 
 ## Markdown 

@@ -165,7 +165,6 @@
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [aleff-github/my-flipper-shits](https://github.com/aleff-github/my-flipper-shits) - Free and libre source BadUSB payloads for Flipper Zero. [Windows, GNU/Linux, iOS]
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
-- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 
 ## Haskell 
 
@@ -320,6 +319,7 @@
 - [error1001es/teleghoul](https://github.com/error1001es/teleghoul) - Бот - Гуль для твоего телеграм аккаунта
 - [ennucore/clippinator](https://github.com/ennucore/clippinator) - AI programming assistant
 - [sijokun/async-fastapi-jwt-auth](https://github.com/sijokun/async-fastapi-jwt-auth) - FastAPI extension that provides JWT Auth support (secure, easy to use, and lightweight)
+- [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) - :books: Freely available programming books
 - [pywebio/PyWebIO](https://github.com/pywebio/PyWebIO) - Write interactive web app in script way.
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [Dyalog/dyalog-jupyter-kernel](https://github.com/Dyalog/dyalog-jupyter-kernel) - A Jupyter kernel for Dyalog APL

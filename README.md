@@ -26,6 +26,7 @@
 - [JavaScript](#javascript)
 - [Jinja](#jinja)
 - [Jupyter Notebook](#jupyter-notebook)
+- [Kotlin](#kotlin)
 - [Lua](#lua)
 - [Markdown](#markdown)
 - [Mojo](#mojo)
@@ -206,6 +207,10 @@
 - [natasha/natasha-usage](https://github.com/natasha/natasha-usage) - 
 - [akmand/datasets](https://github.com/akmand/datasets) - Various Datasets for Machine Learning Research & Teaching
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model
+
+## Kotlin 
+
+- [google-ai-edge/gallery](https://github.com/google-ai-edge/gallery) - A gallery that showcases on-device ML/GenAI use cases and allows people to try and use models locally.
 
 ## Lua 
 

@@ -355,7 +355,7 @@
 ## database 
 
 - [geldata/gel](https://github.com/geldata/gel) - Gel supercharges Postgres with a modern data model, graph queries, Auth & AI solutions, and much more.
-- [tursodatabase/libsql-experimental-python](https://github.com/tursodatabase/libsql-experimental-python) - Python bindings for the libSQL database library (experimental)
+- [tursodatabase/libsql-python](https://github.com/tursodatabase/libsql-python) - Python bindings for the libSQL database library
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
@@ -930,7 +930,7 @@
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [aio-libs/create-aio-app](https://github.com/aio-libs/create-aio-app) - The boilerplate for aiohttp. Quick setup for your asynchronous web service.
-- [tursodatabase/libsql-experimental-python](https://github.com/tursodatabase/libsql-experimental-python) - Python bindings for the libSQL database library (experimental)
+- [tursodatabase/libsql-python](https://github.com/tursodatabase/libsql-python) - Python bindings for the libSQL database library
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
 - [ApeWorX/ape](https://github.com/ApeWorX/ape) - The smart contract development tool for Pythonistas, Data Scientists, and Security Professionals

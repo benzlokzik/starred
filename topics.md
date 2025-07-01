@@ -34,6 +34,7 @@
 - [cryptocurrency](#cryptocurrency)
 - [cryptography](#cryptography)
 - [css](#css)
+- [cybersecurity](#cybersecurity)
 - [dart](#dart)
 - [data-science](#data-science)
 - [data-visualization](#data-visualization)
@@ -164,6 +165,7 @@
 
 ## ai 
 
+- [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 - [BrainBlend-AI/atomic-agents](https://github.com/BrainBlend-AI/atomic-agents) - Building AI agents, atomically
 - [fixie-ai/ultravox](https://github.com/fixie-ai/ultravox) - A fast multimodal LLM for real-time voice
 - [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
@@ -343,6 +345,10 @@
 ## css 
 
 - [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx) - Opera GX Skin for Firefox
+
+## cybersecurity 
+
+- [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 
 ## dart 
 
@@ -636,6 +642,7 @@
 
 ## llm 
 
+- [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
 - [fixie-ai/ultravox](https://github.com/fixie-ai/ultravox) - A fast multimodal LLM for real-time voice
@@ -763,6 +770,7 @@
 
 ## others 
 
+- [vaibhavagg303/DARS-Agent](https://github.com/vaibhavagg303/DARS-Agent) - 
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.
 - [mesop-dev/mesop](https://github.com/mesop-dev/mesop) - Rapidly build AI apps in Python
 - [bootphon/phonemizer](https://github.com/bootphon/phonemizer) - Simple text to phones converter for multiple languages

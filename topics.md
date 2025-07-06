@@ -750,6 +750,7 @@
 
 - [BrainBlend-AI/atomic-agents](https://github.com/BrainBlend-AI/atomic-agents) - Building AI agents, atomically
 - [mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap) - Model swapping for llama.cpp (or any local OpenAPI compatible server)
+- [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [alphasecio/langchain-examples](https://github.com/alphasecio/langchain-examples) - A collection of apps powered by the LangChain LLM framework.
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.

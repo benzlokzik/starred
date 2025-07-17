@@ -798,7 +798,7 @@
 - [zeromq/czmq](https://github.com/zeromq/czmq) - High-level C binding for ØMQ
 - [Kolandone/Selector](https://github.com/Kolandone/Selector) - اسکنر آیپی و ساخت کانفیگ هیدیفای و v2ray کلونر لایسنس وارپ پلاس مدیریت ورکرهای کلودفلر
 - [NuperSu/dataspell_ai_chat](https://github.com/NuperSu/dataspell_ai_chat) - 
-- [PKU-YuanGroup/LLaVA-CoT](https://github.com/PKU-YuanGroup/LLaVA-CoT) - LLaVA-CoT, a visual language model capable of spontaneous, systematic reasoning
+- [PKU-YuanGroup/LLaVA-CoT](https://github.com/PKU-YuanGroup/LLaVA-CoT) - [ICCV 2025] LLaVA-CoT, a visual language model capable of spontaneous, systematic reasoning
 - [3DTopia/3DTopia](https://github.com/3DTopia/3DTopia) - Text-to-3D Generation within 5 Minutes
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [witelokk/messenger](https://github.com/witelokk/messenger) - 

@@ -445,6 +445,7 @@
 
 ## firefox 
 
+- [easonwong-de/Adaptive-Tab-Bar-Colour](https://github.com/easonwong-de/Adaptive-Tab-Bar-Colour) - Changes the colour of Firefox theme to match the website’s appearance.
 - [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx) - Opera GX Skin for Firefox
 
 ## flutter 
@@ -773,6 +774,7 @@
 
 ## others 
 
+- [iebb/NekokoLPA](https://github.com/iebb/NekokoLPA) - NekokoLPA
 - [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS) - Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
 - [ruffle-rs/ruffle-android](https://github.com/ruffle-rs/ruffle-android) - An Android application for ruffle.rs
 - [vaibhavagg303/DARS-Agent](https://github.com/vaibhavagg303/DARS-Agent) - 

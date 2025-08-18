@@ -179,6 +179,7 @@
 
 ## Java 
 
+- [Yuria-Shikibe/NewHorizonMod](https://github.com/Yuria-Shikibe/NewHorizonMod) - A Java mod for Mindustry v7
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [Aefyr/SAI](https://github.com/Aefyr/SAI) - Android split APKs installer
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
@@ -235,6 +236,8 @@
 
 ## Others 
 
+- [LixieWulf/Allure](https://github.com/LixieWulf/Allure) - A massive HJSON mod focusing around quick-action, immersive RTS gameplay. Lore package included.
+- [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [DenisSergeevitch/chatgpt-custom-instructions](https://github.com/DenisSergeevitch/chatgpt-custom-instructions) - My own Prompts for Custom instructions ChatGPT
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
 - [monosans/proxy-list](https://github.com/monosans/proxy-list) - Lists of HTTP, SOCKS4, SOCKS5 proxies with geolocation info. Updated every hour.
@@ -294,7 +297,6 @@
 - [python-poetry/poetry](https://github.com/python-poetry/poetry) - Python packaging and dependency management made easy
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
 - [pytorch/rl](https://github.com/pytorch/rl) - A modular, primitive-first, python-first PyTorch library for Reinforcement Learning.
-- [huggingface/safetensors](https://github.com/huggingface/safetensors) - Simple, safe way to store and distribute tensors
 - [aio-libs/yarl](https://github.com/aio-libs/yarl) - Yet another URL library
 - [aio-libs/create-aio-app](https://github.com/aio-libs/create-aio-app) - The boilerplate for aiohttp. Quick setup for your asynchronous web service.
 - [aio-libs/aiojobs](https://github.com/aio-libs/aiojobs) - Jobs scheduler for managing background task (asyncio)
@@ -378,6 +380,7 @@
 - [servicer-labs/servicer](https://github.com/servicer-labs/servicer) - A CLI to simplify service management on systemd
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [ikatson/rqbit](https://github.com/ikatson/rqbit) - A bittorrent client in Rust
+- [huggingface/safetensors](https://github.com/huggingface/safetensors) - Simple, safe way to store and distribute tensors
 - [tursodatabase/libsql-python](https://github.com/tursodatabase/libsql-python) - Python bindings for the libSQL database library
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.

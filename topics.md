@@ -813,7 +813,7 @@
 - [alexbarker234/stonescript](https://github.com/alexbarker234/stonescript) - Stonescript for Stone Story RPG
 - [Catalyst-42/SSRPGS](https://github.com/Catalyst-42/SSRPGS) - Stone Story RPG save editor
 - [Vincent-Therrien/gpu-arena](https://github.com/Vincent-Therrien/gpu-arena) - Compare and test GPU programming frameworks
-- [nikmcfly/ANUS](https://github.com/nikmcfly/ANUS) - 
+- [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - 
 - [skizzophrenic/Ubers-SD-Files](https://github.com/skizzophrenic/Ubers-SD-Files) - These are all of the SD card assets you need for your Flipper Zero!
 - [Carberra/python-is-awesome](https://github.com/Carberra/python-is-awesome) - All the code from my Python is Awesome videos.
 - [ikatson/rqbit](https://github.com/ikatson/rqbit) - A bittorrent client in Rust

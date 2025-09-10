@@ -1178,6 +1178,7 @@
 
 ## tailwindcss 
 
+- [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. Extremely fast, scalable, memory API for the AI era.
 - [Nirnturt/mermaid-editor](https://github.com/Nirnturt/mermaid-editor) - A modern, web-based Mermaid diagram editor with real-time preview, multiple export formats, and responsive design. Built with Next.js, featuring dark/light themes and internationalization support.
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.
 
@@ -1221,6 +1222,7 @@
 
 ## typescript 
 
+- [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Build your own second brain with supermemory. Extremely fast, scalable, memory API for the AI era.
 - [Nirnturt/mermaid-editor](https://github.com/Nirnturt/mermaid-editor) - A modern, web-based Mermaid diagram editor with real-time preview, multiple export formats, and responsive design. Built with Next.js, featuring dark/light themes and internationalization support.
 - [caisy-io/starter-template-svelte-simple-blog](https://github.com/caisy-io/starter-template-svelte-simple-blog) - Simple Blog Starter with caisy and sveltekit
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C

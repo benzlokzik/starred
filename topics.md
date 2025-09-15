@@ -794,6 +794,7 @@
 
 ## others 
 
+- [idutvuk/reshallah](https://github.com/idutvuk/reshallah) - Утилита для решения примитивных вузовских задач по программированию при помощи LLM с поддержкой MCP и сборкой отчётов по ГОСТу через LaTeX.  Прозиносится как решалА.
 - [samhenrigold/LidAngleSensor](https://github.com/samhenrigold/LidAngleSensor) - tfw when you when your lid when uhh angle your lid sensor
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [LixieWulf/Allure](https://github.com/LixieWulf/Allure) - A massive HJSON mod focusing around quick-action, immersive RTS gameplay. Lore package included.

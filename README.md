@@ -38,6 +38,7 @@
 - [RenderScript](#renderscript)
 - [Ruby](#ruby)
 - [Rust](#rust)
+- [SCSS](#scss)
 - [SQL](#sql)
 - [Shell](#shell)
 - [Swift](#swift)
@@ -415,6 +416,10 @@
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [benzlokzik/image-base64-via-rust](https://github.com/benzlokzik/image-base64-via-rust) - Image's data to base64 converter, also can convert stdin data to unicode characters numbers
 - [PyO3/maturin](https://github.com/PyO3/maturin) - Build and publish crates with pyo3, cffi and uniffi bindings as well as rust binaries as python packages
+
+## SCSS 
+
+- [nostalgic-css/NES.css](https://github.com/nostalgic-css/NES.css) - NES-style CSS Framework | ファミコン風CSSフレームワーク
 
 ## SQL 
 

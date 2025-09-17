@@ -228,6 +228,7 @@
 
 ## automation 
 
+- [typst-g7-32/modern-g7-32](https://github.com/typst-g7-32/modern-g7-32) - Шаблон на typst для оформления документов согласно ГОСТ 7.32-2017.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [souravrs999/FaucetCryptoBot](https://github.com/souravrs999/FaucetCryptoBot) - A bot for FaucetCrypto a cryptocurrency faucet. The bot can currently claim PTC ads, main reward and all the shortlinks except exe.io and fc.lc.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -489,6 +490,7 @@
 
 ## game 
 
+- [micheledusi/Deckz](https://github.com/micheledusi/Deckz) - A Typst package for rendering poker-style cards and full decks.
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 - [ChaoticOnyx/OnyxBay](https://github.com/ChaoticOnyx/OnyxBay) - Main repository with actual Space Station 13 sources. Branch of Baystation 12.
 

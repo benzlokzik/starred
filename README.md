@@ -44,6 +44,7 @@
 - [Swift](#swift)
 - [TeX](#tex)
 - [TypeScript](#typescript)
+- [Typst](#typst)
 - [V](#v)
 
 ## APL 
@@ -477,6 +478,11 @@
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image) - ✂️ Generates an image from a DOM node using HTML5 canvas and SVG.
 - [futantan/OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
+
+## Typst 
+
+- [typst-g7-32/modern-g7-32](https://github.com/typst-g7-32/modern-g7-32) - Шаблон на typst для оформления документов согласно ГОСТ 7.32-2017.
+- [micheledusi/Deckz](https://github.com/micheledusi/Deckz) - A Typst package for rendering poker-style cards and full decks.
 
 ## V 
 

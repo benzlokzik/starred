@@ -162,6 +162,7 @@
 - [web](#web)
 - [web-development](#web-development)
 - [windows](#windows)
+- [zsh](#zsh)
 
 ## 3d 
 
@@ -1290,6 +1291,10 @@
 - [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win) - Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2.
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+
+## zsh 
+
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
 
 ## License

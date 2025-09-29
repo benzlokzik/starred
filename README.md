@@ -211,6 +211,7 @@
 
 ## Jupyter Notebook 
 
+- [gerstung-lab/Delphi](https://github.com/gerstung-lab/Delphi) - Modelling human health trajectories using generative transformers
 - [JonathanFly/bark](https://github.com/JonathanFly/bark) - 🚀 BARK INFINITY GUI CMD 🎶 Powered Up Bark Text-prompted Generative Audio Model
 - [snakers4/silero-models](https://github.com/snakers4/silero-models) - Silero Models: pre-trained speech-to-text, text-to-speech and text-enhancement models made embarrassingly simple
 - [natasha/natasha-usage](https://github.com/natasha/natasha-usage) - 

@@ -534,6 +534,7 @@
 
 ## git 
 
+- [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
 - [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake) - 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
 - [gitattributes/gitattributes](https://github.com/gitattributes/gitattributes) - A collection of useful .gitattributes templates
 - [EndBug/add-and-commit](https://github.com/EndBug/add-and-commit) - :octocat: Automatically commit changes made in your workflow run directly to your repo
@@ -820,6 +821,7 @@
 
 ## others 
 
+- [sds/overcommit](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager
 - [HardAndHeavy/devbox](https://github.com/HardAndHeavy/devbox) - Spin up, test, and compare top web frameworks in seconds. Powered by Docker and hot-reloading.
 - [gerstung-lab/Delphi](https://github.com/gerstung-lab/Delphi) - Modelling human health trajectories using generative transformers
 - [GerrySant/multimodalhugs](https://github.com/GerrySant/multimodalhugs) - MultimodalHugs is an extension of Hugging Face that offers a generalized framework for training, evaluating, and using multimodal AI models with minimal code differences, ensuring seamless compatibili

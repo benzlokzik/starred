@@ -78,7 +78,7 @@
 - [seL4/util_libs](https://github.com/seL4/util_libs) - 
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 - [GyverLibs/GyverHub](https://github.com/GyverLibs/GyverHub) - Панель управления для ESP8266, ESP32 и других Arduino. Конструктор интерфейса. Интеграция в умный дом. Esp8266, esp32 and Arduino Dashboard library
-- [earlephilhower/ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio) - Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32 and Pico
+- [earlephilhower/ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio) - Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, OGG/Opus, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32 and Pico
 - [cnlohr/espusb](https://github.com/cnlohr/espusb) - Software-only ESP8266 USB Device
 - [spacehuhn/wifi_ducky](https://github.com/spacehuhn/wifi_ducky) - Upload, save and run keystroke injection payloads with an ESP8266 + ATMEGA32U4
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.

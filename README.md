@@ -284,7 +284,7 @@
 
 - [emcie-co/parlant](https://github.com/emcie-co/parlant) - LLM agents built for control. Designed for real-world use. Deployed in minutes.
 - [GerrySant/multimodalhugs](https://github.com/GerrySant/multimodalhugs) - MultimodalHugs is an extension of Hugging Face that offers a generalized framework for training, evaluating, and using multimodal AI models with minimal code differences, ensuring seamless compatibili
-- [idutvuk/reshallah](https://github.com/idutvuk/reshallah) - Утилита для решения примитивных вузовских задач по программированию при помощи LLM с поддержкой MCP и сборкой отчётов по ГОСТу через LaTeX.  Прозиносится как решалА.
+- [idutvuk/reshallah](https://github.com/idutvuk/reshallah) - Утилита для решения примитивных вузовских задач по программированию при помощи LLM с поддержкой MCP и сборкой отчётов по ГОСТу через typst  Прозиносится как решалА.
 - [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS) - Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
 - [canopyai/Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS) - Towards Human-Sounding Speech
 - [vaibhavagg303/DARS-Agent](https://github.com/vaibhavagg303/DARS-Agent) - 
@@ -402,7 +402,7 @@
 - [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
 - [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - Distributed query engine providing simple and reliable data processing for any modality and scale
-- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [servicer-labs/servicer](https://github.com/servicer-labs/servicer) - A CLI to simplify service management on systemd
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore

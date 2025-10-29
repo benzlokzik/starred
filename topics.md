@@ -845,7 +845,7 @@
 - [Yuria-Shikibe/NewHorizonMod](https://github.com/Yuria-Shikibe/NewHorizonMod) - A Java mod for Mindustry v7
 - [estkme-group/openeuicc](https://github.com/estkme-group/openeuicc) - Mirror of OpenEUICC, a fully open-source LPA implementation for Android
 - [estkme-group/lpac](https://github.com/estkme-group/lpac) - C-based eUICC LPA
-- [iebb/NekokoLPA](https://github.com/iebb/NekokoLPA) - NekokoLPA
+- [iebb/NekokoLPA](https://github.com/iebb/NekokoLPA) - Open-source LPA Software for Android and iOS
 - [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS) - Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
 - [ruffle-rs/ruffle-android](https://github.com/ruffle-rs/ruffle-android) - An Android application for ruffle.rs
 - [vaibhavagg303/DARS-Agent](https://github.com/vaibhavagg303/DARS-Agent) - 

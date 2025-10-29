@@ -466,7 +466,7 @@
 ## TypeScript 
 
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
-- [iebb/NekokoLPA](https://github.com/iebb/NekokoLPA) - NekokoLPA
+- [iebb/NekokoLPA](https://github.com/iebb/NekokoLPA) - Open-source LPA Software for Android and iOS
 - [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components.
 - [Nirnturt/mermaid-editor](https://github.com/Nirnturt/mermaid-editor) - A modern, web-based Mermaid diagram editor with real-time preview, multiple export formats, and responsive design. Built with Next.js, featuring dark/light themes and internationalization support.
 - [mermaid-js/mermaid-live-editor](https://github.com/mermaid-js/mermaid-live-editor) - Edit, preview and share mermaid charts/diagrams. New implementation of the live editor.

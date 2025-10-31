@@ -219,7 +219,7 @@
 
 - [gerstung-lab/Delphi](https://github.com/gerstung-lab/Delphi) - Modelling human health trajectories using generative transformers
 - [JonathanFly/bark](https://github.com/JonathanFly/bark) - 🚀 BARK INFINITY GUI CMD 🎶 Powered Up Bark Text-prompted Generative Audio Model
-- [snakers4/silero-models](https://github.com/snakers4/silero-models) - Silero Models: pre-trained speech-to-text, text-to-speech and text-enhancement models made embarrassingly simple
+- [snakers4/silero-models](https://github.com/snakers4/silero-models) - Silero Models: pre-trained text-to-speech models made embarrassingly simple
 - [natasha/natasha-usage](https://github.com/natasha/natasha-usage) - 
 - [akmand/datasets](https://github.com/akmand/datasets) - Various Datasets for Machine Learning Research & Teaching
 - [CompVis/stable-diffusion](https://github.com/CompVis/stable-diffusion) - A latent text-to-image diffusion model

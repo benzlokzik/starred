@@ -927,7 +927,7 @@
 - [Aefyr/SAI](https://github.com/Aefyr/SAI) - Android split APKs installer
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
 - [natasha/natasha-usage](https://github.com/natasha/natasha-usage) - 
-- [KurimuzonAkuma/pyrogram](https://github.com/KurimuzonAkuma/pyrogram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
+- [KurimuzonAkuma/kurigram](https://github.com/KurimuzonAkuma/kurigram) - Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots
 - [error1001es/teleghoul](https://github.com/error1001es/teleghoul) - Бот - Гуль для твоего телеграм аккаунта
 - [ennucore/clippinator](https://github.com/ennucore/clippinator) - AI programming assistant
 - [sijokun/async-fastapi-jwt-auth](https://github.com/sijokun/async-fastapi-jwt-auth) - FastAPI extension that provides JWT Auth support (secure, easy to use, and lightweight)

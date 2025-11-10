@@ -829,6 +829,7 @@
 
 ## others 
 
+- [swaits-typst-packages/finely-crafted-cv](https://github.com/swaits-typst-packages/finely-crafted-cv) - Beautiful CV/Resume template for Typst
 - [sds/overcommit](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager
 - [HardAndHeavy/devbox](https://github.com/HardAndHeavy/devbox) - Spin up, test, and compare top web frameworks in seconds. Powered by Docker and hot-reloading.
 - [gerstung-lab/Delphi](https://github.com/gerstung-lab/Delphi) - Modelling human health trajectories using generative transformers

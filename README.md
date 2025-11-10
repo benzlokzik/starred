@@ -500,6 +500,7 @@
 
 ## Typst 
 
+- [swaits-typst-packages/finely-crafted-cv](https://github.com/swaits-typst-packages/finely-crafted-cv) - Beautiful CV/Resume template for Typst
 - [typst-g7-32/modern-g7-32](https://github.com/typst-g7-32/modern-g7-32) - Шаблон на typst для оформления документов согласно ГОСТ 7.32-2017.
 - [micheledusi/Deckz](https://github.com/micheledusi/Deckz) - A Typst package for rendering poker-style cards and full decks.
 

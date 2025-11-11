@@ -424,7 +424,7 @@
 - [marimo-team/marimo](https://github.com/marimo-team/marimo) - A reactive notebook for Python — run reproducible experiments, query with SQL, execute as a script, deploy as an app, and version with git. Stored as pure Python. All in a modern, AI-native editor.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
-- [ApeWorX/ape](https://github.com/ApeWorX/ape) - Build and explore on-chain w/ Python
+- [ApeWorX/ape](https://github.com/ApeWorX/ape) - Build and explore on-chain with Python
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 
@@ -476,7 +476,7 @@
 
 ## ethereum 
 
-- [ApeWorX/ape](https://github.com/ApeWorX/ape) - Build and explore on-chain w/ Python
+- [ApeWorX/ape](https://github.com/ApeWorX/ape) - Build and explore on-chain with Python
 - [vyperlang/vyper](https://github.com/vyperlang/vyper) - Pythonic Smart Contract Language for the EVM
 
 ## finance 
@@ -505,7 +505,7 @@
 
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
-- [ApeWorX/ape](https://github.com/ApeWorX/ape) - Build and explore on-chain w/ Python
+- [ApeWorX/ape](https://github.com/ApeWorX/ape) - Build and explore on-chain with Python
 - [Naios/idle](https://github.com/Naios/idle) - Idle is an asynchronous and hot-reloadable C++ dynamic component framework
 - [userver-framework/userver](https://github.com/userver-framework/userver) - Production-ready C++ Asynchronous Framework with rich functionality
 - [edtechre/pybroker](https://github.com/edtechre/pybroker) - Algorithmic Trading in Python with Machine Learning
@@ -675,6 +675,7 @@
 
 ## latex 
 
+- [varkor/quiver](https://github.com/varkor/quiver) - A modern commutative diagram editor for the web.
 - [mirea-ninja/Latex-Template-for-Report-Diploma-Thesis](https://github.com/mirea-ninja/Latex-Template-for-Report-Diploma-Thesis) - LaTeX шаблоны для написания отчетов/дипломов/курсовых работ
 
 ## linux 
@@ -829,6 +830,7 @@
 
 ## others 
 
+- [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language
 - [swaits-typst-packages/finely-crafted-cv](https://github.com/swaits-typst-packages/finely-crafted-cv) - Beautiful CV/Resume template for Typst
 - [sds/overcommit](https://github.com/sds/overcommit) - A fully configurable and extendable Git hook manager
 - [HardAndHeavy/devbox](https://github.com/HardAndHeavy/devbox) - Spin up, test, and compare top web frameworks in seconds. Powered by Docker and hot-reloading.
@@ -1047,7 +1049,7 @@
 - [tursodatabase/libsql-python](https://github.com/tursodatabase/libsql-python) - Python bindings for the libSQL database library
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [fastapi/sqlmodel](https://github.com/fastapi/sqlmodel) - SQL databases in Python, designed for simplicity, compatibility, and robustness.
-- [ApeWorX/ape](https://github.com/ApeWorX/ape) - Build and explore on-chain w/ Python
+- [ApeWorX/ape](https://github.com/ApeWorX/ape) - Build and explore on-chain with Python
 - [vyperlang/vyper](https://github.com/vyperlang/vyper) - Pythonic Smart Contract Language for the EVM
 - [idandaniel/ballyregan](https://github.com/idandaniel/ballyregan) - Get working free proxies fast.
 - [alphasecio/langchain-examples](https://github.com/alphasecio/langchain-examples) - A collection of apps powered by the LangChain LLM framework.
@@ -1199,7 +1201,7 @@
 
 ## solidity 
 
-- [ApeWorX/ape](https://github.com/ApeWorX/ape) - Build and explore on-chain w/ Python
+- [ApeWorX/ape](https://github.com/ApeWorX/ape) - Build and explore on-chain with Python
 
 ## sql 
 

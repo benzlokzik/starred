@@ -196,6 +196,7 @@
 
 ## JavaScript 
 
+- [varkor/quiver](https://github.com/varkor/quiver) - A modern commutative diagram editor for the web.
 - [easonwong-de/Adaptive-Tab-Bar-Colour](https://github.com/easonwong-de/Adaptive-Tab-Bar-Colour) - Changes the colour of Firefox theme to match the website’s appearance.
 - [remarkjs/react-markdown](https://github.com/remarkjs/react-markdown) - Markdown component for React
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
@@ -252,6 +253,7 @@
 
 ## Others 
 
+- [TodePond/GulfOfMexico](https://github.com/TodePond/GulfOfMexico) - perfect programming language
 - [ComPWA/taplo-pre-commit](https://github.com/ComPWA/taplo-pre-commit) - A pre-commit hook for Taplo, a TOML formatter written in Rust
 - [LixieWulf/Allure](https://github.com/LixieWulf/Allure) - A massive HJSON mod focusing around quick-action, immersive RTS gameplay. Lore package included.
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
@@ -336,7 +338,7 @@
 - [Gozargah/Marzban](https://github.com/Gozargah/Marzban) - Unified GUI Censorship Resistant Solution Powered by Xray
 - [shamhi/HamsterKombatBot](https://github.com/shamhi/HamsterKombatBot) - Bot that mines coins in HamsterKombat
 - [petyasoft/Blum](https://github.com/petyasoft/Blum) - soft for @BlumCryptoBot
-- [ApeWorX/ape](https://github.com/ApeWorX/ape) - Build and explore on-chain w/ Python
+- [ApeWorX/ape](https://github.com/ApeWorX/ape) - Build and explore on-chain with Python
 - [vyperlang/vyper](https://github.com/vyperlang/vyper) - Pythonic Smart Contract Language for the EVM
 - [idandaniel/ballyregan](https://github.com/idandaniel/ballyregan) - Get working free proxies fast.
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.

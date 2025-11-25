@@ -72,6 +72,7 @@
 - [golang](#golang)
 - [good-first-issue](#good-first-issue)
 - [graphql](#graphql)
+- [gui](#gui)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
 - [html-css-javascript](#html-css-javascript)
@@ -164,6 +165,7 @@
 - [vue](#vue)
 - [web](#web)
 - [web-development](#web-development)
+- [web3](#web3)
 - [windows](#windows)
 - [zsh](#zsh)
 
@@ -584,6 +586,10 @@
 ## graphql 
 
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
+
+## gui 
+
+- [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 
 ## hacktoberfest 
 
@@ -1324,6 +1330,10 @@
 ## web-development 
 
 - [Winderton/xplatform](https://github.com/Winderton/xplatform) - Реализация фундаментальных проектов с курса по Computer Science
+
+## web3 
+
+- [ApeWorX/ape](https://github.com/ApeWorX/ape) - Build and explore on-chain with Python
 
 ## windows 
 

@@ -31,6 +31,7 @@
 - [cloud](#cloud)
 - [code](#code)
 - [code-review](#code-review)
+- [command-line](#command-line)
 - [compiler](#compiler)
 - [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
@@ -343,6 +344,10 @@
 ## code-review 
 
 - [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
+
+## command-line 
+
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 
 ## compiler 
 

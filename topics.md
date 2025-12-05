@@ -130,6 +130,7 @@
 - [python3](#python3)
 - [pytorch](#pytorch)
 - [quantitative-finance](#quantitative-finance)
+- [rag](#rag)
 - [react](#react)
 - [reactjs](#reactjs)
 - [redux](#redux)
@@ -1121,6 +1122,10 @@
 ## quantitative-finance 
 
 - [edtechre/pybroker](https://github.com/edtechre/pybroker) - Algorithmic Trading in Python with Machine Learning
+
+## rag 
+
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 
 ## react 
 

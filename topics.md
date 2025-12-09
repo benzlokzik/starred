@@ -850,6 +850,8 @@
 
 ## others 
 
+- [MrNightFury/Microservices](https://github.com/MrNightFury/Microservices) - 
+- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
 - [glambrechts/slydst](https://github.com/glambrechts/slydst) - Create simple static slides with Typst
 - [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 - [MeinAccount/renderLaTeXbot](https://github.com/MeinAccount/renderLaTeXbot) - 

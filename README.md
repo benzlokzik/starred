@@ -285,6 +285,8 @@
 
 ## Python 
 
+- [MrNightFury/Microservices](https://github.com/MrNightFury/Microservices) - 
+- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
 - [emcie-co/parlant](https://github.com/emcie-co/parlant) - LLM agents built for control. Designed for real-world use. Deployed in minutes.
 - [GerrySant/multimodalhugs](https://github.com/GerrySant/multimodalhugs) - MultimodalHugs is an extension of Hugging Face that offers a generalized framework for training, evaluating, and using multimodal AI models with minimal code differences, ensuring seamless compatibili
 - [idutvuk/reshallah](https://github.com/idutvuk/reshallah) - Утилита для решения примитивных вузовских задач по программированию при помощи LLM с поддержкой MCP и сборкой отчётов по ГОСТу через typst  Прозиносится как решалА.

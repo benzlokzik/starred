@@ -20,6 +20,7 @@
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [backend](#backend)
+- [bash](#bash)
 - [bitcoin](#bitcoin)
 - [blockchain](#blockchain)
 - [bot](#bot)
@@ -118,6 +119,7 @@
 - [package-manager](#package-manager)
 - [parsing](#parsing)
 - [penetration-testing](#penetration-testing)
+- [pentesting](#pentesting)
 - [php](#php)
 - [physics](#physics)
 - [postgresql](#postgresql)
@@ -276,6 +278,10 @@
 ## backend 
 
 - [benzlokzik/singlefile-webserver](https://github.com/benzlokzik/singlefile-webserver) - Python 🐍 from-scratch file webserver 🌐 without any dependencies 🚀 except Python 🐍 (with good page render 🎨)
+
+## bash 
+
+- [Nerds489/NETREAPER](https://github.com/Nerds489/NETREAPER) - Network security framework. 70+ tools. Built mean, runs clean.
 
 ## bitcoin 
 
@@ -700,6 +706,7 @@
 
 ## linux 
 
+- [Nerds489/NETREAPER](https://github.com/Nerds489/NETREAPER) - Network security framework. 70+ tools. Built mean, runs clean.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [aleff-github/my-flipper-shits](https://github.com/aleff-github/my-flipper-shits) - Free and libre source BadUSB payloads for Flipper Zero. [Windows, GNU/Linux, iOS]
@@ -1013,7 +1020,12 @@
 
 ## penetration-testing 
 
+- [Nerds489/NETREAPER](https://github.com/Nerds489/NETREAPER) - Network security framework. 70+ tools. Built mean, runs clean.
 - [paulveillard/cybersecurity-dark-web](https://github.com/paulveillard/cybersecurity-dark-web) - A collection of awesome software, libraries, learning tutorials, documents, books & technical resources and cool stuff about dark web.
+
+## pentesting 
+
+- [Nerds489/NETREAPER](https://github.com/Nerds489/NETREAPER) - Network security framework. 70+ tools. Built mean, runs clean.
 
 ## php 
 
@@ -1193,6 +1205,7 @@
 
 ## security 
 
+- [Nerds489/NETREAPER](https://github.com/Nerds489/NETREAPER) - Network security framework. 70+ tools. Built mean, runs clean.
 - [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Protect your SSH keys with your Mac's Secure Enclave
 - [snooppr/snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT world)

@@ -20,7 +20,6 @@
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
 - [backend](#backend)
-- [bash](#bash)
 - [bitcoin](#bitcoin)
 - [blockchain](#blockchain)
 - [bot](#bot)
@@ -120,7 +119,6 @@
 - [package-manager](#package-manager)
 - [parsing](#parsing)
 - [penetration-testing](#penetration-testing)
-- [pentesting](#pentesting)
 - [php](#php)
 - [physics](#physics)
 - [postgresql](#postgresql)
@@ -253,7 +251,7 @@
 
 ## automation 
 
-- [typst-g7-32/modern-g7-32](https://github.com/typst-g7-32/modern-g7-32) - Шаблон на typst для оформления документов согласно ГОСТ 7.32-2017.
+- [typst-g7-32/modern-g7-32](https://github.com/typst-g7-32/modern-g7-32) - Автоматизированный Typst шаблон для оформления документов согласно ГОСТ 7.32-2017.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [souravrs999/FaucetCryptoBot](https://github.com/souravrs999/FaucetCryptoBot) - A bot for FaucetCrypto a cryptocurrency faucet. The bot can currently claim PTC ads, main reward and all the shortlinks except exe.io and fc.lc.
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -279,10 +277,6 @@
 ## backend 
 
 - [benzlokzik/singlefile-webserver](https://github.com/benzlokzik/singlefile-webserver) - Python 🐍 from-scratch file webserver 🌐 without any dependencies 🚀 except Python 🐍 (with good page render 🎨)
-
-## bash 
-
-- [Nerds489/NETREAPER](https://github.com/Nerds489/NETREAPER) - Network security framework. 70+ tools. Built mean, runs clean.
 
 ## bitcoin 
 
@@ -712,7 +706,6 @@
 
 ## linux 
 
-- [Nerds489/NETREAPER](https://github.com/Nerds489/NETREAPER) - Network security framework. 70+ tools. Built mean, runs clean.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [bol-van/zapret](https://github.com/bol-van/zapret) - DPI bypass multi platform
 - [aleff-github/my-flipper-shits](https://github.com/aleff-github/my-flipper-shits) - Free and libre source BadUSB payloads for Flipper Zero. [Windows, GNU/Linux, iOS]
@@ -1026,12 +1019,7 @@
 
 ## penetration-testing 
 
-- [Nerds489/NETREAPER](https://github.com/Nerds489/NETREAPER) - Network security framework. 70+ tools. Built mean, runs clean.
 - [paulveillard/cybersecurity-dark-web](https://github.com/paulveillard/cybersecurity-dark-web) - A collection of awesome software, libraries, learning tutorials, documents, books & technical resources and cool stuff about dark web.
-
-## pentesting 
-
-- [Nerds489/NETREAPER](https://github.com/Nerds489/NETREAPER) - Network security framework. 70+ tools. Built mean, runs clean.
 
 ## php 
 
@@ -1211,7 +1199,6 @@
 
 ## security 
 
-- [Nerds489/NETREAPER](https://github.com/Nerds489/NETREAPER) - Network security framework. 70+ tools. Built mean, runs clean.
 - [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Protect your SSH keys with your Mac's Secure Enclave
 - [snooppr/snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT world)

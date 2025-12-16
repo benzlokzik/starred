@@ -63,6 +63,7 @@
 
 ## C 
 
+- [TEN-framework/ten-vad](https://github.com/TEN-framework/ten-vad) - Voice Activity Detector (VAD) : low-latency, high-performance and lightweight
 - [estkme-group/lpac](https://github.com/estkme-group/lpac) - C-based eUICC LPA
 - [zeromq/czmq](https://github.com/zeromq/czmq) - High-level C binding for ØMQ
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
@@ -227,6 +228,7 @@
 
 ## Kotlin 
 
+- [soupslurpr/BeauTyXT](https://github.com/soupslurpr/BeauTyXT) - A beautiful, private, secure, and minimalistic Text, Markdown, and Typst editor.
 - [MeinAccount/renderLaTeXbot](https://github.com/MeinAccount/renderLaTeXbot) - 
 - [estkme-group/openeuicc](https://github.com/estkme-group/openeuicc) - Mirror of OpenEUICC, a fully open-source LPA implementation for Android
 - [hushenghao/AndroidEasterEggs](https://github.com/hushenghao/AndroidEasterEggs) - Android Easter Egg Collections
@@ -285,6 +287,7 @@
 
 ## Python 
 
+- [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
 - [MrNightFury/Microservices](https://github.com/MrNightFury/Microservices) - 
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
 - [emcie-co/parlant](https://github.com/emcie-co/parlant) - LLM agents built for control. Designed for real-world use. Deployed in minutes.
@@ -507,6 +510,7 @@
 
 ## Typst 
 
+- [SergeyGorchakov/russian-phd-thesis-template-typst](https://github.com/SergeyGorchakov/russian-phd-thesis-template-typst) - Шаблон русской кандидатской диссертации на языке разметки typst.
 - [glambrechts/slydst](https://github.com/glambrechts/slydst) - Create simple static slides with Typst
 - [swaits-typst-packages/finely-crafted-cv](https://github.com/swaits-typst-packages/finely-crafted-cv) - Beautiful CV/Resume template for Typst
 - [typst-g7-32/modern-g7-32](https://github.com/typst-g7-32/modern-g7-32) - Автоматизированный Typst шаблон для оформления документов согласно ГОСТ 7.32-2017.

@@ -990,7 +990,6 @@
 - [0niel/map-rosbiotech](https://github.com/0niel/map-rosbiotech) - Интерактивная карта РОСБИОТЕХ
 - [peazip/PeaZip](https://github.com/peazip/PeaZip) - Free Zip / Unzip software and Rar file extractor. Cross-platform file and archive manager. Features volume spanning, compression, authenticated encryption. Supports 7Z, 7-Zip sfx, ACE, ARJ, Brotli, BZ
 - [mirea-ninja/landing](https://github.com/mirea-ninja/landing) - 
-- [Stability-AI/stablediffusion](https://github.com/Stability-AI/stablediffusion) - High-Resolution Image Synthesis with Latent Diffusion Models
 - [upptime/upptime](https://github.com/upptime/upptime) - ⬆️ GitHub Actions uptime monitor & status page by @AnandChowdhary
 - [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) - Interact with your documents using the power of GPT, 100% privately, no data leaks
 - [cnlohr/espusb](https://github.com/cnlohr/espusb) - Software-only ESP8266 USB Device

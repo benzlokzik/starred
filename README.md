@@ -287,6 +287,7 @@
 
 ## Python 
 
+- [AntonSHBK/visual-slam-core](https://github.com/AntonSHBK/visual-slam-core) - A Python-based SLAM prototype designed to capture video input, extract depth, build local 3D point clouds, and lay the foundation for full visual SLAM — with extensibility for navigation, mapping, and
 - [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
 - [MrNightFury/Microservices](https://github.com/MrNightFury/Microservices) - 
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI

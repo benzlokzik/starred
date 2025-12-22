@@ -874,6 +874,7 @@
 
 ## others 
 
+- [agrism/books](https://github.com/agrism/books) - must read
 - [AntonSHBK/visual-slam-core](https://github.com/AntonSHBK/visual-slam-core) - A Python-based SLAM prototype designed to capture video input, extract depth, build local 3D point clouds, and lay the foundation for full visual SLAM — with extensibility for navigation, mapping, and
 - [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
 - [SergeyGorchakov/russian-phd-thesis-template-typst](https://github.com/SergeyGorchakov/russian-phd-thesis-template-typst) - Шаблон русской кандидатской диссертации на языке разметки typst.
@@ -1061,6 +1062,7 @@
 
 ## privacy 
 
+- [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## productivity 

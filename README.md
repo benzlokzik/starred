@@ -409,6 +409,7 @@
 
 ## Rust 
 
+- [prefix-dev/pixi-pdf](https://github.com/prefix-dev/pixi-pdf) - Experimental tool to embed a pixi project in a PDF (e.g. research paper)
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
 - [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
 - [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust

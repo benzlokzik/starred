@@ -289,6 +289,7 @@
 
 ## Python 
 
+- [Kalitis/Ninth](https://github.com/Kalitis/Ninth) - Ninth is a modern stack programming language inspired by Forth but adapted for Function Calling in LLMs and autograd operations.
 - [NyanNyanovich/nyan](https://github.com/NyanNyanovich/nyan) - Automatic news aggregator in Telegram / Автоматический агрегатор новостей в Телеграме
 - [ultralytics/mkdocs](https://github.com/ultralytics/mkdocs) - MkDocs plugin for Ultralytics Docs at https://docs.ultralytics.com
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀

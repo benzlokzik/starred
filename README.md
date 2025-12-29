@@ -316,7 +316,7 @@
 - [alexbarker234/stonescript](https://github.com/alexbarker234/stonescript) - Stonescript for Stone Story RPG
 - [Catalyst-42/SSRPGS](https://github.com/Catalyst-42/SSRPGS) - Stone Story RPG save editor
 - [triton-inference-server/server](https://github.com/triton-inference-server/server) - The Triton Inference Server provides an optimized cloud and edge inferencing solution.
-- [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and multi-modality models.
+- [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a high-performance serving framework for large language models and multimodal models.
 - [a5chin/python-uv](https://github.com/a5chin/python-uv) - This repository contains configurations to set up a Python development environment using VSCode's Dev Container feature. The environment includes uv and Ruff.
 - [Carberra/python-is-awesome](https://github.com/Carberra/python-is-awesome) - All the code from my Python is Awesome videos.
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.

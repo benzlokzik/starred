@@ -1213,6 +1213,7 @@
 
 ## rust 
 
+- [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust
 - [sghng/typ2docx](https://github.com/sghng/typ2docx) - Convert math-rich Typst project to Microsoft Word format
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
 - [soupslurpr/BeauTyXT](https://github.com/soupslurpr/BeauTyXT) - A beautiful, private, secure, and minimalistic Text, Markdown, and Typst editor.

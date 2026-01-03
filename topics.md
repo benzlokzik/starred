@@ -101,6 +101,7 @@
 - [markdown](#markdown)
 - [mastodon](#mastodon)
 - [material-design](#material-design)
+- [mcp](#mcp)
 - [microservices](#microservices)
 - [monitoring](#monitoring)
 - [mysql](#mysql)
@@ -794,6 +795,11 @@
 ## material-design 
 
 - [soupslurpr/BeauTyXT](https://github.com/soupslurpr/BeauTyXT) - A beautiful, private, secure, and minimalistic Text, Markdown, and Typst editor.
+
+## mcp 
+
+- [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
+- [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
 
 ## microservices 
 

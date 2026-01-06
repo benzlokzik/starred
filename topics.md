@@ -56,6 +56,7 @@
 - [documentation](#documentation)
 - [education](#education)
 - [electron](#electron)
+- [elixir](#elixir)
 - [embedded](#embedded)
 - [ethereum](#ethereum)
 - [finance](#finance)
@@ -503,6 +504,10 @@
 
 - [027xiguapi/pear-rec](https://github.com/027xiguapi/pear-rec) - pear-rec is a free and open-source cross platform software for recording, recording, and taking screenshots
 
+## elixir 
+
+- [bluzky/salad_ui](https://github.com/bluzky/salad_ui) - Phoenix Liveview component library inspired by shadcn UI
+
 ## embedded 
 
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
@@ -896,6 +901,9 @@
 
 ## others 
 
+- [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
+- [qnguyen3/qqcode](https://github.com/qnguyen3/qqcode) - A lightweight CLI coding agent focused on speed, determinism, and developer control
 - [Kalitis/Ninth](https://github.com/Kalitis/Ninth) - Ninth is a modern stack programming language inspired by Forth but adapted for Function Calling in LLMs and autograd operations.
 - [prefix-dev/pixi-pdf](https://github.com/prefix-dev/pixi-pdf) - Experimental tool to embed a pixi project in a PDF (e.g. research paper)
 - [agrism/books](https://github.com/agrism/books) - must read
@@ -1327,6 +1335,7 @@
 
 ## tailwindcss 
 
+- [bluzky/salad_ui](https://github.com/bluzky/salad_ui) - Phoenix Liveview component library inspired by shadcn UI
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
 - [Nirnturt/mermaid-editor](https://github.com/Nirnturt/mermaid-editor) - A modern, web-based Mermaid diagram editor with real-time preview, multiple export formats, and responsive design. Built with Next.js, featuring dark/light themes and internationalization support.
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.

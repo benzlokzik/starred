@@ -16,6 +16,7 @@
 - [Cython](#cython)
 - [DM](#dm)
 - [Dart](#dart)
+- [Elixir](#elixir)
 - [GDScript](#gdscript)
 - [Git Attributes](#git-attributes)
 - [Go](#go)
@@ -148,6 +149,10 @@
 - [abuanwar072/Flutter-responsive-email-ui---Mobile-Tablet-and-Web](https://github.com/abuanwar072/Flutter-responsive-email-ui---Mobile-Tablet-and-Web) - We redesign the outlook app also make it responsive so that you can run it everywhere on your phone, tab, or web.
 - [abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) - Responsive Admin Panel or Dashboard using Flutter
 - [0niel/university-app](https://github.com/0niel/university-app) - A mobile application for the MIREA - Russian Technological University, which includes a schedule, news and many other functions
+
+## Elixir 
+
+- [bluzky/salad_ui](https://github.com/bluzky/salad_ui) - Phoenix Liveview component library inspired by shadcn UI
 
 ## GDScript 
 
@@ -289,6 +294,7 @@
 
 ## Python 
 
+- [qnguyen3/qqcode](https://github.com/qnguyen3/qqcode) - A lightweight CLI coding agent focused on speed, determinism, and developer control
 - [sghng/typ2docx](https://github.com/sghng/typ2docx) - Convert math-rich Typst project to Microsoft Word format
 - [Kalitis/Ninth](https://github.com/Kalitis/Ninth) - Ninth is a modern stack programming language inspired by Forth but adapted for Function Calling in LLMs and autograd operations.
 - [NyanNyanovich/nyan](https://github.com/NyanNyanovich/nyan) - Automatic news aggregator in Telegram / Автоматический агрегатор новостей в Телеграме
@@ -484,6 +490,8 @@
 
 ## TypeScript 
 
+- [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [James-Yu/LaTeX-Workshop](https://github.com/James-Yu/LaTeX-Workshop) - Boost LaTeX typesetting efficiency with preview, compile, autocomplete, colorize, and more.
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
 - [iebb/NekokoLPA](https://github.com/iebb/NekokoLPA) - Open-source LPA Software for Android and iOS

@@ -38,6 +38,7 @@
 - [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
 - [cryptography](#cryptography)
+- [csharp](#csharp)
 - [css](#css)
 - [cybersecurity](#cybersecurity)
 - [dart](#dart)
@@ -158,6 +159,7 @@
 - [sqlite](#sqlite)
 - [statistics](#statistics)
 - [svelte](#svelte)
+- [swift](#swift)
 - [tailwind](#tailwind)
 - [tailwindcss](#tailwindcss)
 - [telegram](#telegram)
@@ -172,6 +174,7 @@
 - [ui](#ui)
 - [unity](#unity)
 - [unreal-engine](#unreal-engine)
+- [video](#video)
 - [vpn](#vpn)
 - [vue](#vue)
 - [web](#web)
@@ -383,6 +386,7 @@
 
 ## cpp 
 
+- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [redorav/hlslpp](https://github.com/redorav/hlslpp) - Math library using HLSL syntax with multiplatform SIMD support
 - [cppmf/Version.cmake](https://github.com/cppmf/Version.cmake) - CMake module to easily generate version.h file
 - [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake) - 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
@@ -402,6 +406,10 @@
 
 - [ProvableHQ/snarkOS](https://github.com/ProvableHQ/snarkOS) - A Decentralized Operating System for ZK Applications
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
+
+## csharp 
+
+- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 
 ## css 
 
@@ -603,6 +611,7 @@
 
 ## go 
 
+- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -680,6 +689,7 @@
 
 ## ios 
 
+- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 - [aleff-github/my-flipper-shits](https://github.com/aleff-github/my-flipper-shits) - Free and libre source BadUSB payloads for Flipper Zero. [Windows, GNU/Linux, iOS]
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -692,6 +702,7 @@
 
 ## java 
 
+- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 
@@ -855,6 +866,7 @@
 
 ## nodejs 
 
+- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [027xiguapi/pear-rec](https://github.com/027xiguapi/pear-rec) - pear-rec is a free and open-source cross platform software for recording, recording, and taking screenshots
@@ -901,6 +913,7 @@
 
 ## others 
 
+- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [qnguyen3/qqcode](https://github.com/qnguyen3/qqcode) - A lightweight CLI coding agent focused on speed, determinism, and developer control
@@ -1118,6 +1131,7 @@
 
 ## python 
 
+- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [sghng/typ2docx](https://github.com/sghng/typ2docx) - Convert math-rich Typst project to Microsoft Word format
 - [NyanNyanovich/nyan](https://github.com/NyanNyanovich/nyan) - Automatic news aggregator in Telegram / Автоматический агрегатор новостей в Телеграме
 - [ultralytics/mkdocs](https://github.com/ultralytics/mkdocs) - MkDocs plugin for Ultralytics Docs at https://docs.ultralytics.com
@@ -1237,6 +1251,7 @@
 
 ## rust 
 
+- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust
 - [sghng/typ2docx](https://github.com/sghng/typ2docx) - Convert math-rich Typst project to Microsoft Word format
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Package management made easy
@@ -1259,7 +1274,7 @@
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
-- [Priler/jarvis](https://github.com/Priler/jarvis) - Voice assistant made as an experiment using neural networks for things like STT/TTS/Wake Word/NLU etc.
+- [Priler/jarvis](https://github.com/Priler/jarvis) - Offline voice assistant that respects your privacy. Forged in Rust.
 - [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) - A curated list of Rust code and resources.
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
 - [benzlokzik/image-base64-via-rust](https://github.com/benzlokzik/image-base64-via-rust) - Image's data to base64 converter, also can convert stdin data to unicode characters numbers
@@ -1329,6 +1344,10 @@
 
 - [caisy-io/starter-template-svelte-simple-blog](https://github.com/caisy-io/starter-template-svelte-simple-blog) - Simple Blog Starter with caisy and sveltekit
 
+## swift 
+
+- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+
 ## tailwind 
 
 - [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components.
@@ -1371,6 +1390,7 @@
 
 ## text-to-speech 
 
+- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [JonathanFly/bark](https://github.com/JonathanFly/bark) - 🚀 BARK INFINITY GUI CMD 🎶 Powered Up Bark Text-prompted Generative Audio Model
 - [snakers4/silero-models](https://github.com/snakers4/silero-models) - Silero Models: pre-trained text-to-speech models made embarrassingly simple
 - [metavoiceio/metavoice-src](https://github.com/metavoiceio/metavoice-src) - Foundational model for human-like, expressive TTS
@@ -1408,6 +1428,10 @@
 
 - [orange-cpp/omath](https://github.com/orange-cpp/omath) - Cross-platform modern general purpose math library written in C++23 that suitable for cheat/game development.
 
+## video 
+
+- [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
+
 ## vpn 
 
 - [Gozargah/Marzban](https://github.com/Gozargah/Marzban) - Unified GUI Censorship Resistant Solution Powered by Xray
@@ -1419,6 +1443,7 @@
 
 ## web 
 
+- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [benzlokzik/singlefile-webserver](https://github.com/benzlokzik/singlefile-webserver) - Python 🐍 from-scratch file webserver 🌐 without any dependencies 🚀 except Python 🐍 (with good page render 🎨)
 - [abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) - Responsive Admin Panel or Dashboard using Flutter
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications

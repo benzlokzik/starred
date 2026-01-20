@@ -83,6 +83,7 @@
 - [haskell](#haskell)
 - [html-css-javascript](#html-css-javascript)
 - [http](#http)
+- [instagram](#instagram)
 - [ios](#ios)
 - [iot](#iot)
 - [java](#java)
@@ -106,6 +107,7 @@
 - [mcp](#mcp)
 - [microservices](#microservices)
 - [monitoring](#monitoring)
+- [music](#music)
 - [mysql](#mysql)
 - [natural-language-processing](#natural-language-processing)
 - [neovim](#neovim)
@@ -170,6 +172,7 @@
 - [text-to-speech](#text-to-speech)
 - [trading](#trading)
 - [tui](#tui)
+- [twitter](#twitter)
 - [typescript](#typescript)
 - [ui](#ui)
 - [unity](#unity)
@@ -180,7 +183,9 @@
 - [web](#web)
 - [web-development](#web-development)
 - [web3](#web3)
+- [webapp](#webapp)
 - [windows](#windows)
+- [youtube](#youtube)
 - [zsh](#zsh)
 
 ## 3d 
@@ -592,6 +597,7 @@
 
 ## git 
 
+- [f/git-rewrite-commits](https://github.com/f/git-rewrite-commits) - AI-powered git commit message rewriter using Ollama or GPT
 - [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
 - [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake) - 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
 - [gitattributes/gitattributes](https://github.com/gitattributes/gitattributes) - A collection of useful .gitattributes templates
@@ -661,7 +667,7 @@
 - [earlephilhower/ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio) - Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, OGG/Opus, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32 and Pico
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 - [EndBug/add-and-commit](https://github.com/EndBug/add-and-commit) - :octocat: Automatically commit changes made in your workflow run directly to your repo
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [SpacehuhnTech/WiFiDuck](https://github.com/SpacehuhnTech/WiFiDuck) - Wireless keystroke injection attack platform
 - [Ashutosh00710/github-readme-activity-graph](https://github.com/Ashutosh00710/github-readme-activity-graph) - A dynamically generated activity graph to show your GitHub activities of last 31 days.
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
@@ -688,6 +694,10 @@
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [userver-framework/userver](https://github.com/userver-framework/userver) - Production-ready C++ Asynchronous Framework with rich functionality
 
+## instagram 
+
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+
 ## ios 
 
 - [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
@@ -709,6 +719,7 @@
 
 ## javascript 
 
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [petercunha/Donut](https://github.com/petercunha/Donut) - :robot: A JavaScript implementation of the infamous "donut.c" program
 - [bubkoo/html-to-image](https://github.com/bubkoo/html-to-image) - ✂️ Generates an image from a DOM node using HTML5 canvas and SVG.
@@ -770,7 +781,7 @@
 ## low-code 
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 
 ## lua 
 
@@ -832,6 +843,10 @@
 
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 
+## music 
+
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+
 ## mysql 
 
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
@@ -863,7 +878,7 @@
 ## no-code 
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 
 ## nodejs 
 
@@ -914,6 +929,7 @@
 
 ## others 
 
+- [actions/dependency-review-action](https://github.com/actions/dependency-review-action) - A GitHub Action for detecting vulnerable dependencies and invalid licenses in your PRs
 - [fengzilong/codemirror-shiki](https://github.com/fengzilong/codemirror-shiki) - 
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
@@ -1103,7 +1119,7 @@
 
 - [moebooru/moebooru](https://github.com/moebooru/moebooru) - Moebooru, a fork of danbooru1 that has been heavily modified
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 - [Winderton/xplatform](https://github.com/Winderton/xplatform) - Реализация фундаментальных проектов с курса по Computer Science
 - [userver-framework/userver](https://github.com/userver-framework/userver) - Production-ready C++ Asynchronous Framework with rich functionality
 
@@ -1243,7 +1259,7 @@
 
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [beanboi7/yomomma-apiv2](https://github.com/beanboi7/yomomma-apiv2) - REST-API using FastAPI for Python that gives a 'yo momma' joke
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 
 ## robotics 
 
@@ -1340,7 +1356,7 @@
 
 - [tursodatabase/libsql](https://github.com/tursodatabase/libsql) - libSQL is a fork of SQLite that is both Open Source, and Open Contributions.
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
-- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 Open Source Airtable Alternative
+- [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
 
 ## statistics 
 
@@ -1348,6 +1364,7 @@
 
 ## svelte 
 
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [caisy-io/starter-template-svelte-simple-blog](https://github.com/caisy-io/starter-template-svelte-simple-blog) - Simple Blog Starter with caisy and sveltekit
 
 ## swift 
@@ -1411,8 +1428,13 @@
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 
+## twitter 
+
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+
 ## typescript 
 
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [beenotung/ts-liveview](https://github.com/beenotung/ts-liveview) - Build hybrid SSG and SSR realtime SPA/MPA with Typescript
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 - [supermemoryai/supermemory](https://github.com/supermemoryai/supermemory) - Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.
@@ -1437,6 +1459,7 @@
 
 ## video 
 
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 
 ## vpn 
@@ -1466,6 +1489,10 @@
 
 - [ApeWorX/ape](https://github.com/ApeWorX/ape) - Build and explore on-chain with Python
 
+## webapp 
+
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+
 ## windows 
 
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
@@ -1476,6 +1503,10 @@
 - [dorssel/usbipd-win](https://github.com/dorssel/usbipd-win) - Windows software for sharing locally connected USB devices to other machines, including Hyper-V guests and WSL 2.
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+
+## youtube 
+
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 
 ## zsh 
 

@@ -932,6 +932,7 @@
 
 ## others 
 
+- [CNC5/reflector](https://github.com/CNC5/reflector) - xray node manager
 - [rust-unofficial/too-many-lists](https://github.com/rust-unofficial/too-many-lists) - Learn Rust by writing Entirely Too Many linked lists
 - [actions/dependency-review-action](https://github.com/actions/dependency-review-action) - A GitHub Action for detecting vulnerable dependencies and invalid licenses in your PRs
 - [fengzilong/codemirror-shiki](https://github.com/fengzilong/codemirror-shiki) - 

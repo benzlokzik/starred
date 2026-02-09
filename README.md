@@ -502,7 +502,6 @@
 
 - [f/git-rewrite-commits](https://github.com/f/git-rewrite-commits) - AI-powered git commit message rewriter using Ollama or GPT
 - [actions/dependency-review-action](https://github.com/actions/dependency-review-action) - A GitHub Action for detecting vulnerable dependencies and invalid licenses in your PRs
-- [fengzilong/codemirror-shiki](https://github.com/fengzilong/codemirror-shiki) - 
 - [beenotung/ts-liveview](https://github.com/beenotung/ts-liveview) - Build hybrid SSG and SSR realtime SPA/MPA with Typescript
 - [virattt/dexter](https://github.com/virattt/dexter) - An autonomous agent for deep financial research
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.

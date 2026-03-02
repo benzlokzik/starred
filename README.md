@@ -97,7 +97,7 @@
 - [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [imputnet/helium](https://github.com/imputnet/helium) - Private, fast, and honest web browser
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
-- [Vincent-Therrien/gpu-arena](https://github.com/Vincent-Therrien/gpu-arena) - Compare and test GPU programming frameworks
+- [Vincent-Therrien/gpu-arena](https://github.com/Vincent-Therrien/gpu-arena) - Compare and test GPU programming frameworks / Comparaison d'outils pour GPU
 - [ggerganov/ggwave](https://github.com/ggerganov/ggwave) - Tiny data-over-sound library
 - [orange-cpp/omath](https://github.com/orange-cpp/omath) - Cross-platform modern general purpose math library written in C++23 that suitable for cheat/game development.
 - [redorav/hlslpp](https://github.com/redorav/hlslpp) - Math library using HLSL syntax with multiplatform SIMD support

@@ -192,7 +192,7 @@
 
 ## 3d 
 
-- [orange-cpp/omath](https://github.com/orange-cpp/omath) - Cross-platform modern general purpose math library written in C++23 that suitable for cheat/game development.
+- [orange-cpp/omath](https://github.com/orange-cpp/omath) - Cross-platform modern general purpose game/mods/cheats development framework written in C++23.
 
 ## agent 
 
@@ -583,7 +583,7 @@
 
 ## game-development 
 
-- [orange-cpp/omath](https://github.com/orange-cpp/omath) - Cross-platform modern general purpose math library written in C++23 that suitable for cheat/game development.
+- [orange-cpp/omath](https://github.com/orange-cpp/omath) - Cross-platform modern general purpose game/mods/cheats development framework written in C++23.
 - [redorav/hlslpp](https://github.com/redorav/hlslpp) - Math library using HLSL syntax with multiplatform SIMD support
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
@@ -593,7 +593,7 @@
 
 ## gamedev 
 
-- [orange-cpp/omath](https://github.com/orange-cpp/omath) - Cross-platform modern general purpose math library written in C++23 that suitable for cheat/game development.
+- [orange-cpp/omath](https://github.com/orange-cpp/omath) - Cross-platform modern general purpose game/mods/cheats development framework written in C++23.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
 ## generative-ai 
@@ -930,7 +930,7 @@
 
 ## opengl 
 
-- [orange-cpp/omath](https://github.com/orange-cpp/omath) - Cross-platform modern general purpose math library written in C++23 that suitable for cheat/game development.
+- [orange-cpp/omath](https://github.com/orange-cpp/omath) - Cross-platform modern general purpose game/mods/cheats development framework written in C++23.
 
 ## operating-system 
 
@@ -1125,7 +1125,7 @@
 
 ## physics 
 
-- [orange-cpp/omath](https://github.com/orange-cpp/omath) - Cross-platform modern general purpose math library written in C++23 that suitable for cheat/game development.
+- [orange-cpp/omath](https://github.com/orange-cpp/omath) - Cross-platform modern general purpose game/mods/cheats development framework written in C++23.
 
 ## postgresql 
 
@@ -1464,11 +1464,11 @@
 
 ## unity 
 
-- [orange-cpp/omath](https://github.com/orange-cpp/omath) - Cross-platform modern general purpose math library written in C++23 that suitable for cheat/game development.
+- [orange-cpp/omath](https://github.com/orange-cpp/omath) - Cross-platform modern general purpose game/mods/cheats development framework written in C++23.
 
 ## unreal-engine 
 
-- [orange-cpp/omath](https://github.com/orange-cpp/omath) - Cross-platform modern general purpose math library written in C++23 that suitable for cheat/game development.
+- [orange-cpp/omath](https://github.com/orange-cpp/omath) - Cross-platform modern general purpose game/mods/cheats development framework written in C++23.
 
 ## v2ray 
 

@@ -32,7 +32,6 @@
 - [Lua](#lua)
 - [Markdown](#markdown)
 - [Mojo](#mojo)
-- [Objective-C](#objective-c)
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
@@ -263,10 +262,6 @@
 
 - [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
 
-## Objective-C 
-
-- [samhenrigold/LidAngleSensor](https://github.com/samhenrigold/LidAngleSensor) - tfw when you when your lid when uhh angle your lid sensor
-
 ## Others 
 
 - [agrism/books](https://github.com/agrism/books) - must read
@@ -492,6 +487,7 @@
 
 ## Swift 
 
+- [samhenrigold/LidAngleSensor](https://github.com/samhenrigold/LidAngleSensor) - tfw when you when your lid when uhh angle your lid sensor
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Protect your SSH keys with your Mac's Secure Enclave
 
 ## TeX 
@@ -501,6 +497,7 @@
 
 ## TypeScript 
 
+- [idutvuk/CustomBangSearch](https://github.com/idutvuk/CustomBangSearch) - My fork of psidex/CustomBangSearch - A browser extension that lets you use custom DuckDuckGo-style bangs directly from the address bar
 - [f/git-rewrite-commits](https://github.com/f/git-rewrite-commits) - AI-powered git commit message rewriter using Ollama or GPT
 - [actions/dependency-review-action](https://github.com/actions/dependency-review-action) - A GitHub Action for detecting vulnerable dependencies and invalid licenses in your PRs
 - [beenotung/ts-liveview](https://github.com/beenotung/ts-liveview) - Build hybrid SSG and SSR realtime SPA/MPA with Typescript

@@ -60,6 +60,7 @@
 - [electron](#electron)
 - [elixir](#elixir)
 - [embedded](#embedded)
+- [esp32](#esp32)
 - [ethereum](#ethereum)
 - [fastapi](#fastapi)
 - [finance](#finance)
@@ -538,6 +539,11 @@
 ## embedded 
 
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
+
+## esp32 
+
+- [GyverLibs/GyverHub](https://github.com/GyverLibs/GyverHub) - Панель управления для ESP8266, ESP32 и других Arduino. Конструктор интерфейса. Интеграция в умный дом. Esp8266, esp32 and Arduino Dashboard library
+- [earlephilhower/ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio) - Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, OGG/Opus, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32 and Pico
 
 ## ethereum 
 

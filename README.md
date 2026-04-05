@@ -436,14 +436,13 @@
 - [prefix-dev/pixi-pdf](https://github.com/prefix-dev/pixi-pdf) - Experimental tool to embed a pixi project in a PDF (e.g. research paper)
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
 - [tamasfe/taplo](https://github.com/tamasfe/taplo) - A TOML toolkit written in Rust
-- [j178/prek](https://github.com/j178/prek) - ⚡ Better `pre-commit`, re-engineered in Rust
+- [j178/prek](https://github.com/j178/prek) - ⚡ A Git hook manager written in Rust, designed as a drop-in alternative to pre-commit.
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale
 - [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [bootandy/dust](https://github.com/bootandy/dust) - A more intuitive version of du in rust
 - [servicer-labs/servicer](https://github.com/servicer-labs/servicer) - A CLI to simplify service management on systemd
 - [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 - [ikatson/rqbit](https://github.com/ikatson/rqbit) - A bittorrent client in Rust
-- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [tursodatabase/libsql-python](https://github.com/tursodatabase/libsql-python) - Python bindings for the libSQL database library
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
@@ -518,6 +517,7 @@
 - [Nirnturt/mermaid-editor](https://github.com/Nirnturt/mermaid-editor) - A modern, web-based Mermaid diagram editor with real-time preview, multiple export formats, and responsive design. Built with Next.js, featuring dark/light themes and internationalization support.
 - [anus-dev/ANUS](https://github.com/anus-dev/ANUS) - 
 - [caisy-io/starter-template-svelte-simple-blog](https://github.com/caisy-io/starter-template-svelte-simple-blog) - Simple Blog Starter with caisy and sveltekit
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [tact-lang/web-ide](https://github.com/tact-lang/web-ide) - TON Web IDE is your ultimate browser-based IDE designed to simplify the journey of writing, testing, compiling, deploying, and interacting with smart contracts on TON. Write smart contracts from anywh
 - [wandb/openui](https://github.com/wandb/openui) - OpenUI let's you describe UI using your imagination, then see it rendered live.

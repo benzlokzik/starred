@@ -144,7 +144,7 @@
 ## Dart 
 
 - [aloisdeniel/flutter_device_preview](https://github.com/aloisdeniel/flutter_device_preview) - Approximate how your app looks and performs on another device.
-- [team113/messenger](https://github.com/team113/messenger) - Open-source front-end part of messenger by team113
+- [team113/messenger](https://github.com/team113/messenger) - [Closed] Open-source front-end part of messenger by team113
 - [sermakov/google-sheet-2-flutter](https://github.com/sermakov/google-sheet-2-flutter) - Fetch data from GoogleSheet to flutter app
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [abuanwar072/Flutter-responsive-email-ui---Mobile-Tablet-and-Web](https://github.com/abuanwar072/Flutter-responsive-email-ui---Mobile-Tablet-and-Web) - We redesign the outlook app also make it responsive so that you can run it everywhere on your phone, tab, or web.

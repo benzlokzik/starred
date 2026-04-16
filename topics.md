@@ -1019,7 +1019,7 @@
 - [sammwyy/MikuMikuBeam](https://github.com/sammwyy/MikuMikuBeam) - An open-source network stresser tool but it's Hatsune Miku
 - [DenisSergeevitch/chatgpt-custom-instructions](https://github.com/DenisSergeevitch/chatgpt-custom-instructions) - My own Prompts for Custom instructions ChatGPT
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
-- [huggingface/safetensors](https://github.com/huggingface/safetensors) - Simple, safe way to store and distribute tensors
+- [safetensors/safetensors](https://github.com/safetensors/safetensors) - Simple, safe way to store and distribute tensors
 - [aio-libs/aiojobs](https://github.com/aio-libs/aiojobs) - Jobs scheduler for managing background task (asyncio)
 - [aio-libs/aiocache](https://github.com/aio-libs/aiocache) - Asyncio cache manager for redis, memcached and memory
 - [RVC-Project/Retrieval-based-Voice-Conversion-WebUI](https://github.com/RVC-Project/Retrieval-based-Voice-Conversion-WebUI) - Easily train a good VC model with voice data &lt;= 10 mins!

@@ -1329,6 +1329,7 @@
 
 ## rust 
 
+- [Latias94/merman](https://github.com/Latias94/merman) - Mermaid, but headless, in Rust. Mermaid is a Rust, headless, 1:1 re-implementation of Mermaid
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust

@@ -505,6 +505,7 @@
 
 ## TypeScript 
 
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [idutvuk/CustomBangSearch](https://github.com/idutvuk/CustomBangSearch) - My fork of psidex/CustomBangSearch - A browser extension that lets you use custom DuckDuckGo-style bangs directly from the address bar
 - [f/git-rewrite-commits](https://github.com/f/git-rewrite-commits) - AI-powered git commit message rewriter using Ollama or GPT
 - [actions/dependency-review-action](https://github.com/actions/dependency-review-action) - A GitHub Action for detecting vulnerable dependencies and invalid licenses in your PRs

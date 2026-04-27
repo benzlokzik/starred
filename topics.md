@@ -69,6 +69,7 @@
 - [flutter](#flutter)
 - [flutter-apps](#flutter-apps)
 - [framework](#framework)
+- [frontend](#frontend)
 - [game](#game)
 - [game-development](#game-development)
 - [game-engine](#game-engine)
@@ -112,6 +113,7 @@
 - [material-design](#material-design)
 - [mcp](#mcp)
 - [microservices](#microservices)
+- [mongodb](#mongodb)
 - [monitoring](#monitoring)
 - [music](#music)
 - [mysql](#mysql)
@@ -303,6 +305,7 @@
 
 ## backend 
 
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [benzlokzik/singlefile-webserver](https://github.com/benzlokzik/singlefile-webserver) - Python 🐍 from-scratch file webserver 🌐 without any dependencies 🚀 except Python 🐍 (with good page render 🎨)
 
 ## bitcoin 
@@ -474,6 +477,7 @@
 
 ## deployment 
 
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [crazy-max/ghaction-github-pages](https://github.com/crazy-max/ghaction-github-pages) - GitHub Action to deploy to GitHub Pages
 
 ## developer-tools 
@@ -494,6 +498,7 @@
 
 ## devops 
 
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 
@@ -515,6 +520,7 @@
 
 ## docker 
 
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [wemake-services/wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge django template focused on code quality and security.
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
@@ -599,6 +605,10 @@
 - [userver-framework/userver](https://github.com/userver-framework/userver) - Production-ready C++ Asynchronous Framework with rich functionality
 - [edtechre/pybroker](https://github.com/edtechre/pybroker) - Algorithmic Trading in Python with Machine Learning
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
+
+## frontend 
+
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 
 ## game 
 
@@ -889,6 +899,10 @@
 
 - [userver-framework/userver](https://github.com/userver-framework/userver) - Production-ready C++ Asynchronous Framework with rich functionality
 
+## mongodb 
+
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
+
 ## monitoring 
 
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
@@ -899,6 +913,7 @@
 
 ## mysql 
 
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 
 ## natural-language-processing 
@@ -916,6 +931,7 @@
 
 ## nextjs 
 
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components.
 - [Nirnturt/mermaid-editor](https://github.com/Nirnturt/mermaid-editor) - A modern, web-based Mermaid diagram editor with real-time preview, multiple export formats, and responsive design. Built with Next.js, featuring dark/light themes and internationalization support.
 - [bitswired/fuseai](https://github.com/bitswired/fuseai) - Self-Hosted and Open-Source web app to interact with OpenAI APIs. Currently supports ChatGPT, but DALLE and Whisper support is coming.
@@ -1166,6 +1182,7 @@
 
 ## postgresql 
 
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [moebooru/moebooru](https://github.com/moebooru/moebooru) - Moebooru, a fork of danbooru1 that has been heavily modified
 - [launchbadge/sqlx](https://github.com/launchbadge/sqlx) - 🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, and SQLite.
 - [nocodb/nocodb](https://github.com/nocodb/nocodb) - 🔥 🔥 🔥 A Free & Self-hostable Airtable Alternative
@@ -1372,6 +1389,7 @@
 
 ## self-hosted 
 
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
 - [amr3k/oiwa](https://github.com/amr3k/oiwa) - A simple Telegram bot that converts a phone number to a direct whatsapp chat link
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.

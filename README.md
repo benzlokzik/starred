@@ -302,6 +302,7 @@
 
 ## Python 
 
+- [idutvuk/find_some_work_bot](https://github.com/idutvuk/find_some_work_bot) - Парсит чаты на вакансии для вас и ваших друзей
 - [wemake-services/wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge django template focused on code quality and security.
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.
 - [qnguyen3/qqcode](https://github.com/qnguyen3/qqcode) - A lightweight CLI coding agent focused on speed, determinism, and developer control
@@ -316,7 +317,6 @@
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
 - [emcie-co/parlant](https://github.com/emcie-co/parlant) - The interaction control harness for customer-facing AI agents - optimized for building controlled, consistent, and predictable customer interactions with LLMs.
 - [GerrySant/multimodalhugs](https://github.com/GerrySant/multimodalhugs) - MultimodalHugs is an extension of Hugging Face that offers a generalized framework for training, evaluating, and using multimodal AI models with minimal code differences, ensuring seamless compatibili
-- [idutvuk/reshallah](https://github.com/idutvuk/reshallah) - Утилита для решения примитивных вузовских задач по программированию при помощи LLM с поддержкой MCP и сборкой отчётов по ГОСТу через typst  Прозиносится как решалА.
 - [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS) - Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
 - [canopyai/Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS) - Towards Human-Sounding Speech
 - [vaibhavagg303/DARS-Agent](https://github.com/vaibhavagg303/DARS-Agent) - 

@@ -371,7 +371,7 @@
 - [ApeWorX/ape](https://github.com/ApeWorX/ape) - Build and explore on-chain with Python
 - [vyperlang/vyper](https://github.com/vyperlang/vyper) - Pythonic Smart Contract Language for the EVM
 - [idandaniel/ballyregan](https://github.com/idandaniel/ballyregan) - Get working free proxies fast.
-- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs.
+- [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient language agents as graphs. Available in TypeScript!
 - [experienced-dev/chatgpt-plugin-fastapi-langchain-chroma](https://github.com/experienced-dev/chatgpt-plugin-fastapi-langchain-chroma) - An Example Plugin for ChatGPT, Utilizing FastAPI, LangChain and Chroma
 - [alphasecio/langchain-examples](https://github.com/alphasecio/langchain-examples) - A collection of apps powered by the LangChain LLM framework.
 - [metavoiceio/metavoice-src](https://github.com/metavoiceio/metavoice-src) - Foundational model for human-like, expressive TTS

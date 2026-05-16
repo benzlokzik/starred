@@ -504,6 +504,7 @@
 
 ## TypeScript 
 
+- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) AI terminal emulator (ADE) built in Rust & Tauri & React
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [idutvuk/CustomBangSearch](https://github.com/idutvuk/CustomBangSearch) - My fork of psidex/CustomBangSearch - A browser extension that lets you use custom DuckDuckGo-style bangs directly from the address bar

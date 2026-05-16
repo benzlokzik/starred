@@ -298,6 +298,7 @@
 
 ## Python 
 
+- [benzlokzik-university/prompt-autoimprove](https://github.com/benzlokzik-university/prompt-autoimprove) - 
 - [DefaultPerson/agent-setup](https://github.com/DefaultPerson/agent-setup) - Universal setup for Claude Code & Codex CLI — security guard, TTS notifications, status line, slash commands
 - [idutvuk/find_some_work_bot](https://github.com/idutvuk/find_some_work_bot) - Парсит чаты на вакансии для вас и ваших друзей
 - [wemake-services/wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge django template focused on code quality and security.

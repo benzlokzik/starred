@@ -1007,6 +1007,7 @@
 
 ## others 
 
+- [benzlokzik-university/prompt-autoimprove](https://github.com/benzlokzik-university/prompt-autoimprove) - 
 - [crbelaus/bun](https://github.com/crbelaus/bun) - An installer for bun
 - [wolfi-dev/os](https://github.com/wolfi-dev/os) - Main package repository for production Wolfi images
 - [idutvuk/find_some_work_bot](https://github.com/idutvuk/find_some_work_bot) - Парсит чаты на вакансии для вас и ваших друзей

@@ -206,7 +206,7 @@
 ## agent 
 
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
-- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
 
 ## agents 
 
@@ -220,7 +220,7 @@
 - [BrainBlend-AI/atomic-agents](https://github.com/BrainBlend-AI/atomic-agents) - Building AI agents, atomically
 - [fixie-ai/ultravox](https://github.com/fixie-ai/ultravox) - A fast multimodal LLM for real-time voice
 - [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
-- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
 - [pytorch/rl](https://github.com/pytorch/rl) - A modular, primitive-first, python-first PyTorch library for Reinforcement Learning.
 - [JonathanFly/bark](https://github.com/JonathanFly/bark) - 🚀 BARK INFINITY GUI CMD 🎶 Powered Up Bark Text-prompted Generative Audio Model
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -344,7 +344,7 @@
 
 ## chatbot 
 
-- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
 - [bigscience-workshop/petals](https://github.com/bigscience-workshop/petals) - 🌸 Run LLMs at home, BitTorrent-style. Fine-tuning and inference up to 10x faster than offloading
@@ -512,7 +512,7 @@
 
 ## discord 
 
-- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
 
 ## distributed-systems 
@@ -606,7 +606,7 @@
 ## framework 
 
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
 - [ApeWorX/ape](https://github.com/ApeWorX/ape) - Build and explore on-chain with Python
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
 - [Naios/idle](https://github.com/Naios/idle) - Idle is an asynchronous and hot-reloadable C++ dynamic component framework
@@ -1315,7 +1315,7 @@
 
 ## rag 
 
-- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
 
 ## raspberry-pi 
@@ -1482,7 +1482,7 @@
 ## telegram 
 
 - [NyanNyanovich/nyan](https://github.com/NyanNyanovich/nyan) - Automatic news aggregator in Telegram / Автоматический агрегатор новостей в Телеграме
-- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Autonomous agents for everyone
+- [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
 - [KurimuzonAkuma/kurigram](https://github.com/KurimuzonAkuma/kurigram) - A Pyrogram fork with lots of features (Gifts, Stories, Topics and more).
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
 

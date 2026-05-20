@@ -129,6 +129,7 @@
 
 ## CSS 
 
+- [TEParsons/torillic](https://github.com/TEParsons/torillic) - A D&D inspired theme for styling TTRPG notes and resources
 - [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx) - Opera GX Skin for Firefox
 - [DestructiveVoice/DestructiveFarm](https://github.com/DestructiveVoice/DestructiveFarm) - 📢 🔒  Exploit manager for attack-defense CTF competitions
 
@@ -188,6 +189,7 @@
 
 ## HTML 
 
+- [dracula/mkdocs](https://github.com/dracula/mkdocs) - 🧛🏻‍♂️ Dark theme for Mkdocs
 - [skizzophrenic/Ubers-SD-Files](https://github.com/skizzophrenic/Ubers-SD-Files) - These are all of the SD card assets you need for your Flipper Zero!
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
 - [aleff-github/my-flipper-shits](https://github.com/aleff-github/my-flipper-shits) - Free and libre source BadUSB payloads for Flipper Zero. [Windows, GNU/Linux, iOS]
@@ -298,6 +300,13 @@
 
 ## Python 
 
+- [mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) - :blue_book: Automatic documentation from sources, for MkDocs.
+- [blueswen/mkdocs-swagger-ui-tag](https://github.com/blueswen/mkdocs-swagger-ui-tag) - A MkDocs plugin supports adding Swagger UI to the page.
+- [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins.
+- [buvis/mkdocs-zettelkasten](https://github.com/buvis/mkdocs-zettelkasten) - This is a Zettelkasten theme and plugin for MkDocs. It renders the MkDocs pages as cards (zettels).
+- [wilhelmer/mkdocs-multirepo](https://github.com/wilhelmer/mkdocs-multirepo) - A bit like monorepo, but keeps MkDocs projects separate.
+- [jimporter/mike](https://github.com/jimporter/mike) - Manage multiple versions of your MkDocs-powered documentation via Git
+- [backstage/mkdocs-monorepo-plugin](https://github.com/backstage/mkdocs-monorepo-plugin) - ✚ Build multiple documentation folders in a single Mkdocs. Designed for large codebases.
 - [benzlokzik-university/prompt-autoimprove](https://github.com/benzlokzik-university/prompt-autoimprove) - 
 - [DefaultPerson/agent-setup](https://github.com/DefaultPerson/agent-setup) - Universal setup for Claude Code & Codex CLI — security guard, TTS notifications, status line, slash commands
 - [idutvuk/find_some_work_bot](https://github.com/idutvuk/find_some_work_bot) - Парсит чаты на вакансии для вас и ваших друзей

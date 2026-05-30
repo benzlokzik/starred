@@ -167,6 +167,7 @@
 
 ## Go 
 
+- [triaon/tickr](https://github.com/triaon/tickr) - CLI and desktop UI to fetch normalized trading instruments from different CEX exchanges
 - [CNC5/reflector](https://github.com/CNC5/reflector) - xray node manager
 - [abiosoft/colima](https://github.com/abiosoft/colima) - Container runtimes on macOS (and Linux) with minimal setup
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
@@ -505,6 +506,7 @@
 
 ## Swift 
 
+- [tranvuongquocdat/SideScreen](https://github.com/tranvuongquocdat/SideScreen) - 
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
 - [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [samhenrigold/LidAngleSensor](https://github.com/samhenrigold/LidAngleSensor) - tfw when you when your lid when uhh angle your lid sensor

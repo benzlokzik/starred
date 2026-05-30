@@ -1036,6 +1036,8 @@
 
 ## others 
 
+- [tranvuongquocdat/SideScreen](https://github.com/tranvuongquocdat/SideScreen) - 
+- [triaon/tickr](https://github.com/triaon/tickr) - CLI and desktop UI to fetch normalized trading instruments from different CEX exchanges
 - [GongRzhe/Office-Word-MCP-Server](https://github.com/GongRzhe/Office-Word-MCP-Server) - A Model Context Protocol (MCP) server for creating, reading, and manipulating Microsoft Word documents. This server enables AI assistants to work with Word documents through a standardized interface, 
 - [blueswen/mkdocs-swagger-ui-tag](https://github.com/blueswen/mkdocs-swagger-ui-tag) - A MkDocs plugin supports adding Swagger UI to the page.
 - [mkdocs/catalog](https://github.com/mkdocs/catalog) - :trophy: :books: A list of awesome MkDocs projects and plugins.

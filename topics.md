@@ -1316,7 +1316,7 @@
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [apache/datafusion-ballista-python](https://github.com/apache/datafusion-ballista-python) - Apache Arrow Ballista Python bindings
 - [natasha/slovnet](https://github.com/natasha/slovnet) - Deep Learning based NLP modeling for Russian language
-- [KurimuzonAkuma/kurigram](https://github.com/KurimuzonAkuma/kurigram) - A Pyrogram fork with lots of features (Gifts, Stories, Topics and more).
+- [KurimuzonAkuma/kurigram](https://github.com/KurimuzonAkuma/kurigram) - Kurigram — actively maintained Pyrogram fork with support for Gifts, Stories, Topics, business features and the latest Telegram updates.
 - [pydantic/pydantic](https://github.com/pydantic/pydantic) - Data validation using Python type hints
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [PyO3/pyo3](https://github.com/PyO3/pyo3) - Rust bindings for the Python interpreter
@@ -1338,7 +1338,7 @@
 - [bloomberg/memray](https://github.com/bloomberg/memray) - Memray is a memory profiler for Python
 - [omnilib/aiomultiprocess](https://github.com/omnilib/aiomultiprocess) - Take a modern Python codebase to the next level of performance.
 - [celery/celery](https://github.com/celery/celery) - Distributed Task Queue (development branch)
-- [KurimuzonAkuma/kurigram](https://github.com/KurimuzonAkuma/kurigram) - A Pyrogram fork with lots of features (Gifts, Stories, Topics and more).
+- [KurimuzonAkuma/kurigram](https://github.com/KurimuzonAkuma/kurigram) - Kurigram — actively maintained Pyrogram fork with support for Gifts, Stories, Topics, business features and the latest Telegram updates.
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
 - [benzlokzik/image-base64-via-rust](https://github.com/benzlokzik/image-base64-via-rust) - Image's data to base64 converter, also can convert stdin data to unicode characters numbers
 
@@ -1410,7 +1410,7 @@
 
 - [GoogleChromeLabs/wasm-bindgen-rayon](https://github.com/GoogleChromeLabs/wasm-bindgen-rayon) - An adapter for enabling Rayon-based concurrency on the Web with WebAssembly.
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
-- [Latias94/merman](https://github.com/Latias94/merman) - Mermaid, but headless, in Rust. Mermaid is a Rust, headless, 1:1 re-implementation of Mermaid
+- [Latias94/merman](https://github.com/Latias94/merman) - Mermaid, but headless, in Rust. Merman is a Rust, headless, 1:1 re-implementation of Mermaid
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust
@@ -1528,7 +1528,7 @@
 
 - [NyanNyanovich/nyan](https://github.com/NyanNyanovich/nyan) - Automatic news aggregator in Telegram / Автоматический агрегатор новостей в Телеграме
 - [elizaOS/eliza](https://github.com/elizaOS/eliza) - Open source agentic operating system
-- [KurimuzonAkuma/kurigram](https://github.com/KurimuzonAkuma/kurigram) - A Pyrogram fork with lots of features (Gifts, Stories, Topics and more).
+- [KurimuzonAkuma/kurigram](https://github.com/KurimuzonAkuma/kurigram) - Kurigram — actively maintained Pyrogram fork with support for Gifts, Stories, Topics, business features and the latest Telegram updates.
 - [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
 
 ## telegram-bot 
@@ -1536,7 +1536,7 @@
 - [shamhi/HamsterKombatBot](https://github.com/shamhi/HamsterKombatBot) - Bot that mines coins in HamsterKombat
 - [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python
 - [amr3k/oiwa](https://github.com/amr3k/oiwa) - A simple Telegram bot that converts a phone number to a direct whatsapp chat link
-- [KurimuzonAkuma/kurigram](https://github.com/KurimuzonAkuma/kurigram) - A Pyrogram fork with lots of features (Gifts, Stories, Topics and more).
+- [KurimuzonAkuma/kurigram](https://github.com/KurimuzonAkuma/kurigram) - Kurigram — actively maintained Pyrogram fork with support for Gifts, Stories, Topics, business features and the latest Telegram updates.
 - [necrosskull/mirea-teacher-schedule-bot](https://github.com/necrosskull/mirea-teacher-schedule-bot) - Расписание преподавателей МИРЭА
 
 ## tensorflow 

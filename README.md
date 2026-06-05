@@ -439,7 +439,7 @@
 
 ## Rust 
 
-- [Latias94/merman](https://github.com/Latias94/merman) - Mermaid, but headless, in Rust. Merman is a Rust, headless, 1:1 re-implementation of Mermaid
+- [Latias94/merman](https://github.com/Latias94/merman) - Mermaid, but headless, in Rust.
 - [rust-unofficial/too-many-lists](https://github.com/rust-unofficial/too-many-lists) - Learn Rust by writing Entirely Too Many linked lists
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [rue-language/rue](https://github.com/rue-language/rue) - A programming language that is higher level than Rust but lower level than Go. Someday, anyways.

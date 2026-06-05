@@ -399,7 +399,7 @@
 - [kmhsonnenkind/cmake-cython-example](https://github.com/kmhsonnenkind/cmake-cython-example) - Example building native C library with Cython wrapper using CMake
 - [coala/coala](https://github.com/coala/coala) - coala provides a unified command-line interface for linting and fixing all your code, regardless of the programming languages you use.
 - [natasha/slovnet](https://github.com/natasha/slovnet) - Deep Learning based NLP modeling for Russian language
-- [KurimuzonAkuma/kurigram](https://github.com/KurimuzonAkuma/kurigram) - A Pyrogram fork with lots of features (Gifts, Stories, Topics and more).
+- [KurimuzonAkuma/kurigram](https://github.com/KurimuzonAkuma/kurigram) - Kurigram — actively maintained Pyrogram fork with support for Gifts, Stories, Topics, business features and the latest Telegram updates.
 - [error1001es/teleghoul](https://github.com/error1001es/teleghoul) - Бот - Гуль для твоего телеграм аккаунта
 - [ennucore/clippinator](https://github.com/ennucore/clippinator) - AI programming assistant
 - [sijokun/async-fastapi-jwt-auth](https://github.com/sijokun/async-fastapi-jwt-auth) - FastAPI extension that provides JWT Auth support (secure, easy to use, and lightweight)
@@ -439,7 +439,7 @@
 
 ## Rust 
 
-- [Latias94/merman](https://github.com/Latias94/merman) - Mermaid, but headless, in Rust. Mermaid is a Rust, headless, 1:1 re-implementation of Mermaid
+- [Latias94/merman](https://github.com/Latias94/merman) - Mermaid, but headless, in Rust. Merman is a Rust, headless, 1:1 re-implementation of Mermaid
 - [rust-unofficial/too-many-lists](https://github.com/rust-unofficial/too-many-lists) - Learn Rust by writing Entirely Too Many linked lists
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
 - [rue-language/rue](https://github.com/rue-language/rue) - A programming language that is higher level than Rust but lower level than Go. Someday, anyways.

@@ -157,6 +157,7 @@
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
 - [reactjs](#reactjs)
+- [redteam](#redteam)
 - [redux](#redux)
 - [reinforcement-learning](#reinforcement-learning)
 - [rest-api](#rest-api)
@@ -1379,6 +1380,10 @@
 
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
+
+## redteam 
+
+- [snooppr/snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT world)
 
 ## redux 
 

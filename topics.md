@@ -1368,6 +1368,7 @@
 
 ## react 
 
+- [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
 - [typst-gost/website](https://github.com/typst-gost/website) - Вебсайт, с лендинг страницей, документацией и примерами использования шаблона modern-g7-32.
 - [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components.
 - [Nirnturt/mermaid-editor](https://github.com/Nirnturt/mermaid-editor) - A modern, web-based Mermaid diagram editor with real-time preview, multiple export formats, and responsive design. Built with Next.js, featuring dark/light themes and internationalization support.
@@ -1584,6 +1585,7 @@
 
 ## typescript 
 
+- [MunMunMiao/headscale-ui](https://github.com/MunMunMiao/headscale-ui) - A Bun-powered Headscale web UI with profile management, multilingual support, and a friendly Vue control panel.
 - [typst-gost/website](https://github.com/typst-gost/website) - Вебсайт, с лендинг страницей, документацией и примерами использования шаблона modern-g7-32.
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [beenotung/ts-liveview](https://github.com/beenotung/ts-liveview) - Build hybrid SSG and SSR realtime SPA/MPA with Typescript
@@ -1621,11 +1623,13 @@
 
 ## vpn 
 
+- [MunMunMiao/headscale-ui](https://github.com/MunMunMiao/headscale-ui) - A Bun-powered Headscale web UI with profile management, multilingual support, and a friendly Vue control panel.
 - [Gozargah/Marzban](https://github.com/Gozargah/Marzban) - Unified GUI Censorship Resistant Solution Powered by Xray
 - [AdAway/AdAway](https://github.com/AdAway/AdAway) - AdAway is a free and open source ad blocker for Android.
 
 ## vue 
 
+- [MunMunMiao/headscale-ui](https://github.com/MunMunMiao/headscale-ui) - A Bun-powered Headscale web UI with profile management, multilingual support, and a friendly Vue control panel.
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
 
 ## web 

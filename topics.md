@@ -1038,6 +1038,7 @@
 
 ## others 
 
+- [simula/pysim](https://github.com/simula/pysim) - pySim SIM/USIM card reader/writer software
 - [tranvuongquocdat/SideScreen](https://github.com/tranvuongquocdat/SideScreen) - 
 - [triaon/tickr](https://github.com/triaon/tickr) - CLI and desktop UI to fetch normalized trading instruments from different CEX exchanges
 - [GongRzhe/Office-Word-MCP-Server](https://github.com/GongRzhe/Office-Word-MCP-Server) - A Model Context Protocol (MCP) server for creating, reading, and manipulating Microsoft Word documents. This server enables AI assistants to work with Word documents through a standardized interface, 

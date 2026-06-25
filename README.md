@@ -302,6 +302,7 @@
 
 ## Python 
 
+- [simula/pysim](https://github.com/simula/pysim) - pySim SIM/USIM card reader/writer software
 - [GongRzhe/Office-Word-MCP-Server](https://github.com/GongRzhe/Office-Word-MCP-Server) - A Model Context Protocol (MCP) server for creating, reading, and manipulating Microsoft Word documents. This server enables AI assistants to work with Word documents through a standardized interface, 
 - [mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) - :blue_book: Automatic documentation from sources, for MkDocs.
 - [blueswen/mkdocs-swagger-ui-tag](https://github.com/blueswen/mkdocs-swagger-ui-tag) - A MkDocs plugin supports adding Swagger UI to the page.

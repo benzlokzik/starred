@@ -321,7 +321,7 @@
 - [Kalitis/Ninth](https://github.com/Kalitis/Ninth) - Ninth is a modern stack programming language inspired by Forth but adapted for Function Calling in LLMs and autograd operations.
 - [NyanNyanovich/nyan](https://github.com/NyanNyanovich/nyan) - Automatic news aggregator in Telegram / Автоматический агрегатор новостей в Телеграме
 - [ultralytics/mkdocs](https://github.com/ultralytics/mkdocs) - MkDocs plugin for Ultralytics Docs at https://docs.ultralytics.com
-- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO 🚀
+- [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
 - [AntonSHBK/visual-slam-core](https://github.com/AntonSHBK/visual-slam-core) - A Python-based SLAM prototype designed to capture video input, extract depth, build local 3D point clouds, and lay the foundation for full visual SLAM — with extensibility for navigation, mapping, and
 - [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
 - [MrNightFury/Microservices](https://github.com/MrNightFury/Microservices) - 

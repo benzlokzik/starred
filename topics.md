@@ -1049,7 +1049,7 @@
 - [wilhelmer/mkdocs-multirepo](https://github.com/wilhelmer/mkdocs-multirepo) - A bit like monorepo, but keeps MkDocs projects separate.
 - [crbelaus/bun](https://github.com/crbelaus/bun) - An installer for bun
 - [wolfi-dev/os](https://github.com/wolfi-dev/os) - Main package repository for production Wolfi images
-- [idutvuk/find_some_work_bot](https://github.com/idutvuk/find_some_work_bot) - Парсит чаты на вакансии для вас и ваших друзей
+- [idutvuk/tg_freelance_chats_parser](https://github.com/idutvuk/tg_freelance_chats_parser) - Парсит чаты на вакансии для вас и ваших друзей
 - [idutvuk/CustomBangSearch](https://github.com/idutvuk/CustomBangSearch) - My fork of psidex/CustomBangSearch - A browser extension that lets you use custom DuckDuckGo-style bangs directly from the address bar
 - [rust-unofficial/too-many-lists](https://github.com/rust-unofficial/too-many-lists) - Learn Rust by writing Entirely Too Many linked lists
 - [actions/dependency-review-action](https://github.com/actions/dependency-review-action) - A GitHub Action for detecting vulnerable dependencies and invalid licenses in your PRs

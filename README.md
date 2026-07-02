@@ -245,6 +245,7 @@
 
 ## Kotlin 
 
+- [idutvuk/GoMaf](https://github.com/idutvuk/GoMaf) - GoMaf - хелпер проведения профессиональной мафии на Android
 - [soupslurpr/BeauTyXT](https://github.com/soupslurpr/BeauTyXT) - A beautiful, private, secure, and minimalistic Plain Text and Markdown editor.
 - [MeinAccount/renderLaTeXbot](https://github.com/MeinAccount/renderLaTeXbot) - 
 - [estkme-group/openeuicc](https://github.com/estkme-group/openeuicc) - Mirror of OpenEUICC, a fully open-source LPA implementation for Android
@@ -302,6 +303,8 @@
 
 ## Python 
 
+- [idutvuk/url_shortener](https://github.com/idutvuk/url_shortener) - my own dead simple shortener.
+- [idutvuk/mock_notification_sender](https://github.com/idutvuk/mock_notification_sender) - 
 - [simula/pysim](https://github.com/simula/pysim) - pySim SIM/USIM card reader/writer software
 - [GongRzhe/Office-Word-MCP-Server](https://github.com/GongRzhe/Office-Word-MCP-Server) - A Model Context Protocol (MCP) server for creating, reading, and manipulating Microsoft Word documents. This server enables AI assistants to work with Word documents through a standardized interface, 
 - [mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) - :blue_book: Automatic documentation from sources, for MkDocs.
@@ -568,6 +571,7 @@
 
 ## Typst 
 
+- [idutvuk/Typst-GOST-7.32-MIREA-TEMPLATE](https://github.com/idutvuk/Typst-GOST-7.32-MIREA-TEMPLATE) - Fork of f0rgenet/modern-g7-32 for providing universities template (including report template for RTU MIREA)
 - [SergeyGorchakov/russian-phd-thesis-template-typst](https://github.com/SergeyGorchakov/russian-phd-thesis-template-typst) - Шаблон русской кандидатской диссертации на языке разметки typst.
 - [glambrechts/slydst](https://github.com/glambrechts/slydst) - Create simple static slides with Typst
 - [swaits-typst-packages/finely-crafted-cv](https://github.com/swaits-typst-packages/finely-crafted-cv) - Beautiful CV/Resume template for Typst

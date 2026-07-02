@@ -1038,6 +1038,10 @@
 
 ## others 
 
+- [idutvuk/Typst-GOST-7.32-MIREA-TEMPLATE](https://github.com/idutvuk/Typst-GOST-7.32-MIREA-TEMPLATE) - Fork of f0rgenet/modern-g7-32 for providing universities template (including report template for RTU MIREA)
+- [idutvuk/url_shortener](https://github.com/idutvuk/url_shortener) - my own dead simple shortener.
+- [idutvuk/mock_notification_sender](https://github.com/idutvuk/mock_notification_sender) - 
+- [idutvuk/GoMaf](https://github.com/idutvuk/GoMaf) - GoMaf - хелпер проведения профессиональной мафии на Android
 - [simula/pysim](https://github.com/simula/pysim) - pySim SIM/USIM card reader/writer software
 - [tranvuongquocdat/SideScreen](https://github.com/tranvuongquocdat/SideScreen) - 
 - [triaon/tickr](https://github.com/triaon/tickr) - CLI and desktop UI to fetch normalized trading instruments from different CEX exchanges

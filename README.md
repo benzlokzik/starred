@@ -519,6 +519,7 @@
 
 ## TeX 
 
+- [UniversalPython/UniversalPython](https://github.com/UniversalPython/UniversalPython) - Write Python in any human language. UniversalPython is a transpiler which makes it possible to write Python code in different human languages like Urdu, German, Czech, and more. The code is translated
 - [mirea-ninja/Latex-Template-for-Report-Diploma-Thesis](https://github.com/mirea-ninja/Latex-Template-for-Report-Diploma-Thesis) - LaTeX шаблоны для написания отчетов/дипломов/курсовых работ
 - [mirea-ninja/xelatex-report](https://github.com/mirea-ninja/xelatex-report) - Шаблон курсовой работы РТУ МИРЭА в Латехе
 

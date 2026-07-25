@@ -108,6 +108,7 @@
 - [latex](#latex)
 - [linux](#linux)
 - [llm](#llm)
+- [localization](#localization)
 - [low-code](#low-code)
 - [lua](#lua)
 - [mac](#mac)
@@ -884,6 +885,10 @@
 - [alphasecio/langchain-examples](https://github.com/alphasecio/langchain-examples) - A collection of apps powered by the LangChain LLM framework.
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
 
+## localization 
+
+- [UniversalPython/UniversalPython](https://github.com/UniversalPython/UniversalPython) - Write Python in any human language. UniversalPython is a transpiler which makes it possible to write Python code in different human languages like Urdu, German, Czech, and more. The code is translated
+
 ## low-code 
 
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -1272,6 +1277,7 @@
 
 ## programming-language 
 
+- [UniversalPython/UniversalPython](https://github.com/UniversalPython/UniversalPython) - Write Python in any human language. UniversalPython is a transpiler which makes it possible to write Python code in different human languages like Urdu, German, Czech, and more. The code is translated
 - [HaxeFoundation/haxe](https://github.com/HaxeFoundation/haxe) - Haxe - The Cross-Platform Toolkit
 - [rue-language/rue](https://github.com/rue-language/rue) - A programming language that is higher level than Rust but lower level than Go. Someday, anyways.
 - [gleam-lang/gleam](https://github.com/gleam-lang/gleam) - ⭐️ A friendly language for building type-safe, scalable systems!
@@ -1289,6 +1295,7 @@
 
 ## python 
 
+- [UniversalPython/UniversalPython](https://github.com/UniversalPython/UniversalPython) - Write Python in any human language. UniversalPython is a transpiler which makes it possible to write Python code in different human languages like Urdu, German, Czech, and more. The code is translated
 - [mkdocstrings/mkdocstrings](https://github.com/mkdocstrings/mkdocstrings) - :blue_book: Automatic documentation from sources, for MkDocs.
 - [dracula/mkdocs](https://github.com/dracula/mkdocs) - 🧛🏻‍♂️ Dark theme for Mkdocs
 - [benzlokzik-university/prompt-autoimprove](https://github.com/benzlokzik-university/prompt-autoimprove) - Auto-improve prompts before they hit LLMs: normalize, generate candidates, score, route, and explain revisions via CLI, API, and web UI.
@@ -1347,6 +1354,7 @@
 
 ## python3 
 
+- [UniversalPython/UniversalPython](https://github.com/UniversalPython/UniversalPython) - Write Python in any human language. UniversalPython is a transpiler which makes it possible to write Python code in different human languages like Urdu, German, Czech, and more. The code is translated
 - [dracula/mkdocs](https://github.com/dracula/mkdocs) - 🧛🏻‍♂️ Dark theme for Mkdocs
 - [wemake-services/wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge django template focused on code quality and security.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.

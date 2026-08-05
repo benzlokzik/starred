@@ -72,7 +72,7 @@
 - [NimdaCTF/Nimda_2024_LateWinter](https://github.com/NimdaCTF/Nimda_2024_LateWinter) - Let's gooo
 - [flipperdevices/flipperzero-game-engine](https://github.com/flipperdevices/flipperzero-game-engine) - 
 - [0Nera/BMOSP](https://github.com/0Nera/BMOSP) - БМПОС - Базовая Модульная Платформа Операционных Систем для платформы x86_64
-- [xMasterX/all-the-plugins](https://github.com/xMasterX/all-the-plugins) - Big plugins pack built for latest flipper firmware (builds in releases for UL only)
+- [xMasterX/all-the-plugins](https://github.com/xMasterX/all-the-plugins) - Big apps pack with builds for latest flipper UL firmware
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
 - [LTVA1/flipper-zero-video-player](https://github.com/LTVA1/flipper-zero-video-player) - An application for playing videos (with sound) on Flipper Zero.
 - [philipl/pifs](https://github.com/philipl/pifs) - πfs - the data-free filesystem!

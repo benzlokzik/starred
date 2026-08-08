@@ -143,7 +143,6 @@
 
 ## Dart 
 
-- [aloisdeniel/flutter_device_preview](https://github.com/aloisdeniel/flutter_device_preview) - Approximate how your app looks and performs on another device.
 - [team113/messenger](https://github.com/team113/messenger) - [Closed] Open-source front-end part of messenger by team113
 - [sermakov/google-sheet-2-flutter](https://github.com/sermakov/google-sheet-2-flutter) - Fetch data from GoogleSheet to flutter app
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
@@ -219,6 +218,7 @@
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
 - [danakt/pshe](https://github.com/danakt/pshe) - Незаменимый помощник для работы с git
 - [petercunha/Donut](https://github.com/petercunha/Donut) - :robot: A JavaScript implementation of the infamous "donut.c" program
+- [aloisdeniel/flutter_device_preview](https://github.com/aloisdeniel/flutter_device_preview) - Approximate how your app looks and performs on another device.
 - [1pt-co/api](https://github.com/1pt-co/api) - 
 - [thedevs-network/kutt](https://github.com/thedevs-network/kutt) - Free Modern URL Shortener.
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
@@ -277,7 +277,7 @@
 - [sdmg15/Best-websites-a-programmer-should-visit](https://github.com/sdmg15/Best-websites-a-programmer-should-visit) - :link: Some useful websites for programmers.
 - [DenisSergeevitch/chatgpt-custom-instructions](https://github.com/DenisSergeevitch/chatgpt-custom-instructions) - My own Prompts for Custom instructions ChatGPT
 - [brexhq/prompt-engineering](https://github.com/brexhq/prompt-engineering) - Tips and tricks for working with Large Language Models like OpenAI's GPT-4.
-- [monosans/proxy-list](https://github.com/monosans/proxy-list) - Free HTTP, SOCKS4 and SOCKS5 proxy lists, re-checked every hour. Plain text and JSON with response time, exit IP, ASN and geolocation.
+- [monosans/proxy-list](https://github.com/monosans/proxy-list) - Free HTTP, SOCKS4 and SOCKS5 proxy lists, re-checked every hour. Plain text and JSON, sorted fastest first, with response time, exit IP, ASN and geolocation. No signup and no API key.
 - [fhdm-dev/scoppy](https://github.com/fhdm-dev/scoppy) - Use your Rasperry Pi Pico and Android Phone as an Oscilloscope and Logic Analyzer
 - [olexale/flutter_roadmap](https://github.com/olexale/flutter_roadmap) - Highly Subjective Roadmap to Flutter Development
 - [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.

@@ -325,7 +325,7 @@
 - [ultralytics/mkdocs](https://github.com/ultralytics/mkdocs) - MkDocs plugin for SEO metadata, social cards, JSON-LD, Git authors, Copy for LLM, and llms.txt generation.
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
 - [AntonSHBK/visual-slam-core](https://github.com/AntonSHBK/visual-slam-core) - A Python-based SLAM prototype designed to capture video input, extract depth, build local 3D point clouds, and lay the foundation for full visual SLAM — with extensibility for navigation, mapping, and
-- [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
+- [hydra-ecosystem/hydra](https://github.com/hydra-ecosystem/hydra) - Hydra is a framework for elegantly configuring complex applications
 - [MrNightFury/Microservices](https://github.com/MrNightFury/Microservices) - 
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
 - [emcie-co/parlant](https://github.com/emcie-co/parlant) - Build reliable customer-facing AI agents with Parlant: an interaction control harness optimized for controlled, consistent, and predictable LLM interactions.

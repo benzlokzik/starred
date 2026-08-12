@@ -1083,7 +1083,7 @@
 - [prefix-dev/pixi-pdf](https://github.com/prefix-dev/pixi-pdf) - Experimental tool to embed a pixi project in a PDF (e.g. research paper)
 - [agrism/books](https://github.com/agrism/books) - must read
 - [AntonSHBK/visual-slam-core](https://github.com/AntonSHBK/visual-slam-core) - A Python-based SLAM prototype designed to capture video input, extract depth, build local 3D point clouds, and lay the foundation for full visual SLAM — with extensibility for navigation, mapping, and
-- [facebookresearch/hydra](https://github.com/facebookresearch/hydra) - Hydra is a framework for elegantly configuring complex applications
+- [hydra-ecosystem/hydra](https://github.com/hydra-ecosystem/hydra) - Hydra is a framework for elegantly configuring complex applications
 - [SergeyGorchakov/russian-phd-thesis-template-typst](https://github.com/SergeyGorchakov/russian-phd-thesis-template-typst) - Шаблон русской кандидатской диссертации на языке разметки typst.
 - [TEN-framework/ten-vad](https://github.com/TEN-framework/ten-vad) - Voice Activity Detector (VAD) : low-latency, high-performance and lightweight
 - [MrNightFury/Microservices](https://github.com/MrNightFury/Microservices) - 

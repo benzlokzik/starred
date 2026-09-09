@@ -441,7 +441,7 @@
 ## cpp 
 
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
-- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+- [supertone-oss-archive/supertonic](https://github.com/supertone-oss-archive/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [redorav/hlslpp](https://github.com/redorav/hlslpp) - Math library using HLSL syntax with multiplatform SIMD support
 - [cppmf/Version.cmake](https://github.com/cppmf/Version.cmake) - CMake module to easily generate version.h file
 - [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake) - 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
@@ -465,7 +465,7 @@
 ## csharp 
 
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
-- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+- [supertone-oss-archive/supertonic](https://github.com/supertone-oss-archive/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 
 ## css 
 
@@ -628,7 +628,7 @@
 
 ## flutter 
 
-- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+- [supertone-oss-archive/supertonic](https://github.com/supertone-oss-archive/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [aloisdeniel/flutter_device_preview](https://github.com/aloisdeniel/flutter_device_preview) - Approximate how your app looks and performs on another device.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
@@ -710,7 +710,7 @@
 
 ## go 
 
-- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+- [supertone-oss-archive/supertonic](https://github.com/supertone-oss-archive/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
 - [go-gitea/gitea](https://github.com/go-gitea/gitea) - Git with a cup of tea! Painless self-hosted all-in-one software development service, including Git hosting, code review, team collaboration, package registry and CI/CD
@@ -798,7 +798,7 @@
 ## ios 
 
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
-- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+- [supertone-oss-archive/supertonic](https://github.com/supertone-oss-archive/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
 - [aleff-github/my-flipper-shits](https://github.com/aleff-github/my-flipper-shits) - Free and libre source BadUSB payloads for Flipper Zero. [Windows, GNU/Linux, iOS]
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
@@ -811,7 +811,7 @@
 
 ## java 
 
-- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+- [supertone-oss-archive/supertonic](https://github.com/supertone-oss-archive/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [elastic/elasticsearch](https://github.com/elastic/elasticsearch) - Free and Open Source, Distributed, RESTful Search Engine
 - [Anuken/Mindustry](https://github.com/Anuken/Mindustry) - The automation tower defense RTS
 
@@ -1014,7 +1014,7 @@
 ## nodejs 
 
 - [Myriad-Dreamin/typst.ts](https://github.com/Myriad-Dreamin/typst.ts) - Run Typst in JavaScriptWorld.
-- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+- [supertone-oss-archive/supertonic](https://github.com/supertone-oss-archive/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [027xiguapi/pear-rec](https://github.com/027xiguapi/pear-rec) - pear-rec is a free and open-source cross platform software for recording, recording, and taking screenshots
@@ -1309,7 +1309,7 @@
 - [benzlokzik-university/prompt-autoimprove](https://github.com/benzlokzik-university/prompt-autoimprove) - Auto-improve prompts before they hit LLMs: normalize, generate candidates, score, route, and explain revisions via CLI, API, and web UI.
 - [wemake-services/wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge django template focused on code quality and security.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
-- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+- [supertone-oss-archive/supertonic](https://github.com/supertone-oss-archive/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [sghng/typ2docx](https://github.com/sghng/typ2docx) - Convert math-rich Typst project to Microsoft Word format
 - [NyanNyanovich/nyan](https://github.com/NyanNyanovich/nyan) - Automatic news aggregator in Telegram / Автоматический агрегатор новостей в Телеграме
 - [ultralytics/mkdocs](https://github.com/ultralytics/mkdocs) - MkDocs plugin for SEO metadata, social cards, JSON-LD, Git authors, Copy for LLM, and llms.txt generation.
@@ -1450,7 +1450,7 @@
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [Latias94/merman](https://github.com/Latias94/merman) - Mermaid.js, but headless, in Rust.
 - [astral-sh/ruff](https://github.com/astral-sh/ruff) - An extremely fast Python linter and code formatter, written in Rust.
-- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+- [supertone-oss-archive/supertonic](https://github.com/supertone-oss-archive/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [mitsuhiko/insta](https://github.com/mitsuhiko/insta) - A snapshot testing library for rust
 - [sghng/typ2docx](https://github.com/sghng/typ2docx) - Convert math-rich Typst project to Microsoft Word format
 - [prefix-dev/pixi](https://github.com/prefix-dev/pixi) - Powerful system-level package manager for Linux, macOS and Windows written in Rust – building on top of the Conda ecosystem.
@@ -1549,7 +1549,7 @@
 ## swift 
 
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
-- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+- [supertone-oss-archive/supertonic](https://github.com/supertone-oss-archive/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 
 ## tailwind 
 
@@ -1598,7 +1598,7 @@
 ## text-to-speech 
 
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
-- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+- [supertone-oss-archive/supertonic](https://github.com/supertone-oss-archive/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [JonathanFly/bark](https://github.com/JonathanFly/bark) - 🚀 BARK INFINITY GUI CMD 🎶 Powered Up Bark Text-prompted Generative Audio Model
 - [snakers4/silero-models](https://github.com/snakers4/silero-models) - Silero Models: pre-trained text-to-speech models made embarrassingly simple
 - [metavoiceio/metavoice-src](https://github.com/metavoiceio/metavoice-src) - Foundational model for human-like, expressive TTS
@@ -1670,7 +1670,7 @@
 ## web 
 
 - [typst-gost/website](https://github.com/typst-gost/website) - Вебсайт, с лендинг страницей, документацией и примерами использования шаблона modern-g7-32.
-- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+- [supertone-oss-archive/supertonic](https://github.com/supertone-oss-archive/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [benzlokzik/singlefile-webserver](https://github.com/benzlokzik/singlefile-webserver) - Python 🐍 from-scratch file webserver 🌐 without any dependencies 🚀 except Python 🐍 (with good page render 🎨)
 - [abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard](https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard) - Responsive Admin Panel or Dashboard using Flutter
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for creating reliable and efficient web applications

@@ -348,7 +348,7 @@
 - [skizzophrenic/Ubers-SD-Files](https://github.com/skizzophrenic/Ubers-SD-Files) - These are all of the SD card assets you need for your Flipper Zero!
 - [a5chin/python-uv](https://github.com/a5chin/python-uv) - A production-ready Python development environment template using modern tools: uv for blazing-fast package management, Ruff for lightning-fast linting and formatting, ty for fast and reliable type che
 - [Carberra/python-is-awesome](https://github.com/Carberra/python-is-awesome) - All the code from my Python is Awesome videos.
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - 🌐 Make websites accessible for AI agents. Automate tasks online with ease.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
 - [benzlokzik/singlefile-webserver](https://github.com/benzlokzik/singlefile-webserver) - Python 🐍 from-scratch file webserver 🌐 without any dependencies 🚀 except Python 🐍 (with good page render 🎨)
 - [fixie-ai/ultravox](https://github.com/fixie-ai/ultravox) - A fast multimodal LLM for real-time voice
 - [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
@@ -511,7 +511,7 @@
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [tranvuongquocdat/SideScreen](https://github.com/tranvuongquocdat/SideScreen) - 
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar
-- [supertone-inc/supertonic](https://github.com/supertone-inc/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
+- [supertone-oss-archive/supertonic](https://github.com/supertone-oss-archive/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [samhenrigold/LidAngleSensor](https://github.com/samhenrigold/LidAngleSensor) - tfw when you when your lid when uhh angle your lid sensor
 - [maxgoedjen/secretive](https://github.com/maxgoedjen/secretive) - Protect your SSH keys with your Mac's Secure Enclave
 

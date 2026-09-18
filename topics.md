@@ -1062,7 +1062,7 @@
 ## others 
 
 - [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
-- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source local inference engine. It runs models on the hardware you already have, whether that's a Mac, an NVIDIA or AMD GPU, or just a CPU. Plug it into Pi, OpenCode, Hermes, OpenClaw, Codex, Clau
+- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference engine optimized for consumer hardware. Profiles your machine, recommends the best models for it, then downloads, tunes, and runs them. Works on Apple Silicon, NVIDIA, AMD, or no
 - [idutvuk/Typst-GOST-7.32-MIREA-TEMPLATE](https://github.com/idutvuk/Typst-GOST-7.32-MIREA-TEMPLATE) - Fork of f0rgenet/modern-g7-32 for providing universities template (including report template for RTU MIREA)
 - [idutvuk/url_shortener](https://github.com/idutvuk/url_shortener) - my own dead simple shortener.
 - [idutvuk/mock_notification_sender](https://github.com/idutvuk/mock_notification_sender) - 

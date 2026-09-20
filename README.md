@@ -245,7 +245,7 @@
 ## Kotlin 
 
 - [idutvuk/GoMaf](https://github.com/idutvuk/GoMaf) - GoMaf - хелпер проведения профессиональной мафии на Android
-- [soupslurpr/BeauTyXT](https://github.com/soupslurpr/BeauTyXT) - A beautiful, private, secure, and minimalistic Plain Text and Markdown editor.
+- [soupslurpr/BeauTyXT](https://github.com/soupslurpr/BeauTyXT) - Read, edit, and share plain text and Markdown.
 - [MeinAccount/renderLaTeXbot](https://github.com/MeinAccount/renderLaTeXbot) - 
 - [estkme-group/openeuicc](https://github.com/estkme-group/openeuicc) - Mirror of OpenEUICC, a fully open-source LPA implementation for Android
 - [hushenghao/AndroidEasterEggs](https://github.com/hushenghao/AndroidEasterEggs) - Android Easter Egg Collections

@@ -926,6 +926,7 @@
 
 ## macos 
 
+- [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for macOS and Windows inspired by i3wm.
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar

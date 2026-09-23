@@ -1068,7 +1068,7 @@
 
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
 - [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
-- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference engine optimized for consumer hardware. Profiles your machine, recommends the best models for it, then downloads, tunes, and runs them. Works on Apple Silicon, NVIDIA, AMD, or no
+- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference engine for the hardware you already own. Profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. Works on Apple Silicon, NVIDIA, AM
 - [idutvuk/Typst-GOST-7.32-MIREA-TEMPLATE](https://github.com/idutvuk/Typst-GOST-7.32-MIREA-TEMPLATE) - Fork of f0rgenet/modern-g7-32 for providing universities template (including report template for RTU MIREA)
 - [idutvuk/url_shortener](https://github.com/idutvuk/url_shortener) - my own dead simple shortener.
 - [idutvuk/mock_notification_sender](https://github.com/idutvuk/mock_notification_sender) - 

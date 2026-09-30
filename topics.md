@@ -272,6 +272,8 @@
 
 ## android 
 
+- [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
 - [soupslurpr/BeauTyXT](https://github.com/soupslurpr/BeauTyXT) - Read, edit, and share plain text and Markdown.
 - [Snapchat/Valdi](https://github.com/Snapchat/Valdi) - Valdi is a cross-platform UI framework that delivers native performance without sacrificing developer velocity.
@@ -353,6 +355,7 @@
 
 ## c 
 
+- [Genymobile/scrcpy](https://github.com/Genymobile/scrcpy) - Display and control your Android device
 - [cpm-cmake/CPM.cmake](https://github.com/cpm-cmake/CPM.cmake) - 📦 CMake's missing package manager. A small CMake script for setup-free, cross-platform, reproducible dependency management.
 - [kmhsonnenkind/cmake-cython-example](https://github.com/kmhsonnenkind/cmake-cython-example) - Example building native C library with Cython wrapper using CMake
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
@@ -486,6 +489,7 @@
 
 ## dart 
 
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [0niel/university-app](https://github.com/0niel/university-app) - A mobile application for the MIREA - Russian Technological University, which includes a schedule, news and many other functions
 
@@ -595,6 +599,7 @@
 
 ## electron 
 
+- [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
 - [027xiguapi/pear-rec](https://github.com/027xiguapi/pear-rec) - pear-rec is a free and open-source cross platform software for recording, recording, and taking screenshots
 
 ## elixir 
@@ -636,6 +641,7 @@
 
 ## flutter 
 
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [supertone-oss-archive/supertonic](https://github.com/supertone-oss-archive/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [aloisdeniel/flutter_device_preview](https://github.com/aloisdeniel/flutter_device_preview) - Approximate how your app looks and performs on another device.
@@ -646,6 +652,7 @@
 
 ## flutter-apps 
 
+- [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
 ## framework 
@@ -933,6 +940,7 @@
 
 ## macos 
 
+- [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for macOS and Windows inspired by i3wm.
@@ -1025,6 +1033,7 @@
 
 ## nodejs 
 
+- [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
 - [Myriad-Dreamin/typst.ts](https://github.com/Myriad-Dreamin/typst.ts) - Run Typst in JavaScriptWorld.
 - [supertone-oss-archive/supertonic](https://github.com/supertone-oss-archive/supertonic) - Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
@@ -1076,7 +1085,7 @@
 - [vahe-evoyan/armenian-phonetic](https://github.com/vahe-evoyan/armenian-phonetic) - Armenian phonetic keyboard layout for Mac OSX. Հայերեն ֆոնետիկ ստեղնաշար Mac OSX-ի համար։
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
 - [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
-- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference engine for the hardware you already own. Profiles your machine, recommends the best open models for it, and tunes them for your exact hardware. Works on Apple Silicon, NVIDIA, AM
+- [magnitudedev/magnitude](https://github.com/magnitudedev/magnitude) - Open source inference engine for agents that optimizes itself for your exact hardware. Compiles and tunes its kernels on your device, so open models run up to 2x faster than llama.cpp. Works on Apple 
 - [idutvuk/Typst-GOST-7.32-MIREA-TEMPLATE](https://github.com/idutvuk/Typst-GOST-7.32-MIREA-TEMPLATE) - Fork of f0rgenet/modern-g7-32 for providing universities template (including report template for RTU MIREA)
 - [idutvuk/url_shortener](https://github.com/idutvuk/url_shortener) - my own dead simple shortener.
 - [idutvuk/mock_notification_sender](https://github.com/idutvuk/mock_notification_sender) - 
@@ -1415,6 +1424,7 @@
 
 ## react 
 
+- [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
 - [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
 - [typst-gost/website](https://github.com/typst-gost/website) - Вебсайт, с лендинг страницей, документацией и примерами использования шаблона modern-g7-32.
 - [ekmas/neobrutalism-components](https://github.com/ekmas/neobrutalism-components) - A collection of neobrutalism-styled Tailwind components.
@@ -1426,6 +1436,7 @@
 
 ## reactjs 
 
+- [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 

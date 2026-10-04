@@ -517,6 +517,7 @@
 
 ## Swift 
 
+- [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking, alt-tab and other enhancements for macOS
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [tranvuongquocdat/SideScreen](https://github.com/tranvuongquocdat/SideScreen) - 
 - [exelban/stats](https://github.com/exelban/stats) - macOS system monitor in your menu bar

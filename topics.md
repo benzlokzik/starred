@@ -1067,6 +1067,7 @@
 
 ## others 
 
+- [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking, alt-tab and other enhancements for macOS
 - [vahe-evoyan/armenian-phonetic](https://github.com/vahe-evoyan/armenian-phonetic) - Armenian phonetic keyboard layout for Mac OSX. Հայերեն ֆոնետիկ ստեղնաշար Mac OSX-ի համար։
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
 - [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux

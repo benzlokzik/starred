@@ -332,6 +332,7 @@
 
 ## bitcoin 
 
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and, and do more with over 300 apps in the Umbrel App Store.
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 
 ## blockchain 
@@ -563,6 +564,7 @@
 
 ## docker 
 
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and, and do more with over 300 apps in the Umbrel App Store.
 - [benzlokzik-university/prompt-autoimprove](https://github.com/benzlokzik-university/prompt-autoimprove) - Auto-improve prompts before they hit LLMs: normalize, generate candidates, score, route, and explain revisions via CLI, API, and web UI.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [wemake-services/wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge django template focused on code quality and security.
@@ -595,6 +597,7 @@
 
 ## elixir 
 
+- [phoenix-playground/phoenix_playground](https://github.com/phoenix-playground/phoenix_playground) - Phoenix Playground makes it easy to create single-file Phoenix applications.
 - [rrrene/credo](https://github.com/rrrene/credo) - A static code analysis tool for the Elixir language with a focus on code consistency and teaching.
 - [bluzky/salad_ui](https://github.com/bluzky/salad_ui) - Phoenix Liveview component library inspired by shadcn UI
 
@@ -982,6 +985,7 @@
 
 ## music 
 
+- [delaudio/trk](https://github.com/delaudio/trk) - A MIDI-first terminal tracker and music composition environment built with Rust
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 
 ## mysql 
@@ -1401,6 +1405,7 @@
 
 ## raspberry-pi 
 
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and, and do more with over 300 apps in the Umbrel App Store.
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
 
 ## react 
@@ -1452,6 +1457,7 @@
 
 ## rust 
 
+- [delaudio/trk](https://github.com/delaudio/trk) - A MIDI-first terminal tracker and music composition environment built with Rust
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [pykeio/ort](https://github.com/pykeio/ort) - Fast ML inference & training for ONNX models in Rust
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for macOS and Windows inspired by i3wm.
@@ -1500,6 +1506,7 @@
 
 ## self-hosted 
 
+- [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and, and do more with over 300 apps in the Umbrel App Store.
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
 - [amr3k/oiwa](https://github.com/amr3k/oiwa) - A simple Telegram bot that converts a phone number to a direct whatsapp chat link
@@ -1594,6 +1601,7 @@
 
 ## terminal 
 
+- [delaudio/trk](https://github.com/delaudio/trk) - A MIDI-first terminal tracker and music composition environment built with Rust
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
@@ -1620,6 +1628,7 @@
 
 ## tui 
 
+- [delaudio/trk](https://github.com/delaudio/trk) - A MIDI-first terminal tracker and music composition environment built with Rust
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.

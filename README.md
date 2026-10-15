@@ -218,6 +218,9 @@
 
 ## JavaScript 
 
+- [hbkhsi/generative-canvas](https://github.com/hbkhsi/generative-canvas) - An interactive generative art application that creates various brush effects using p5.js.
+- [Platane/Procedural-Flower](https://github.com/Platane/Procedural-Flower) - procedurally draw beautiful flowers
+- [LingDong-/nonflowers](https://github.com/LingDong-/nonflowers) - Procedurally generated paintings of nonexistent flowers.
 - [switchangel/strudel-scripts](https://github.com/switchangel/strudel-scripts) - my custom strudel scripts that haven't made it in to strudel for whatever reason
 - [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
@@ -361,7 +364,7 @@
 - [skizzophrenic/Ubers-SD-Files](https://github.com/skizzophrenic/Ubers-SD-Files) - These are all of the SD card assets you need for your Flipper Zero!
 - [a5chin/python-uv](https://github.com/a5chin/python-uv) - A production-ready Python development environment template using modern tools: uv for blazing-fast package management, Ruff for lightning-fast linting and formatting, ty for fast and reliable type che
 - [Carberra/python-is-awesome](https://github.com/Carberra/python-is-awesome) - All the code from my Python is Awesome videos.
-- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Agents that use the browser.
+- [browser-use/browser-use](https://github.com/browser-use/browser-use) - Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
 - [benzlokzik/singlefile-webserver](https://github.com/benzlokzik/singlefile-webserver) - Python 🐍 from-scratch file webserver 🌐 without any dependencies 🚀 except Python 🐍 (with good page render 🎨)
 - [fixie-ai/ultravox](https://github.com/fixie-ai/ultravox) - A fast multimodal LLM for real-time voice
 - [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any GitHub URL to get a prompt-friendly extract of a codebase
@@ -548,7 +551,7 @@
 - [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
 - [Myriad-Dreamin/typst.ts](https://github.com/Myriad-Dreamin/typst.ts) - Run Typst in JavaScriptWorld.
 - [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
-- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) Terminal-first AI-native dev workspace
+- [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) terminal-first AI-native devevelopment environment
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
 - [idutvuk/CustomBangSearch](https://github.com/idutvuk/CustomBangSearch) - My fork of psidex/CustomBangSearch - A browser extension that lets you use custom DuckDuckGo-style bangs directly from the address bar
 - [f/git-rewrite-commits](https://github.com/f/git-rewrite-commits) - AI-powered git commit message rewriter using Ollama or GPT

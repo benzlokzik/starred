@@ -458,6 +458,8 @@
 
 ## Rust 
 
+- [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz) - A radically modular HTML/CSS rendering engine
+- [claration/impactor](https://github.com/claration/impactor) - Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.
 - [benzlokzik/this-ornament-does-not-exist](https://github.com/benzlokzik/this-ornament-does-not-exist) - 
 - [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform.
 - [Ogeon/palette](https://github.com/Ogeon/palette) - A Rust library for linear color calculations and conversion

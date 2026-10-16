@@ -496,7 +496,7 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [silkenweb/silkenweb](https://github.com/silkenweb/silkenweb) - A library for writing reactive single page web apps
 - [benzlokzik/fahrenheit-celsius-converter](https://github.com/benzlokzik/fahrenheit-celsius-converter) - Fahrenheit-celsius converter using actix
-- [ProvableHQ/snarkOS](https://github.com/ProvableHQ/snarkOS) - A Decentralized Operating System for ZK Applications
+- [aleo-labs-protocol/snarkOS](https://github.com/aleo-labs-protocol/snarkOS) - A Decentralized Operating System for ZK Applications
 - [AppFlowy-IO/AppFlowy-Cloud](https://github.com/AppFlowy-IO/AppFlowy-Cloud) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [pydantic/speedate](https://github.com/pydantic/speedate) - Fast and simple datetime, date, time and duration parsing for rust.
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust

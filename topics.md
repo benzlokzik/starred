@@ -72,6 +72,7 @@
 - [firefox](#firefox)
 - [flutter](#flutter)
 - [flutter-apps](#flutter-apps)
+- [font](#font)
 - [framework](#framework)
 - [frontend](#frontend)
 - [game](#game)
@@ -340,7 +341,7 @@
 
 ## blockchain 
 
-- [ProvableHQ/snarkOS](https://github.com/ProvableHQ/snarkOS) - A Decentralized Operating System for ZK Applications
+- [aleo-labs-protocol/snarkOS](https://github.com/aleo-labs-protocol/snarkOS) - A Decentralized Operating System for ZK Applications
 - [Winderton/xplatform](https://github.com/Winderton/xplatform) - Реализация фундаментальных проектов с курса по Computer Science
 
 ## bot 
@@ -460,7 +461,7 @@
 
 ## cryptography 
 
-- [ProvableHQ/snarkOS](https://github.com/ProvableHQ/snarkOS) - A Decentralized Operating System for ZK Applications
+- [aleo-labs-protocol/snarkOS](https://github.com/aleo-labs-protocol/snarkOS) - A Decentralized Operating System for ZK Applications
 - [bitcoin/bitcoin](https://github.com/bitcoin/bitcoin) - Bitcoin Core integration/staging tree
 
 ## csharp 
@@ -475,6 +476,7 @@
 
 ## cybersecurity 
 
+- [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform.
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 
 ## dart 
@@ -644,6 +646,10 @@
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 
+## font 
+
+- [Born2Root/Fast-Font](https://github.com/Born2Root/Fast-Font) - This font provides faster reading through facilitating the reading process by guiding the eyes through text with artificial fixation points.
+
 ## framework 
 
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
@@ -751,6 +757,7 @@
 
 ## hacktoberfest 
 
+- [Born2Root/Fast-Font](https://github.com/Born2Root/Fast-Font) - This font provides faster reading through facilitating the reading process by guiding the eyes through text with artificial fixation points.
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [emcie-co/parlant](https://github.com/emcie-co/parlant) - Build reliable customer-facing AI agents with Parlant: an interaction control harness optimized for controlled, consistent, and predictable LLM interactions.
 - [moebooru/moebooru](https://github.com/moebooru/moebooru) - Moebooru, a fork of danbooru1 that has been heavily modified
@@ -866,6 +873,7 @@
 
 ## linux 
 
+- [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform.
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) terminal-first AI-native devevelopment environment
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
@@ -879,7 +887,7 @@
 ## llm 
 
 - [benzlokzik-university/prompt-autoimprove](https://github.com/benzlokzik-university/prompt-autoimprove) - Auto-improve prompts before they hit LLMs: normalize, generate candidates, score, route, and explain revisions via CLI, API, and web UI.
-- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date docs for AI agents
 - [emcie-co/parlant](https://github.com/emcie-co/parlant) - Build reliable customer-facing AI agents with Parlant: an interaction control harness optimized for controlled, consistent, and predictable LLM interactions.
 - [canopyai/Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS) - Towards Human-Sounding Speech
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
@@ -927,6 +935,7 @@
 
 ## macos 
 
+- [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform.
 - [vpn-kill-switch/killswitch](https://github.com/vpn-kill-switch/killswitch) - VPN kill switch for macOS
 - [ganeshrvel/openmtp](https://github.com/ganeshrvel/openmtp) - OpenMTP  - Advanced Android File Transfer Application for macOS
 - [ExistentialAudio/BlackHole](https://github.com/ExistentialAudio/BlackHole) - BlackHole is a modern macOS audio loopback driver that allows applications to pass audio to other applications with zero additional latency.
@@ -960,7 +969,7 @@
 
 ## mcp 
 
-- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors
+- [upstash/context7](https://github.com/upstash/context7) - Context7 Platform -- Up-to-date docs for AI agents
 - [browser-use/browser-use](https://github.com/browser-use/browser-use) - Open-source Python library for AI browser agents, plus Browser Use Cloud: stealth browsers and a hosted agent API.
 - [yamadashy/repomix](https://github.com/yamadashy/repomix) - 📦 Repomix is a powerful tool that packs your entire repository into a single, AI-friendly file. Perfect for when you need to feed your codebase to Large Language Models (LLMs) or other AI tools like C
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.
@@ -1068,6 +1077,8 @@
 
 ## others 
 
+- [benzlokzik/this-ornament-does-not-exist](https://github.com/benzlokzik/this-ornament-does-not-exist) - 
+- [Ogeon/palette](https://github.com/Ogeon/palette) - A Rust library for linear color calculations and conversion
 - [hbkhsi/generative-canvas](https://github.com/hbkhsi/generative-canvas) - An interactive generative art application that creates various brush effects using p5.js.
 - [Platane/Procedural-Flower](https://github.com/Platane/Procedural-Flower) - procedurally draw beautiful flowers
 - [LingDong-/nonflowers](https://github.com/LingDong-/nonflowers) - Procedurally generated paintings of nonexistent flowers.
@@ -1431,6 +1442,7 @@
 
 ## redteam 
 
+- [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform.
 - [snooppr/snoop](https://github.com/snooppr/snoop) - Snoop — инструмент разведки на основе открытых данных (OSINT world)
 
 ## redux 
@@ -1460,6 +1472,7 @@
 
 ## rust 
 
+- [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform.
 - [delaudio/trk](https://github.com/delaudio/trk) - A MIDI-first terminal tracker and music composition environment built with Rust
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.
 - [pykeio/ort](https://github.com/pykeio/ort) - Fast ML inference & training for ONNX models in Rust
@@ -1484,7 +1497,7 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [benzlokzik/fahrenheit-celsius-converter](https://github.com/benzlokzik/fahrenheit-celsius-converter) - Fahrenheit-celsius converter using actix
 - [ijl/orjson](https://github.com/ijl/orjson) - Fast, correct Python JSON library supporting dataclasses, datetimes, and numpy
-- [ProvableHQ/snarkOS](https://github.com/ProvableHQ/snarkOS) - A Decentralized Operating System for ZK Applications
+- [aleo-labs-protocol/snarkOS](https://github.com/aleo-labs-protocol/snarkOS) - A Decentralized Operating System for ZK Applications
 - [apache/datafusion-ballista-python](https://github.com/apache/datafusion-ballista-python) - Apache Arrow Ballista Python bindings
 - [pydantic/speedate](https://github.com/pydantic/speedate) - Fast and simple datetime, date, time and duration parsing for rust.
 - [RustPython/RustPython](https://github.com/RustPython/RustPython) - A Python Interpreter written in Rust
@@ -1498,6 +1511,7 @@
 
 ## security 
 
+- [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform.
 - [vpn-kill-switch/killswitch](https://github.com/vpn-kill-switch/killswitch) - VPN kill switch for macOS
 - [DefaultPerson/agent-setup](https://github.com/DefaultPerson/agent-setup) - Universal setup for Claude Code & Codex CLI — security guard, TTS notifications, status line, slash commands
 - [openziti/zrok](https://github.com/openziti/zrok) - Secure internet sharing made simple.
@@ -1506,6 +1520,7 @@
 
 ## security-tools 
 
+- [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform.
 - [liamg/traitor](https://github.com/liamg/traitor) - :arrow_up: :skull_and_crossbones: :fire: Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock
 
 ## self-hosted 
@@ -1713,6 +1728,7 @@
 
 ## windows 
 
+- [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform.
 - [glzr-io/glazewm](https://github.com/glzr-io/glazewm) - GlazeWM is a tiling window manager for macOS and Windows inspired by i3wm.
 - [crynta/terax-ai](https://github.com/crynta/terax-ai) - Lightweight (7MB) terminal-first AI-native devevelopment environment
 - [k2-fsa/sherpa-onnx](https://github.com/k2-fsa/sherpa-onnx) - Speech-to-text, text-to-speech, speaker diarization, speech enhancement, source separation, and VAD using next-gen Kaldi with onnxruntime without Internet connection. Support embedded systems, Android

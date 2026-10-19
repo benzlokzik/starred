@@ -1079,7 +1079,6 @@
 ## others 
 
 - [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz) - A radically modular HTML/CSS rendering engine
-- [benzlokzik/this-ornament-does-not-exist](https://github.com/benzlokzik/this-ornament-does-not-exist) - 
 - [Ogeon/palette](https://github.com/Ogeon/palette) - A Rust library for linear color calculations and conversion
 - [hbkhsi/generative-canvas](https://github.com/hbkhsi/generative-canvas) - An interactive generative art application that creates various brush effects using p5.js.
 - [Platane/Procedural-Flower](https://github.com/Platane/Procedural-Flower) - procedurally draw beautiful flowers
@@ -1474,6 +1473,7 @@
 
 ## rust 
 
+- [benzlokzik/this-ornament-does-not-exist](https://github.com/benzlokzik/this-ornament-does-not-exist) - 🌸Procedural Art Nouveau botanical illustration engine🌺
 - [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform.
 - [delaudio/trk](https://github.com/delaudio/trk) - A MIDI-first terminal tracker and music composition environment built with Rust
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms such as MinIO and Ceph.

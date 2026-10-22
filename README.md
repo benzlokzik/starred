@@ -315,6 +315,7 @@
 
 ## Python 
 
+- [ilyautov/humanizer-ru](https://github.com/ilyautov/humanizer-ru) - humanizer-ru: редактура русского текста для AI-агентов. Убирает канцелярит и шаблонные обороты, сверяет смысл и факты. 67 признаков, 21 жёсткий запрет, сканер, CLI, MCP и расширение Chrome. | Russian 
 - [VikhrModels/Borealis](https://github.com/VikhrModels/Borealis) - 
 - [vahe-evoyan/armenian-phonetic](https://github.com/vahe-evoyan/armenian-phonetic) - Armenian phonetic keyboard layout for Mac OSX. Հայերեն ֆոնետիկ ստեղնաշար Mac OSX-ի համար։
 - [idutvuk/url_shortener](https://github.com/idutvuk/url_shortener) - my own dead simple shortener.

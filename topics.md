@@ -1086,6 +1086,7 @@
 
 ## others 
 
+- [otomir23/quasar-unlock](https://github.com/otomir23/quasar-unlock) - Nix module + Hono webserver to jailbreak your Yandex Station with zero effort
 - [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz) - A radically modular HTML/CSS rendering engine
 - [Ogeon/palette](https://github.com/Ogeon/palette) - A Rust library for linear color calculations and conversion
 - [hbkhsi/generative-canvas](https://github.com/hbkhsi/generative-canvas) - An interactive generative art application that creates various brush effects using p5.js.

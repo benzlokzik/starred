@@ -32,6 +32,7 @@
 - [Lua](#lua)
 - [Markdown](#markdown)
 - [Mojo](#mojo)
+- [Nix](#nix)
 - [Others](#others)
 - [PHP](#php)
 - [Pascal](#pascal)
@@ -281,6 +282,10 @@
 ## Mojo 
 
 - [modular/modular](https://github.com/modular/modular) - The Modular Platform (includes MAX & Mojo)
+
+## Nix 
+
+- [otomir23/quasar-unlock](https://github.com/otomir23/quasar-unlock) - Nix module + Hono webserver to jailbreak your Yandex Station with zero effort
 
 ## Others 
 

@@ -463,6 +463,7 @@
 
 ## Rust 
 
+- [tola-rs/tola-ssg](https://github.com/tola-rs/tola-ssg) - Typst-based static site generator: your whole site is one Typst program
 - [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz) - A radically modular HTML/CSS rendering engine
 - [claration/impactor](https://github.com/claration/impactor) - Cross-platform & feature rich iOS/iPadOS/tvOS sideloading application. Formerly known as PlumeImpactor.
 - [benzlokzik/this-ornament-does-not-exist](https://github.com/benzlokzik/this-ornament-does-not-exist) - 🌸Procedural Art Nouveau botanical illustration engine🌺
@@ -557,6 +558,7 @@
 
 ## TypeScript 
 
+- [MrityunjayBhardwaj/Stave](https://github.com/MrityunjayBhardwaj/Stave) - Make a whole song in Strudel and shape it like a DAW: a Timeline, step grid, piano roll and Mixer that write back into your code, plus audio-reactive p5.js, Hydra and GLSL visuals. Runs in your browse
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run OpenClaw, store your files and, and do more with over 300 apps in the Umbrel App Store.
 - [MunMunMiao/headscale-ui](https://github.com/MunMunMiao/headscale-ui) - A Bun-powered Headscale web UI with profile management, multilingual support, and a friendly Vue control panel.
 - [tale/headplane](https://github.com/tale/headplane) - A feature-complete Web UI for Headscale
@@ -607,6 +609,7 @@
 
 ## Typst 
 
+- [KKKZOZ/tola-theme-nasapunk](https://github.com/KKKZOZ/tola-theme-nasapunk) - A blog theme for Tola, built on the NASApunk design.
 - [idutvuk/Typst-GOST-7.32-MIREA-TEMPLATE](https://github.com/idutvuk/Typst-GOST-7.32-MIREA-TEMPLATE) - Fork of f0rgenet/modern-g7-32 for providing universities template (including report template for RTU MIREA)
 - [SergeyGorchakov/russian-phd-thesis-template-typst](https://github.com/SergeyGorchakov/russian-phd-thesis-template-typst) - Шаблон русской кандидатской диссертации на языке разметки typst.
 - [glambrechts/slydst](https://github.com/glambrechts/slydst) - Create simple static slides with Typst

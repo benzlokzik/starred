@@ -401,6 +401,7 @@
 
 ## cli 
 
+- [tola-rs/tola-ssg](https://github.com/tola-rs/tola-ssg) - Typst-based static site generator: your whole site is one Typst program
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [benzlokzik-university/prompt-autoimprove](https://github.com/benzlokzik-university/prompt-autoimprove) - Auto-improve prompts before they hit LLMs: normalize, generate candidates, score, route, and explain revisions via CLI, API, and web UI.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
@@ -1091,6 +1092,8 @@
 
 ## others 
 
+- [MrityunjayBhardwaj/Stave](https://github.com/MrityunjayBhardwaj/Stave) - Make a whole song in Strudel and shape it like a DAW: a Timeline, step grid, piano roll and Mixer that write back into your code, plus audio-reactive p5.js, Hydra and GLSL visuals. Runs in your browse
+- [KKKZOZ/tola-theme-nasapunk](https://github.com/KKKZOZ/tola-theme-nasapunk) - A blog theme for Tola, built on the NASApunk design.
 - [otomir23/quasar-unlock](https://github.com/otomir23/quasar-unlock) - Nix module + Hono webserver to jailbreak your Yandex Station with zero effort
 - [DioxusLabs/blitz](https://github.com/DioxusLabs/blitz) - A radically modular HTML/CSS rendering engine
 - [Ogeon/palette](https://github.com/Ogeon/palette) - A Rust library for linear color calculations and conversion
@@ -1487,6 +1490,7 @@
 
 ## rust 
 
+- [tola-rs/tola-ssg](https://github.com/tola-rs/tola-ssg) - Typst-based static site generator: your whole site is one Typst program
 - [benzlokzik/this-ornament-does-not-exist](https://github.com/benzlokzik/this-ornament-does-not-exist) - 🌸Procedural Art Nouveau botanical illustration engine🌺
 - [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform.
 - [delaudio/trk](https://github.com/delaudio/trk) - A MIDI-first terminal tracker and music composition environment built with Rust

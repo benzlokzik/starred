@@ -196,7 +196,6 @@
 
 ## HTML 
 
-- [Born2Root/Fast-Font](https://github.com/Born2Root/Fast-Font) - This font provides faster reading through facilitating the reading process by guiding the eyes through text with artificial fixation points.
 - [earthonicus/weblight](https://github.com/earthonicus/weblight) - Useful for ADHD, dyslexia, autism, neurodivergent browsing, sensory processing differences, visual overstimulation, reading fatigue, focus support, study support, and accessibility use cases.
 - [dracula/mkdocs](https://github.com/dracula/mkdocs) - 🧛🏻‍♂️ Dark theme for Mkdocs
 - [ripienaar/free-for-dev](https://github.com/ripienaar/free-for-dev) - A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev
@@ -351,7 +350,7 @@
 - [hydra-ecosystem/hydra](https://github.com/hydra-ecosystem/hydra) - Hydra is a framework for elegantly configuring complex applications
 - [MrNightFury/Microservices](https://github.com/MrNightFury/Microservices) - 
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
-- [emcie-co/parlant](https://github.com/emcie-co/parlant) - Build reliable customer-facing AI agents with Parlant: an interaction control harness optimized for controlled, consistent, and predictable LLM interactions.
+- [emcie-co/parlant](https://github.com/emcie-co/parlant) - Parlant is an open platform for building customer-facing chat agents with AI. Describe how the agent should behave, and your coding agent implements it for you.
 - [GerrySant/multimodalhugs](https://github.com/GerrySant/multimodalhugs) - MultimodalHugs is an extension of Hugging Face that offers a generalized framework for training, evaluating, and using multimodal AI models with minimal code differences, ensuring seamless compatibili
 - [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS) - Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
 - [canopyai/Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS) - Towards Human-Sounding Speech

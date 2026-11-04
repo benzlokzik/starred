@@ -338,7 +338,7 @@
 - [jimporter/mike](https://github.com/jimporter/mike) - Manage multiple versions of your MkDocs-powered documentation via Git
 - [backstage/mkdocs-monorepo-plugin](https://github.com/backstage/mkdocs-monorepo-plugin) - ✚ Build multiple documentation folders in a single Mkdocs. Designed for large codebases.
 - [benzlokzik-university/prompt-autoimprove](https://github.com/benzlokzik-university/prompt-autoimprove) - Auto-improve prompts before they hit LLMs: normalize, generate candidates, score, route, and explain revisions via CLI, API, and web UI.
-- [DefaultPerson/agent-setup](https://github.com/DefaultPerson/agent-setup) - Universal setup for Claude Code & Codex CLI — security guard, TTS notifications, status line, slash commands
+- [DefaultPerson/my-ai-setup](https://github.com/DefaultPerson/my-ai-setup) - My Claude Code / Codex setup.
 - [idutvuk/tg_freelance_chats_parser](https://github.com/idutvuk/tg_freelance_chats_parser) - Парсит чаты на вакансии для вас и ваших друзей
 - [wemake-services/wemake-django-template](https://github.com/wemake-services/wemake-django-template) - Bleeding edge django template focused on code quality and security.
 - [astral-sh/ty](https://github.com/astral-sh/ty) - An extremely fast Python type checker and language server, written in Rust.

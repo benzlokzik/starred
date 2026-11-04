@@ -41,6 +41,7 @@
 - [compiler](#compiler)
 - [computer-vision](#computer-vision)
 - [cpp](#cpp)
+- [crawler](#crawler)
 - [cryptocurrency](#cryptocurrency)
 - [cryptography](#cryptography)
 - [csharp](#csharp)
@@ -95,6 +96,7 @@
 - [haskell](#haskell)
 - [html-css-javascript](#html-css-javascript)
 - [http](#http)
+- [https](#https)
 - [instagram](#instagram)
 - [ios](#ios)
 - [iot](#iot)
@@ -463,6 +465,10 @@
 - [microsoft/vcpkg](https://github.com/microsoft/vcpkg) - C++ Library Manager for Windows, Linux, and MacOS
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 
+## crawler 
+
+- [0x676e67/wreq-python](https://github.com/0x676e67/wreq-python) - An ergonomic, privacy-aware Python HTTP Client
+
 ## cryptocurrency 
 
 - [souravrs999/FaucetCryptoBot](https://github.com/souravrs999/FaucetCryptoBot) - A bot for FaucetCrypto a cryptocurrency faucet. The bot can currently claim PTC ads, main reward and all the shortlinks except exe.io and fc.lc.
@@ -805,8 +811,13 @@
 
 ## http 
 
+- [0x676e67/wreq-python](https://github.com/0x676e67/wreq-python) - An ergonomic, privacy-aware Python HTTP Client
 - [darrenburns/posting](https://github.com/darrenburns/posting) - The modern API client that lives in your terminal.
 - [userver-framework/userver](https://github.com/userver-framework/userver) - Production-ready C++ Asynchronous Framework with rich functionality
+
+## https 
+
+- [0x676e67/wreq-python](https://github.com/0x676e67/wreq-python) - An ergonomic, privacy-aware Python HTTP Client
 
 ## instagram 
 
@@ -1338,6 +1349,7 @@
 
 ## python 
 
+- [0x676e67/wreq-python](https://github.com/0x676e67/wreq-python) - An ergonomic, privacy-aware Python HTTP Client
 - [JohannesBuchner/imagehash](https://github.com/JohannesBuchner/imagehash) - A Python Perceptual Image Hashing Module
 - [aiogram/aiogram](https://github.com/aiogram/aiogram) - aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using asyncio
 - [UniversalPython/UniversalPython](https://github.com/UniversalPython/UniversalPython) - Write Python in any human language. UniversalPython is a transpiler which makes it possible to write Python code in different human languages like Urdu, German, Czech, and more. The code is translated
@@ -1485,6 +1497,7 @@
 
 ## rust 
 
+- [0x676e67/wreq-python](https://github.com/0x676e67/wreq-python) - An ergonomic, privacy-aware Python HTTP Client
 - [tola-rs/tola-ssg](https://github.com/tola-rs/tola-ssg) - Typst-based static site generator: your whole site is one Typst program
 - [benzlokzik/this-ornament-does-not-exist](https://github.com/benzlokzik/this-ornament-does-not-exist) - 🌸Procedural Art Nouveau botanical illustration engine🌺
 - [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform.

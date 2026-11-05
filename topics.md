@@ -1097,6 +1097,7 @@
 
 ## others 
 
+- [keremimo/melodee](https://github.com/keremimo/melodee) - Custom firmware for M-VAVE FM-1
 - [MrityunjayBhardwaj/Stave](https://github.com/MrityunjayBhardwaj/Stave) - Make a whole song in Strudel and shape it like a DAW: a Timeline, step grid, piano roll and Mixer that write back into your code, plus audio-reactive p5.js, Hydra and GLSL visuals. Runs in your browse
 - [KKKZOZ/tola-theme-nasapunk](https://github.com/KKKZOZ/tola-theme-nasapunk) - A blog theme for Tola, built on the NASApunk design.
 - [otomir23/quasar-unlock](https://github.com/otomir23/quasar-unlock) - Nix module + Hono webserver to jailbreak your Yandex Station with zero effort

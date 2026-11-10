@@ -1685,6 +1685,7 @@
 
 ## tui 
 
+- [tola-rs/tola-ssg](https://github.com/tola-rs/tola-ssg) - Typst-based static site generator: your whole site is one Typst program
 - [delaudio/trk](https://github.com/delaudio/trk) - A MIDI-first terminal tracker and music composition environment built with Rust
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.

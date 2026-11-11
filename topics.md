@@ -206,6 +206,7 @@
 - [web-development](#web-development)
 - [web3](#web3)
 - [webapp](#webapp)
+- [whatsapp](#whatsapp)
 - [windows](#windows)
 - [workflow](#workflow)
 - [youtube](#youtube)
@@ -1770,6 +1771,10 @@
 ## webapp 
 
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
+
+## whatsapp 
+
+- [42wim/matterbridge](https://github.com/42wim/matterbridge) - bridge between mattermost, IRC, gitter, xmpp, slack, discord, telegram, rocketchat, twitch, ssh-chat, zulip, whatsapp, keybase, matrix, microsoft teams, nextcloud, mumble, vk and more with REST API (m
 
 ## windows 
 

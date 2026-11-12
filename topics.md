@@ -618,6 +618,7 @@
 
 ## elixir 
 
+- [elixir-nx/ortex](https://github.com/elixir-nx/ortex) - ONNX Runtime bindings for Elixir
 - [elixir-error-tracker/error-tracker](https://github.com/elixir-error-tracker/error-tracker) - 🐛 An Elixir-based built-in error reporting and tracking solution
 - [phoenix-playground/phoenix_playground](https://github.com/phoenix-playground/phoenix_playground) - Phoenix Playground makes it easy to create single-file Phoenix applications.
 - [rrrene/credo](https://github.com/rrrene/credo) - A static code analysis tool for the Elixir language with a focus on code consistency and teaching.
@@ -945,6 +946,7 @@
 
 ## machine-learning 
 
+- [elixir-nx/ortex](https://github.com/elixir-nx/ortex) - ONNX Runtime bindings for Elixir
 - [pykeio/ort](https://github.com/pykeio/ort) - Fast ML inference & training for ONNX models in Rust
 - [ultralytics/ultralytics](https://github.com/ultralytics/ultralytics) - Ultralytics YOLO27, YOLO26, YOLO11, YOLOv8 — object detection, instance segmentation, semantic segmentation, image classification, pose estimation, object tracking
 - [Eventual-Inc/Daft](https://github.com/Eventual-Inc/Daft) - High-performance data engine for AI and multimodal workloads. Process images, audio, video, and structured data at any scale
@@ -1106,6 +1108,7 @@
 
 ## others 
 
+- [celldock/celldock-for-mac](https://github.com/celldock/celldock-for-mac) - Use cellular network, SMS, and calls on your Mac.
 - [rust-cross/cargo-xwin](https://github.com/rust-cross/cargo-xwin) - Cross compile Cargo project to Windows MSVC target with ease
 - [keremimo/melodee](https://github.com/keremimo/melodee) - Custom firmware for M-VAVE FM-1
 - [MrityunjayBhardwaj/Stave](https://github.com/MrityunjayBhardwaj/Stave) - Make a whole song in Strudel and shape it like a DAW: a Timeline, step grid, piano roll and Mixer that write back into your code, plus audio-reactive p5.js, Hydra and GLSL visuals. Runs in your browse
@@ -1508,6 +1511,7 @@
 
 ## rust 
 
+- [elixir-nx/ortex](https://github.com/elixir-nx/ortex) - ONNX Runtime bindings for Elixir
 - [0x676e67/wreq-python](https://github.com/0x676e67/wreq-python) - An ergonomic, privacy-aware Python HTTP Client
 - [tola-rs/tola-ssg](https://github.com/tola-rs/tola-ssg) - Typst-based static site generator: your whole site is one Typst program
 - [benzlokzik/this-ornament-does-not-exist](https://github.com/benzlokzik/this-ornament-does-not-exist) - 🌸Procedural Art Nouveau botanical illustration engine🌺

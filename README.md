@@ -156,6 +156,7 @@
 
 ## Elixir 
 
+- [elixir-nx/ortex](https://github.com/elixir-nx/ortex) - ONNX Runtime bindings for Elixir
 - [elixir-error-tracker/error-tracker](https://github.com/elixir-error-tracker/error-tracker) - 🐛 An Elixir-based built-in error reporting and tracking solution
 - [phoenix-playground/phoenix_playground](https://github.com/phoenix-playground/phoenix_playground) - Phoenix Playground makes it easy to create single-file Phoenix applications.
 - [crbelaus/bun](https://github.com/crbelaus/bun) - An installer for bun
@@ -545,6 +546,7 @@
 
 ## Swift 
 
+- [celldock/celldock-for-mac](https://github.com/celldock/celldock-for-mac) - Use cellular network, SMS, and calls on your Mac.
 - [ejbills/DockDoor](https://github.com/ejbills/DockDoor) - Window peeking, alt-tab and other enhancements for macOS
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [tranvuongquocdat/SideScreen](https://github.com/tranvuongquocdat/SideScreen) - 

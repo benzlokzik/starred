@@ -73,6 +73,7 @@
 - [fastapi](#fastapi)
 - [finance](#finance)
 - [firefox](#firefox)
+- [flipperzero](#flipperzero)
 - [flutter](#flutter)
 - [flutter-apps](#flutter-apps)
 - [framework](#framework)
@@ -656,6 +657,14 @@
 - [atbc-org/Adaptive-Tab-Bar-Colour](https://github.com/atbc-org/Adaptive-Tab-Bar-Colour) - Changes the colour of Firefox theme to match the website’s appearance.
 - [Godiesc/firefox-gx](https://github.com/Godiesc/firefox-gx) - Opera GX Skin for Firefox
 
+## flipperzero 
+
+- [xMasterX/all-the-plugins](https://github.com/xMasterX/all-the-plugins) - Big apps pack with builds for latest flipper UL firmware
+- [aleff-github/my-flipper-shits](https://github.com/aleff-github/my-flipper-shits) - Free and libre source BadUSB payloads for Flipper Zero. [Windows, GNU/Linux, iOS]
+- [LTVA1/flipper-zero-video-player](https://github.com/LTVA1/flipper-zero-video-player) - An application for playing videos (with sound) on Flipper Zero.
+- [flipperzero-rs/flipperzero-template](https://github.com/flipperzero-rs/flipperzero-template) - A template for starting a flipperzero-rs project for the Flipper Zero🐬
+- [djsime1/awesome-flipperzero](https://github.com/djsime1/awesome-flipperzero) - 🐬 A collection of awesome resources for the Flipper Zero device.
+
 ## flutter 
 
 - [localsend/localsend](https://github.com/localsend/localsend) - An open-source cross-platform alternative to AirDrop
@@ -1221,11 +1230,8 @@
 - [zed-industries/zed](https://github.com/zed-industries/zed) - Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [0Nera/BMOSP](https://github.com/0Nera/BMOSP) - БМПОС - Базовая Модульная Платформа Операционных Систем для платформы x86_64
 - [MTSWebServices/image-optimize](https://github.com/MTSWebServices/image-optimize) - High-performance microservice for on-the-fly image optimization, resizing, and format conversion
-- [xMasterX/all-the-plugins](https://github.com/xMasterX/all-the-plugins) - Big apps pack with builds for latest flipper UL firmware
 - [wetox-team/flipperzero-goodies](https://github.com/wetox-team/flipperzero-goodies) - flipper zero goodies [intercom_keys][scripts]
 - [UberGuidoZ/Flipper](https://github.com/UberGuidoZ/Flipper) - Playground (and dump) of stuff I make or modify for the Flipper Zero
-- [LTVA1/flipper-zero-video-player](https://github.com/LTVA1/flipper-zero-video-player) - An application for playing videos (with sound) on Flipper Zero.
-- [flipperzero-rs/flipperzero-template](https://github.com/flipperzero-rs/flipperzero-template) - A template for starting a flipperzero-rs project for the Flipper Zero🐬
 - [GarrettGunnell/AcerolaFX](https://github.com/GarrettGunnell/AcerolaFX) - A suite of GShade shaders for Final Fantasy XIV
 - [philipl/pifs](https://github.com/philipl/pifs) - πfs - the data-free filesystem!
 - [benzlokzik/md2gost](https://github.com/benzlokzik/md2gost) - Скрипт для генерации docx отчетов в соответствии с ГОСТ из markdown файла

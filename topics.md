@@ -410,7 +410,7 @@
 
 ## cli 
 
-- [tola-rs/tola-ssg](https://github.com/tola-rs/tola-ssg) - Typst-based static site generator: your whole site is one Typst program
+- [tola-rs/tola-ssg](https://github.com/tola-rs/tola-ssg) - Typst-based static site generator
 - [jesseduffield/lazygit](https://github.com/jesseduffield/lazygit) - simple terminal UI for git commands
 - [benzlokzik-university/prompt-autoimprove](https://github.com/benzlokzik-university/prompt-autoimprove) - Auto-improve prompts before they hit LLMs: normalize, generate candidates, score, route, and explain revisions via CLI, API, and web UI.
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
@@ -1525,7 +1525,7 @@
 
 - [elixir-nx/ortex](https://github.com/elixir-nx/ortex) - ONNX Runtime bindings for Elixir
 - [0x676e67/wreq-python](https://github.com/0x676e67/wreq-python) - An ergonomic, privacy-aware Python HTTP Client
-- [tola-rs/tola-ssg](https://github.com/tola-rs/tola-ssg) - Typst-based static site generator: your whole site is one Typst program
+- [tola-rs/tola-ssg](https://github.com/tola-rs/tola-ssg) - Typst-based static site generator
 - [benzlokzik/this-ornament-does-not-exist](https://github.com/benzlokzik/this-ornament-does-not-exist) - 🌸Procedural Art Nouveau botanical illustration engine🌺
 - [pumpbin/pumpbin](https://github.com/pumpbin/pumpbin) - 🎃 PumpBin is an Implant Generation Platform.
 - [delaudio/trk](https://github.com/delaudio/trk) - A MIDI-first terminal tracker and music composition environment built with Rust
@@ -1702,7 +1702,7 @@
 
 ## tui 
 
-- [tola-rs/tola-ssg](https://github.com/tola-rs/tola-ssg) - Typst-based static site generator: your whole site is one Typst program
+- [tola-rs/tola-ssg](https://github.com/tola-rs/tola-ssg) - Typst-based static site generator
 - [delaudio/trk](https://github.com/delaudio/trk) - A MIDI-first terminal tracker and music composition environment built with Rust
 - [muesli/duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.

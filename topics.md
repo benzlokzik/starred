@@ -5,6 +5,7 @@
 
 ## Contents
 
+- [3d](#3d)
 - [agent](#agent)
 - [agent-skills](#agent-skills)
 - [agents](#agents)
@@ -141,6 +142,7 @@
 - [numpy](#numpy)
 - [open-source](#open-source)
 - [openai](#openai)
+- [opengl](#opengl)
 - [operating-system](#operating-system)
 - [osint](#osint)
 - [others](#others)
@@ -149,6 +151,7 @@
 - [parsing](#parsing)
 - [penetration-testing](#penetration-testing)
 - [php](#php)
+- [physics](#physics)
 - [portfolio](#portfolio)
 - [postgresql](#postgresql)
 - [privacy](#privacy)
@@ -200,6 +203,8 @@
 - [typescript](#typescript)
 - [ui](#ui)
 - [ui-design](#ui-design)
+- [unity](#unity)
+- [unreal-engine](#unreal-engine)
 - [v2ray](#v2ray)
 - [video](#video)
 - [vpn](#vpn)
@@ -214,6 +219,10 @@
 - [workflow](#workflow)
 - [youtube](#youtube)
 - [zsh](#zsh)
+
+## 3d 
+
+- [orange-cpp/omath](https://github.com/orange-cpp/omath) - Cross-platform modern general purpose game/mods/cheats development framework written in C++23.
 
 ## agent 
 
@@ -707,6 +716,7 @@
 
 ## game-development 
 
+- [orange-cpp/omath](https://github.com/orange-cpp/omath) - Cross-platform modern general purpose game/mods/cheats development framework written in C++23.
 - [redorav/hlslpp](https://github.com/redorav/hlslpp) - Math library using HLSL syntax with multiplatform SIMD support
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
@@ -716,6 +726,7 @@
 
 ## gamedev 
 
+- [orange-cpp/omath](https://github.com/orange-cpp/omath) - Cross-platform modern general purpose game/mods/cheats development framework written in C++23.
 - [godotengine/godot](https://github.com/godotengine/godot) - Godot Engine – Multi-platform 2D and 3D game engine
 
 ## generative-ai 
@@ -1114,6 +1125,10 @@
 - [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python
 - [futantan/OpenGpt](https://github.com/futantan/OpenGpt) - Create your own ChatGPT App in seconds.
 
+## opengl 
+
+- [orange-cpp/omath](https://github.com/orange-cpp/omath) - Cross-platform modern general purpose game/mods/cheats development framework written in C++23.
+
 ## operating-system 
 
 - [vlang/vinix](https://github.com/vlang/vinix) - Vinix is an effort to write a modern, fast, and useful operating system in the V programming language
@@ -1329,6 +1344,10 @@
 ## php 
 
 - [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - 🔥 Stay motivated and show off your contribution streak! 🌟 Display your total contributions, current streak, and longest streak on your GitHub profile README
+
+## physics 
+
+- [orange-cpp/omath](https://github.com/orange-cpp/omath) - Cross-platform modern general purpose game/mods/cheats development framework written in C++23.
 
 ## portfolio 
 
@@ -1741,6 +1760,14 @@
 ## ui-design 
 
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Agent skills that give coding agents taste: art direction, reference images and a browser check instead of generic AI pages
+
+## unity 
+
+- [orange-cpp/omath](https://github.com/orange-cpp/omath) - Cross-platform modern general purpose game/mods/cheats development framework written in C++23.
+
+## unreal-engine 
+
+- [orange-cpp/omath](https://github.com/orange-cpp/omath) - Cross-platform modern general purpose game/mods/cheats development framework written in C++23.
 
 ## v2ray 
 

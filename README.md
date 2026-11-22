@@ -224,6 +224,7 @@
 
 ## JavaScript 
 
+- [dortania/OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide) - Repo for the OpenCore Install Guide
 - [hbkhsi/generative-canvas](https://github.com/hbkhsi/generative-canvas) - An interactive generative art application that creates various brush effects using p5.js.
 - [Platane/Procedural-Flower](https://github.com/Platane/Procedural-Flower) - procedurally draw beautiful flowers
 - [LingDong-/nonflowers](https://github.com/LingDong-/nonflowers) - Procedurally generated paintings of nonexistent flowers.
@@ -327,6 +328,7 @@
 
 ## Python 
 
+- [krateng/maloja](https://github.com/krateng/maloja) - Self-hosted music scrobble database to create personal listening statistics and charts
 - [0x676e67/wreq-python](https://github.com/0x676e67/wreq-python) - An ergonomic, privacy-aware Python HTTP Client
 - [JohannesBuchner/imagehash](https://github.com/JohannesBuchner/imagehash) - A Python Perceptual Image Hashing Module
 - [aiogram/aiogram](https://github.com/aiogram/aiogram) - aiogram is a modern and fully asynchronous framework for Telegram Bot API written in Python using asyncio
@@ -358,7 +360,7 @@
 - [hydra-ecosystem/hydra](https://github.com/hydra-ecosystem/hydra) - Hydra is a framework for elegantly configuring complex applications
 - [MrNightFury/Microservices](https://github.com/MrNightFury/Microservices) - 
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
-- [emcie-co/parlant](https://github.com/emcie-co/parlant) - Parlant is an open platform for building customer-facing chat agents with AI. Describe how the agent should behave, and your coding agent implements it for you.
+- [emcie-co/parlant](https://github.com/emcie-co/parlant) - Parlant lets you build and operate reliable CX and support agents from your own AI coding agents.
 - [GerrySant/multimodalhugs](https://github.com/GerrySant/multimodalhugs) - MultimodalHugs is an extension of Hugging Face that offers a generalized framework for training, evaluating, and using multimodal AI models with minimal code differences, ensuring seamless compatibili
 - [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS) - Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
 - [canopyai/Orpheus-TTS](https://github.com/canopyai/Orpheus-TTS) - Towards Human-Sounding Speech
@@ -539,6 +541,7 @@
 
 ## Shell 
 
+- [kaitai-io/kaitai_struct](https://github.com/kaitai-io/kaitai_struct) - Kaitai Struct: declarative language to generate binary data parsers in C++ / C# / Go / Java / JavaScript / Lua / Nim / Perl / PHP / Python / Ruby / Rust
 - [omacom/omarchy](https://github.com/omacom/omarchy) - Beautiful, Modern & Opinionated Linux
 - [wolfi-dev/os](https://github.com/wolfi-dev/os) - Main package repository for production Wolfi images
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
@@ -569,6 +572,8 @@
 
 ## TypeScript 
 
+- [ad044/lainTSX](https://github.com/ad044/lainTSX) - WebGL implementation of the Serial Experiments Lain PSX game
+- [elysiajs/elysia](https://github.com/elysiajs/elysia) - Ergonomic Framework for Humans
 - [MrityunjayBhardwaj/Stave](https://github.com/MrityunjayBhardwaj/Stave) - Make a whole song in Strudel and shape it like a DAW: a Timeline, step grid, piano roll and Mixer that write back into your code, plus audio-reactive p5.js, Hydra and GLSL visuals. Runs in your browse
 - [getumbrel/umbrel](https://github.com/getumbrel/umbrel) - An elegant home server OS. Run AI agents, store your files, backup your photos, and do more with over 300 apps in the Umbrel App Store.
 - [MunMunMiao/headscale-ui](https://github.com/MunMunMiao/headscale-ui) - A Bun-powered Headscale web UI with profile management, multilingual support, and a friendly Vue control panel.

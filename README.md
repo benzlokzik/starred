@@ -417,7 +417,7 @@
 - [idandaniel/ballyregan](https://github.com/idandaniel/ballyregan) - Get working free proxies fast.
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
 - [experienced-dev/chatgpt-plugin-fastapi-langchain-chroma](https://github.com/experienced-dev/chatgpt-plugin-fastapi-langchain-chroma) - An Example Plugin for ChatGPT, Utilizing FastAPI, LangChain and Chroma
-- [alphasecio/langchain-examples](https://github.com/alphasecio/langchain-examples) - A collection of apps powered by the LangChain LLM framework.
+- [alphasecio/langchain-examples](https://github.com/alphasecio/langchain-examples) - A Streamlit app with four LangChain tools: web research agent, summaries, news digest and chat with docs. Uses OpenAI, pgvector and your choice of search API.
 - [metavoiceio/metavoice-src](https://github.com/metavoiceio/metavoice-src) - Foundational model for human-like, expressive TTS
 - [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) - Semantic cache for LLMs. Fully integrated with LangChain and llama_index.
 - [n3d1117/chatgpt-telegram-bot](https://github.com/n3d1117/chatgpt-telegram-bot) - 🤖 A Telegram bot that integrates with OpenAI's official ChatGPT APIs to provide answers, written in Python
@@ -546,7 +546,6 @@
 - [wolfi-dev/os](https://github.com/wolfi-dev/os) - Main package repository for production Wolfi images
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [Kolandone/Selector](https://github.com/Kolandone/Selector) - اسکنر آیپی و ساخت کانفیگ هیدیفای و v2ray کلونر لایسنس وارپ پلاس مدیریت ورکرهای کلودفلر
-- [holoiso-eol/holoiso](https://github.com/holoiso-eol/holoiso) - SteamOS 3 (Holo) archiso configuration
 - [apache/datafusion-ballista-python](https://github.com/apache/datafusion-ballista-python) - Apache Arrow Ballista Python bindings
 
 ## Svelte 
